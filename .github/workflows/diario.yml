@@ -1,0 +1,87 @@
+# Roda todo dia: detecta artistas novos no Spotify, busca shows na JamBase
+# e grava o resultado em state/ no próprio repositório.
+#
+# Segredos (Settings → Secrets and variables → Actions):
+#   JAMBASE_API_KEY     chave da JamBase
+#   SPOTIFY_TOKEN_JSON  conteúdo de data/spotify_token.json (gerado por `spotify-auth`)
+#   SECRETS_PAT         token do GitHub com permissão "Secrets: read and write"
+#                       neste repositório, para salvar o login renovado do Spotify
+
+name: Busca diária
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # 09:00 em Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: achashow-diario
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash   # com pipefail: um erro antes do `| tee` falha o passo
+
+env:
+  SPOTIFY_CLIENT_ID: 2511f0f4a0444c6f8bcf31f26cbfb315
+  PYTHONIOENCODING: utf-8
+
+jobs:
+  diario:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Restaura o login do Spotify
+        env:
+          TOKEN: ${{ secrets.SPOTIFY_TOKEN_JSON }}
+        run: |
+          mkdir -p data
+          printf '%s' "$TOKEN" > data/spotify_token.json
+
+      - name: Artistas novos
+        run: python artist_sync.py sync | tee -a "$GITHUB_STEP_SUMMARY"
+
+      # O Spotify pode trocar o refresh token a cada renovação; sem isto,
+      # a execução seguinte usaria um token que não vale mais.
+      - name: Salva o login renovado do Spotify
+        if: ${{ !cancelled() }}
+        env:
+          OLD: ${{ secrets.SPOTIFY_TOKEN_JSON }}
+          GH_TOKEN: ${{ secrets.SECRETS_PAT }}
+        run: |
+          old=$(printf '%s' "$OLD" | jq -r '.refresh_token // empty')
+          new=$(jq -r '.refresh_token // empty' data/spotify_token.json 2>/dev/null || true)
+          if [ -n "$new" ] && [ "$new" != "$old" ]; then
+            gh secret set SPOTIFY_TOKEN_JSON --repo "$GITHUB_REPOSITORY" < data/spotify_token.json
+            echo "Login do Spotify renovado e salvo."
+          else
+            echo "Login do Spotify sem mudança."
+          fi
+
+      - name: Shows
+        if: ${{ !cancelled() }}
+        env:
+          JAMBASE_API_KEY: ${{ secrets.JAMBASE_API_KEY }}
+        run: python shows.py check | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Grava o estado no repositório
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "achashow-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state
+          if git diff --cached --quiet; then
+            echo "Nada mudou."
+          else
+            git commit -m "Atualiza estado ($(date -u +%F))"
+            git push
+          fi
