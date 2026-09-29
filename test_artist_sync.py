@@ -322,10 +322,10 @@ class CliTest(TmpDirTest):
         state = {"baseline_done": True, "artists": {"toe": {"name": "toe", "ids": [], "reasons": [],
                                                             "first_seen": "2026-09-01", "muted": False}}}
         (self.dir / "artists.json").write_text(json.dumps(state))
-        self.assertEqual(a.main(["--data-dir", str(self.dir), "mute", "toe"]), 0)
+        self.assertEqual(a.main(["--state-dir", str(self.dir), "mute", "toe"]), 0)
         saved = json.loads((self.dir / "artists.json").read_text())
         self.assertTrue(saved["artists"]["toe"]["muted"])
-        self.assertEqual(a.main(["--data-dir", str(self.dir), "unmute", "nada"]), 1)
+        self.assertEqual(a.main(["--state-dir", str(self.dir), "unmute", "nada"]), 1)
 
 
 # ---------------------------------------------------------------------------

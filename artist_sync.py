@@ -33,7 +33,9 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 from pathlib import Path
 
 USER_AGENT = "achashow/0.1 (+https://github.com/bahcia-design/achashow)"
-DATA_DIR = Path(os.environ.get("ACHASHOW_DATA", Path(__file__).resolve().parent / "data"))
+ROOT = Path(__file__).resolve().parent
+DATA_DIR = Path(os.environ.get("ACHASHOW_DATA", ROOT / "data"))      # segredos locais (fora do git)
+STATE_DIR = Path(os.environ.get("ACHASHOW_STATE", ROOT / "state"))   # estado versionado no git
 
 MIN_PLAYS = 2
 PENDING_DAYS = 90             # reproduções soltas mais velhas que isso são esquecidas
@@ -375,7 +377,8 @@ def set_muted(state, name, muted):
 
 def main(argv=None):
     ap = argparse.ArgumentParser(description="Detecta artistas novos na sua escuta.")
-    ap.add_argument("--data-dir", default=str(DATA_DIR))
+    ap.add_argument("--data-dir", default=str(DATA_DIR), help="onde fica o token do Spotify")
+    ap.add_argument("--state-dir", default=str(STATE_DIR), help="onde fica a lista de artistas")
     sub = ap.add_subparsers(dest="cmd", required=True)
 
     p = sub.add_parser("spotify-auth", help="faz o login no Spotify")
@@ -395,7 +398,7 @@ def main(argv=None):
 
     args = ap.parse_args(argv)
     data_dir = Path(args.data_dir)
-    state_path = data_dir / "artists.json"
+    state_path = Path(args.state_dir) / "artists.json"
     state = load_json(state_path, {})
     http = Http()
 

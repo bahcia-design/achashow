@@ -1,0 +1,1824 @@
+{
+  "artists": {
+    "jão": {
+      "name": "Jão",
+      "ids": [
+        "spotify:59FrDXDVJz0EKqYg39dnT2"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "stray kids": {
+      "name": "Stray Kids",
+      "ids": [
+        "spotify:2dIgFjalVxs4ThymZ67YCE"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "good kid": {
+      "name": "Good Kid",
+      "ids": [
+        "spotify:38SKxCyfrmNWqWunb9wGHP"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "babymetal": {
+      "name": "BABYMETAL",
+      "ids": [
+        "spotify:630wzNP2OL7fl4Xl0GnMWq"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    ".........": {
+      "name": ".........",
+      "ids": [
+        "spotify:6pwR1E7p5tJacVqGv22CFs"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "akugetsu": {
+      "name": "AKUGETSU",
+      "ids": [
+        "spotify:5lMia1loNJEa8ofqQkKFAp"
+      ],
+      "reasons": [
+        "segue",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "chvrches": {
+      "name": "CHVRCHES",
+      "ids": [
+        "spotify:3CjlHNtplJyTf9npxaPl5w"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "sombr": {
+      "name": "sombr",
+      "ids": [
+        "spotify:4G9NDjRyZFDlJKMRL8hx3S"
+      ],
+      "reasons": [
+        "segue",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "mass of the fermenting dregs": {
+      "name": "MASS OF THE FERMENTING DREGS",
+      "ids": [
+        "spotify:14d5KCX9nprUcxnKIShrr1"
+      ],
+      "reasons": [
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "park byeong hoon": {
+      "name": "PARK BYEONG HOON",
+      "ids": [
+        "spotify:0qs2PuNODoOAKG4rIv9fB2"
+      ],
+      "reasons": [
+        "segue",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "fresno": {
+      "name": "Fresno",
+      "ids": [
+        "spotify:2sFXe6NbmT3k7Qy4N8fE7f"
+      ],
+      "reasons": [
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "jorge rivera-herrans": {
+      "name": "Jorge Rivera-Herrans",
+      "ids": [
+        "spotify:2kdmTOXncgNHSuYVMhdd5I"
+      ],
+      "reasons": [
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "muse": {
+      "name": "Muse",
+      "ids": [
+        "spotify:12Chz98pHFMPJEknJQMWvI"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "queens of the stone age": {
+      "name": "Queens of the Stone Age",
+      "ids": [
+        "spotify:4pejUc4iciQfgdX6OKulQn"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "polyphia": {
+      "name": "Polyphia",
+      "ids": [
+        "spotify:4vGrte8FDu062Ntj0RsPiZ"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "arcane": {
+      "name": "Arcane",
+      "ids": [
+        "spotify:57nPqD7z62gDdq37US9XJR"
+      ],
+      "reasons": [
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "the happy fits": {
+      "name": "The Happy Fits",
+      "ids": [
+        "spotify:73rPcaYEhBd0UuVZBqqyQJ"
+      ],
+      "reasons": [
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "my chemical romance": {
+      "name": "My Chemical Romance",
+      "ids": [
+        "spotify:7FBcuc1gsnv6Y1nwFtNRCb"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "xdinary heroes": {
+      "name": "Xdinary Heroes",
+      "ids": [
+        "spotify:1khChLj7REGqjM043PlYyn"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "twenty one pilots": {
+      "name": "Twenty One Pilots",
+      "ids": [
+        "spotify:3YQKmKGau1PzlVlkL1iodx"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "bl8m": {
+      "name": "BL8M",
+      "ids": [
+        "spotify:3oOA09qR93zgp61ALkHIJJ"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "paramore": {
+      "name": "Paramore",
+      "ids": [
+        "spotify:74XFHRwlV6OrjEM0A2NCMF"
+      ],
+      "reasons": [
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "foo fighters": {
+      "name": "Foo Fighters",
+      "ids": [
+        "spotify:7jy3rLJdDQY21OgRLCZ9sD"
+      ],
+      "reasons": [
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "florence road": {
+      "name": "Florence Road",
+      "ids": [
+        "spotify:0zzKEeF2bAVKrWeKc9CyJV"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "twin pumpkin": {
+      "name": "Twin Pumpkin",
+      "ids": [
+        "spotify:6eBzo4uEucc3vbdAmFS4BQ"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "woodz": {
+      "name": "WOODZ",
+      "ids": [
+        "spotify:6y9nlaoynxSvoTGY09Vdcy"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "rubyeye": {
+      "name": "Rubyeye",
+      "ids": [
+        "spotify:5mFBPisqWsuM2DaNRRKMNo"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "kings of leon": {
+      "name": "Kings of Leon",
+      "ids": [
+        "spotify:2qk9voo8llSGYcZ6xrBzKx"
+      ],
+      "reasons": [
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "deco*27": {
+      "name": "DECO*27",
+      "ids": [
+        "spotify:7kZTWx6cRLc0TSRPq1XBMP"
+      ],
+      "reasons": [
+        "segue",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "sawano hiroyuki": {
+      "name": "Sawano Hiroyuki",
+      "ids": [
+        "spotify:0Riv2KnFcLZA3JSVryRg4y"
+      ],
+      "reasons": [
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "tomorrow x together": {
+      "name": "TOMORROW X TOGETHER",
+      "ids": [
+        "spotify:0ghlgldX5Dd6720Q3qFyQB"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "ghost": {
+      "name": "Ghost",
+      "ids": [
+        "spotify:1Qp56T7n950O3EGMsSl81D"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "megadeth": {
+      "name": "Megadeth",
+      "ids": [
+        "spotify:1Yox196W7bzVNZI7RBaPnf"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "結束バンド": {
+      "name": "結束バンド",
+      "ids": [
+        "spotify:2nvl0N9GwyX69RRBMEZ4OD"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "greta van fleet": {
+      "name": "Greta Van Fleet",
+      "ids": [
+        "spotify:4NpFxQe2UvRCAjto3JqlSl"
+      ],
+      "reasons": [
+        "segue",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "imagine dragons": {
+      "name": "Imagine Dragons",
+      "ids": [
+        "spotify:53XhwfbYqKCa1cC15pYq2q"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "enhypen": {
+      "name": "ENHYPEN",
+      "ids": [
+        "spotify:5t5FqBwTcgKTaWmfEbwQY9"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "kinokoteikoku": {
+      "name": "Kinokoteikoku",
+      "ids": [
+        "spotify:61H9d7hbIfFNxJJQmIL9AJ"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "nirvana": {
+      "name": "Nirvana",
+      "ids": [
+        "spotify:6olE6TJLqED3rqDCT0FyPh"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "pierce the veil": {
+      "name": "Pierce The Veil",
+      "ids": [
+        "spotify:4iJLPqClelZOBCBifm8Fzv"
+      ],
+      "reasons": [
+        "top:long_term",
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "american football": {
+      "name": "American Football",
+      "ids": [
+        "spotify:5FwydyGVcsQllnM4xM6jw4"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "her last sight": {
+      "name": "Her Last Sight",
+      "ids": [
+        "spotify:1KbA9fRxHiOCFESxSaM29p"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "c!nah": {
+      "name": "C!naH",
+      "ids": [
+        "spotify:0vA45SriohIjcLXbwPhF2p"
+      ],
+      "reasons": [
+        "segue",
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "violet grohl": {
+      "name": "Violet Grohl",
+      "ids": [
+        "spotify:3PbVZAe3y6cQKBDdG2YASB"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "half•alive": {
+      "name": "half•alive",
+      "ids": [
+        "spotify:7sOR7gk6XUlGnxj3p9F54k"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "beachside talks": {
+      "name": "Beachside talks",
+      "ids": [
+        "spotify:5sp9TRLcb2ooWZG7XRY6c4"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "blume popo": {
+      "name": "Blume popo",
+      "ids": [
+        "spotify:04RNBUTa49gFIa0Kqc7UYQ"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "6fu;": {
+      "name": "6FU;",
+      "ids": [
+        "spotify:09lAeB3r5B5J5RyN68XiPt"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "ahub": {
+      "name": "AHUB",
+      "ids": [
+        "spotify:3PlNRhsKLFl3TFw5IJIGTs"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "plastic girl in closet": {
+      "name": "Plastic Girl In Closet",
+      "ids": [
+        "spotify:4s1vZEFHO3fbQiwxbKgFjm"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "ironmouse": {
+      "name": "Ironmouse",
+      "ids": [
+        "spotify:3rkwWB8rbBCNTrSvVUBa6C"
+      ],
+      "reasons": [
+        "segue",
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "inhaler": {
+      "name": "Inhaler",
+      "ids": [
+        "spotify:6lyMYewq2SuTFIXgiv7OxH"
+      ],
+      "reasons": [
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "ado": {
+      "name": "Ado",
+      "ids": [
+        "spotify:6mEQK9m2krja6X1cfsAjfl"
+      ],
+      "reasons": [
+        "top:long_term",
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "the strokes": {
+      "name": "The Strokes",
+      "ids": [
+        "spotify:0epOFNiUfyON9EYx7Tpr6V"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "bts": {
+      "name": "BTS",
+      "ids": [
+        "spotify:3Nrfpe0tUJi4K4DXYWgMUX"
+      ],
+      "reasons": [
+        "top:long_term",
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "bring me the horizon": {
+      "name": "Bring Me The Horizon",
+      "ids": [
+        "spotify:1Ffb6ejR6Fe5IamqA5oRUF"
+      ],
+      "reasons": [
+        "top:long_term",
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "dead fish": {
+      "name": "Dead Fish",
+      "ids": [
+        "spotify:7Lvg39k5XgXevGR767ikYI"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "sophism": {
+      "name": "Sophism",
+      "ids": [
+        "spotify:7D5yffi6QHUWIBCkVyQEUF"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "one ok rock": {
+      "name": "ONE OK ROCK",
+      "ids": [
+        "spotify:7k73EtZwoPs516ZxE72KsO"
+      ],
+      "reasons": [
+        "segue",
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "audioslave": {
+      "name": "Audioslave",
+      "ids": [
+        "spotify:2ziB7fzrXBoh1HUPS6sVFn"
+      ],
+      "reasons": [
+        "segue",
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "bad omens": {
+      "name": "Bad Omens",
+      "ids": [
+        "spotify:3Ri4H12KFyu98LMjSoij5V"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "linkin park": {
+      "name": "Linkin Park",
+      "ids": [
+        "spotify:6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "reasons": [
+        "top:long_term",
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "creed": {
+      "name": "Creed",
+      "ids": [
+        "spotify:43sZBwHjahUvgbx1WNIkIz"
+      ],
+      "reasons": [
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "the weeknd": {
+      "name": "The Weeknd",
+      "ids": [
+        "spotify:1Xyo4u8uXC1ZmMpatF05PJ"
+      ],
+      "reasons": [
+        "top:long_term",
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "deftones": {
+      "name": "Deftones",
+      "ids": [
+        "spotify:6Ghvu1VvMGScGpOUJBAHNH"
+      ],
+      "reasons": [
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "bad nerves": {
+      "name": "Bad Nerves",
+      "ids": [
+        "spotify:7IPyXY4ZHkuvQY1ny8TnMQ"
+      ],
+      "reasons": [
+        "top:long_term",
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "eve": {
+      "name": "Eve",
+      "ids": [
+        "spotify:58oPVy7oihAEXE0Ott6JOf"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term",
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "royal blood": {
+      "name": "Royal Blood",
+      "ids": [
+        "spotify:2S5hlvw4CMtMGswFtfdK15"
+      ],
+      "reasons": [
+        "segue",
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "angra": {
+      "name": "ANGRA",
+      "ids": [
+        "spotify:7IAXZaLTb6nkJr8RmVPn5y"
+      ],
+      "reasons": [
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "noso": {
+      "name": "NoSo",
+      "ids": [
+        "spotify:09Wl9YiRr5l1rChWktQD4o"
+      ],
+      "reasons": [
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "red hot chili peppers": {
+      "name": "Red Hot Chili Peppers",
+      "ids": [
+        "spotify:0L8ExT028jH3ddEcZwqJJ5"
+      ],
+      "reasons": [
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "arctic monkeys": {
+      "name": "Arctic Monkeys",
+      "ids": [
+        "spotify:7Ln80lUS6He07XvHI8qqHH"
+      ],
+      "reasons": [
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "seventeen": {
+      "name": "SEVENTEEN",
+      "ids": [
+        "spotify:7nqOGRxlXj7N2JYbgNEjYH"
+      ],
+      "reasons": [
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "supercombo": {
+      "name": "Supercombo",
+      "ids": [
+        "spotify:73HkjgziMO6I83vFOS8mo1"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "the pillows": {
+      "name": "the pillows",
+      "ids": [
+        "spotify:6ilYV5oF8whllOnm4VZlYR"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "djonga": {
+      "name": "Djonga",
+      "ids": [
+        "spotify:204IwDdaHE4ymGk9Kya2pY"
+      ],
+      "reasons": [
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "måneskin": {
+      "name": "Måneskin",
+      "ids": [
+        "spotify:0lAWpj5szCSwM4rUMHYmrr"
+      ],
+      "reasons": [
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "twice": {
+      "name": "TWICE",
+      "ids": [
+        "spotify:7n2Ycct7Beij7Dj7meI4X0"
+      ],
+      "reasons": [
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "queen": {
+      "name": "Queen",
+      "ids": [
+        "spotify:1dfeR4HaWDbWqFHLkxsg1d"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "van halen": {
+      "name": "Van Halen",
+      "ids": [
+        "spotify:2cnMpRsOVqtPMfq7YiFE6K"
+      ],
+      "reasons": [
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "gorillaz": {
+      "name": "Gorillaz",
+      "ids": [
+        "spotify:3AA28KZvwAUcZuOKwyblJQ"
+      ],
+      "reasons": [
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "the killers": {
+      "name": "The Killers",
+      "ids": [
+        "spotify:0C0XlULifJtAgn6ZNCW2eu"
+      ],
+      "reasons": [
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "day6": {
+      "name": "DAY6",
+      "ids": [
+        "spotify:5TnQc2N1iKlFjYD7CPGvFc"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "panic! at the disco": {
+      "name": "Panic! At The Disco",
+      "ids": [
+        "spotify:20JZFwl6HVl6yg8a4H3ZqK"
+      ],
+      "reasons": [
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "beabadoobee": {
+      "name": "beabadoobee",
+      "ids": [
+        "spotify:35l9BRT7MXmM8bv2WDQiyB"
+      ],
+      "reasons": [
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "lovejoy": {
+      "name": "Lovejoy",
+      "ids": [
+        "spotify:33tFkBLsl6f8TjKkV0uF0C"
+      ],
+      "reasons": [
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "john powell": {
+      "name": "John Powell",
+      "ids": [
+        "spotify:3EAHF3jdnHHdko5DBrhRUP"
+      ],
+      "reasons": [
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "falling in reverse": {
+      "name": "Falling In Reverse",
+      "ids": [
+        "spotify:2CmaKO2zEGJ1NWpS1yfVGz"
+      ],
+      "reasons": [
+        "segue",
+        "top:long_term"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "faouzia": {
+      "name": "Faouzia",
+      "ids": [
+        "spotify:5NhgsV7qPWHZqYEMKzbYvo"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "brendon b": {
+      "name": "brendon b",
+      "ids": [
+        "spotify:6hU7BmY0hzSFRIt3szp3B5"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "chappell roan": {
+      "name": "Chappell Roan",
+      "ids": [
+        "spotify:7GlBOeep6PqTfFi59PTUUN"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "teima": {
+      "name": "TEIMA",
+      "ids": [
+        "spotify:5zqwnON8sNeKv9jD7hICBu"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "ginger and the peppers": {
+      "name": "Ginger and the Peppers",
+      "ids": [
+        "spotify:0KoVNtPMo6FhHSHQO7NDLG"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "my dead girlfriend": {
+      "name": "my dead girlfriend",
+      "ids": [
+        "spotify:6PAbMbxHZaXPwtxwu0wcXG"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "han": {
+      "name": "HAN",
+      "ids": [
+        "spotify:46YvTuKiPBUu5KP9818J2F"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "lais blanco": {
+      "name": "Lais Blanco",
+      "ids": [
+        "spotify:4emez3HY5PVxL7X2WXXKqE"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "primus": {
+      "name": "Primus",
+      "ids": [
+        "spotify:64mPnRMMeudAet0E62ypkx"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "vivinos": {
+      "name": "VIVINOS",
+      "ids": [
+        "spotify:1mwcOmaJ7rR80alZAEli4L"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "the used": {
+      "name": "The Used",
+      "ids": [
+        "spotify:55VydwMyCuGcavwPuhutPL"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "sartre": {
+      "name": "Sartre",
+      "ids": [
+        "spotify:4aF8a2fvdL8pgBhofLCE7s"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "the hives": {
+      "name": "The Hives",
+      "ids": [
+        "spotify:4DToQR3aKrHQSSRzSz8Nzt"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "mree": {
+      "name": "Mree",
+      "ids": [
+        "spotify:3K8cGxW088HVyhFSGWJJcX"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "iu": {
+      "name": "IU",
+      "ids": [
+        "spotify:3HqSLMAZ3g3d5poNaI7GOU"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "the cranberries": {
+      "name": "The Cranberries",
+      "ids": [
+        "spotify:7t0rwkOPGlDPEhaOcVtOt9"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "natori": {
+      "name": "natori",
+      "ids": [
+        "spotify:6WmXWHmfBMhupyIs8MSqtu"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "damona": {
+      "name": "DAMONA",
+      "ids": [
+        "spotify:7465nr7hnjHt9YXICL2T8w"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "car seat headrest": {
+      "name": "Car Seat Headrest",
+      "ids": [
+        "spotify:5PbpKlxQE0Ktl5lcNABoFf"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "canacut": {
+      "name": "Canacut",
+      "ids": [
+        "spotify:3nsxYi2cG9RkEsSxVEXzW1"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "femingos": {
+      "name": "Femingos",
+      "ids": [
+        "spotify:0SoC8CsBvfnxjMTf5wSOrU"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "kingfishr": {
+      "name": "Kingfishr",
+      "ids": [
+        "spotify:6c2qQFq3xfxFJndX6wSe4f"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "demos": {
+      "name": "Demos",
+      "ids": [
+        "spotify:1F66rODUtLeNWqjMKXwzTG"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "yung lixo": {
+      "name": "YUNG LIXO",
+      "ids": [
+        "spotify:6ab8tnQvr8sXXIpSZCrbQs"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "platinum moon": {
+      "name": "Platinum Moon",
+      "ids": [
+        "spotify:3ToJJJlCaYBQp1NcG3Db0N"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "gabe quinn": {
+      "name": "Gabe Quinn",
+      "ids": [
+        "spotify:68onI3wsFY6YEaULH59PiE"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "pearl jam": {
+      "name": "Pearl Jam",
+      "ids": [
+        "spotify:1w5Kfo2jwwIPruYS2UWh56"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "nougat": {
+      "name": "NOUGAT",
+      "ids": [
+        "spotify:67WDTAIYSpsPUOjyuYPw0C"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "versailles": {
+      "name": "Versailles",
+      "ids": [
+        "spotify:3suWpKrodV4J0ozhubrmir"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "rabbitology": {
+      "name": "Rabbitology",
+      "ids": [
+        "spotify:5FHvHqIRjr9ePQ3B1kwoEO"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "bidesão": {
+      "name": "Bidesão",
+      "ids": [
+        "spotify:1gaApms5xEDFSE4P6XDbkK"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "~nois": {
+      "name": "~Nois",
+      "ids": [
+        "spotify:5ipspmvMwUfwaTF9ad1xUF"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "8loom": {
+      "name": "8LOOM",
+      "ids": [
+        "spotify:0EmfXhT2Bhc53cyK3hrZM5"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "lillikhy": {
+      "name": "LilliKhy",
+      "ids": [
+        "spotify:7aa8Rf3AqWiEGuk7AkrPHK"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "scatolove": {
+      "name": "Scatolove",
+      "ids": [
+        "spotify:0icMce3ZQU1HdA8gGHo5Rg"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "freddie mercury": {
+      "name": "Freddie Mercury",
+      "ids": [
+        "spotify:4M1FpEWs2PeYfJe7xxJfhH"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "omori": {
+      "name": "Omori",
+      "ids": [
+        "spotify:4DoTDDfW3gkeyb06XrIHlg"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "the crystal casino band": {
+      "name": "The Crystal Casino Band",
+      "ids": [
+        "spotify:1ZOITEwKW2JCm6HDS96hwF"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "friday pilots club": {
+      "name": "Friday Pilots Club",
+      "ids": [
+        "spotify:3PgEvPJKRuil74QPX8wtXY"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "royal deluxe": {
+      "name": "Royal Deluxe",
+      "ids": [
+        "spotify:54OEro9sWZ3mVfMdlz2CIt"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "roh tae hyun": {
+      "name": "ROH TAE HYUN",
+      "ids": [
+        "spotify:0e0xkZPYM9pfYSHvTz4HD6"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "krooked kings": {
+      "name": "Krooked Kings",
+      "ids": [
+        "spotify:6PbMwLmbus5mZl93tX1lXE"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "omar rudberg": {
+      "name": "Omar Rudberg",
+      "ids": [
+        "spotify:6uRXUjochRDA9d5Sq2tZZd"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "dpr ian": {
+      "name": "DPR IAN",
+      "ids": [
+        "spotify:2o8gT0fQmFxGNbowbdgeZe"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "sm6": {
+      "name": "SM6",
+      "ids": [
+        "spotify:1rzOFkcYZsYyDScnFtcHpg"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "the rose": {
+      "name": "The Rose",
+      "ids": [
+        "spotify:5na1LmEmK2VzNLje9snJYW"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "bella e o olmo da bruxa": {
+      "name": "Bella e o Olmo da Bruxa",
+      "ids": [
+        "spotify:62Tp9euxMx6wd0uyiZR4YM"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "shoji music": {
+      "name": "Shoji Music",
+      "ids": [
+        "spotify:4kCAJwdg9iFLp9GW4ogYlr"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "ichika nito": {
+      "name": "Ichika Nito",
+      "ids": [
+        "spotify:1v7B6ZWa7QRQS3knn3Jvf4"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "hachioji p": {
+      "name": "Hachioji P",
+      "ids": [
+        "spotify:4TtpMS8RsX8vW64WOivJrb"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "han seungwoo": {
+      "name": "Han Seungwoo",
+      "ids": [
+        "spotify:2RSsuFG2pkU9sGZ85UzFgl"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "drippin": {
+      "name": "DRIPPIN",
+      "ids": [
+        "spotify:5IVacR5tKgTu9HotcG8kkl"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "eunsang": {
+      "name": "EUNSANG",
+      "ids": [
+        "spotify:23oRZ1WSV1YCPk3Ra7ivzJ"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "mirae": {
+      "name": "MIRAE",
+      "ids": [
+        "spotify:3cI5n4TdsnqzKxYPkQLs4b"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "kim yo han": {
+      "name": "KIM YO HAN",
+      "ids": [
+        "spotify:49p6UP6XmVrB73XB2CSOVD"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "kim woo seok": {
+      "name": "KIM WOO SEOK",
+      "ids": [
+        "spotify:4k2MyP64uZ78mvjKd1Ciq2"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "h&d": {
+      "name": "H&D",
+      "ids": [
+        "spotify:7lHJGLY9oGWjH6j05BLnt7"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "bae173": {
+      "name": "BAE173",
+      "ids": [
+        "spotify:60315n11JElel8KhdHg8jM"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "victon": {
+      "name": "VICTON",
+      "ids": [
+        "spotify:0ziR2zN0NFcB4x1G3P8cW3"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "cravity": {
+      "name": "CRAVITY",
+      "ids": [
+        "spotify:6FkhUhUwSPl3mGB6mmE8wn"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "x1": {
+      "name": "X1",
+      "ids": [
+        "spotify:6C4irZ60X8G7UimMRQiCcg"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "bin": {
+      "name": "BIN",
+      "ids": [
+        "spotify:7sDDtZP2I0BT5GwatnM0gk"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "coldplay": {
+      "name": "Coldplay",
+      "ids": [
+        "spotify:4gzpq5DPGxSnKTe4SA8HAU"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "sou": {
+      "name": "Sou",
+      "ids": [
+        "spotify:04ZUR9nJSI7nr1ZrHKLGJ8"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    },
+    "kureiyuki's": {
+      "name": "KureiYuki's",
+      "ids": [
+        "spotify:3jL6qMsbG7tnDxHDDMhVBH"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
+    }
+  },
+  "pending": {
+    "toe": {
+      "name": "toe",
+      "plays": {
+        "2026-09-29T11:11:49.219Z": "2026-09-29"
+      }
+    },
+    "chris stapleton": {
+      "name": "Chris Stapleton",
+      "plays": {
+        "2026-09-29T00:53:09.965Z": "2026-09-29"
+      }
+    },
+    "yot club": {
+      "name": "Yot Club",
+      "plays": {
+        "2026-09-28T21:34:31.166Z": "2026-09-29"
+      }
+    },
+    "lady gaga": {
+      "name": "Lady Gaga",
+      "plays": {
+        "2026-09-28T20:48:19.635Z": "2026-09-29"
+      }
+    },
+    "palace": {
+      "name": "Palace",
+      "plays": {
+        "2026-09-28T20:45:05.856Z": "2026-09-29"
+      }
+    },
+    "ラックライフ": {
+      "name": "ラックライフ",
+      "plays": {
+        "2026-09-28T20:29:48.557Z": "2026-09-29"
+      }
+    }
+  },
+  "baseline_done": true
+}
