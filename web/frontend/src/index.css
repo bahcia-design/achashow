@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+/* Tokens do visual: troque aqui para mudar o clima do app inteiro. */
+@theme {
+  --font-display: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "DM Mono", ui-monospace, monospace;
+
+  --color-ink: #0e0c14;        /* fundo */
+  --color-panel: #17141f;      /* cartões */
+  --color-line: #2a2535;       /* bordas */
+  --color-mute: #8d86a0;       /* texto secundário */
+  --color-paper: #f4efe6;      /* texto principal */
+  --color-heat: #ff8a3d;       /* destaque (novo, botões) */
+  --color-glow: #ffcf6b;
+  --color-cool: #8fb8ff;
+}
+
+html, body { background: var(--color-ink); color: var(--color-paper); }
+body { font-family: var(--font-display); -webkit-font-smoothing: antialiased; }
+
+/* Recorte de ingresso nos cartões de show */
+.ticket { --notch: 10px; }
+.ticket::before, .ticket::after {
+  content: ""; position: absolute; left: 5.5rem; width: calc(var(--notch) * 2); height: calc(var(--notch) * 2);
+  border-radius: 999px; background: var(--color-ink); transform: translateX(-50%);
+}
+.ticket::before { top: calc(var(--notch) * -1); }
+.ticket::after { bottom: calc(var(--notch) * -1); }
+@media (max-width: 640px) { .ticket::before, .ticket::after { left: 4.5rem; } }
