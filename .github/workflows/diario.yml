@@ -73,6 +73,10 @@ jobs:
           JAMBASE_API_KEY: ${{ secrets.JAMBASE_API_KEY }}
         run: python shows.py check | tee -a "$GITHUB_STEP_SUMMARY"
 
+      - name: Notícias de show
+        if: ${{ !cancelled() }}
+        run: python news.py check | grep -v '^    https' | tee -a "$GITHUB_STEP_SUMMARY"
+
       - name: Grava o estado no repositório
         if: ${{ !cancelled() }}
         run: |
