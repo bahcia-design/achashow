@@ -1780,6 +1780,17 @@
       ],
       "first_seen": "2026-09-29",
       "muted": false
+    },
+    "a day to remember": {
+      "name": "A Day To Remember",
+      "ids": [
+        "spotify:4NiJW4q9ichVqL1aUsgGAN"
+      ],
+      "reasons": [
+        "3 reproduções"
+      ],
+      "first_seen": "2026-09-29",
+      "muted": false
     }
   },
   "pending": {

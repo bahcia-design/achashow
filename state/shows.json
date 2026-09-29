@@ -143,7 +143,132 @@
       "resolved_on": "2026-09-29",
       "last_checked": "2026-09-29"
     },
-    "bring me the horizon": {}
+    "bring me the horizon": {
+      "jambase_ids": [
+        "jambase:44978"
+      ],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "a day to remember": {
+      "jambase_ids": [
+        "jambase:44828"
+      ],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "bts": {
+      "jambase_ids": [
+        "jambase:4234658"
+      ],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "c!nah": {
+      "jambase_ids": [],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "canacut": {
+      "jambase_ids": [],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "car seat headrest": {
+      "jambase_ids": [
+        "jambase:544222"
+      ],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "chappell roan": {
+      "jambase_ids": [
+        "jambase:3856856"
+      ],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "chvrches": {
+      "jambase_ids": [
+        "jambase:290676"
+      ],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "coldplay": {
+      "jambase_ids": [
+        "jambase:222008"
+      ],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "cravity": {
+      "jambase_ids": [
+        "jambase:8686793"
+      ],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "creed": {
+      "jambase_ids": [
+        "jambase:265173"
+      ],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "damona": {
+      "jambase_ids": [
+        "jambase:5865921"
+      ],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "day6": {
+      "jambase_ids": [
+        "jambase:3449341"
+      ],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "dead fish": {
+      "jambase_ids": [
+        "jambase:4743435"
+      ],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "deco*27": {
+      "jambase_ids": [],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "deftones": {
+      "jambase_ids": [
+        "jambase:43867"
+      ],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "demos": {
+      "jambase_ids": [],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "djonga": {
+      "jambase_ids": [
+        "jambase:6021386"
+      ],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "dpr ian": {
+      "jambase_ids": [
+        "jambase:9313302"
+      ],
+      "resolved_on": "2026-09-29",
+      "last_checked": "2026-09-29"
+    },
+    "drippin": {}
   },
   "events": {
     "jambase:16947563": {
@@ -189,10 +314,65 @@
       "artist": "BABYMETAL",
       "artist_key": "babymetal",
       "first_seen": "2026-09-29"
+    },
+    "jambase:15977643": {
+      "date": "2026-10-28",
+      "name": "BTS at MorumBIS",
+      "venue": "MorumBIS",
+      "city": "São Paulo",
+      "url": "https://www.jambase.com/show/bts-morumbis-20261028",
+      "status": "scheduled",
+      "artist": "BTS",
+      "artist_key": "bts",
+      "first_seen": "2026-09-29"
+    },
+    "jambase:15977647": {
+      "date": "2026-10-30",
+      "name": "BTS at MorumBIS",
+      "venue": "MorumBIS",
+      "city": "São Paulo",
+      "url": "https://www.jambase.com/show/bts-morumbis-20261030",
+      "status": "scheduled",
+      "artist": "BTS",
+      "artist_key": "bts",
+      "first_seen": "2026-09-29"
+    },
+    "jambase:15977651": {
+      "date": "2026-10-31",
+      "name": "BTS at MorumBIS",
+      "venue": "MorumBIS",
+      "city": "São Paulo",
+      "url": "https://www.jambase.com/show/bts-morumbis-20261031",
+      "status": "scheduled",
+      "artist": "BTS",
+      "artist_key": "bts",
+      "first_seen": "2026-09-29"
+    },
+    "jambase:16928202": {
+      "date": "2026-11-21",
+      "name": "Bad Luv at Expo Center Norte",
+      "venue": "Expo Center Norte",
+      "city": "São Paulo",
+      "url": "https://www.jambase.com/show/bad-luv-expo-center-norte-20261121",
+      "status": "scheduled",
+      "artist": "Dead Fish",
+      "artist_key": "dead fish",
+      "first_seen": "2026-09-29"
+    },
+    "jambase:17020475": {
+      "date": "2026-10-30",
+      "name": "Rock the Mountain",
+      "venue": "Parque Municipal Prefeito Paulo Rattes",
+      "city": "Petrópolis",
+      "url": "https://www.jambase.com/festival/rock-the-mountain-2026",
+      "status": "scheduled",
+      "artist": "Djonga",
+      "artist_key": "djonga",
+      "first_seen": "2026-09-29"
     }
   },
   "usage": {
-    "2026-09": 29
+    "2026-09": 58
   },
   "last_run": "2026-09-29",
   "country": "BR"
