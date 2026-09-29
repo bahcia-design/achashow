@@ -178,16 +178,18 @@ teste ficou de fora → vale uma segunda fonte para casas pequenas do BR
 
 - Repositório: `git@github.com:bahcia-design/achashow.git` (privado),
   clonado em `C:\Users\barba\projetos\achashow`.
-- **Os arquivos `.py` da sessão do Cowork se perderam** (nunca vieram
-  para cá): `artist_sync.py`, `test_artist_sync.py` e
-  `jambase_coverage_test.py` precisam ser reescritos.
-- Python ainda não está instalado nesta máquina.
+- Os `.py` da sessão do Cowork se perderam e foram **reescritos** aqui
+  (29/set/2026): `artist_sync.py`, `jambase.py` (cliente JamBase por
+  `artistId`), `jambase_coverage_test.py` e `test_artist_sync.py`
+  (22 testes, todos passando: `python -m unittest`).
+- Python 3.13 instalado via winget em
+  `%LOCALAPPDATA%\Programs\Python\Python313\python.exe`.
 
 ## Checklist do que falta (versão reduzida)
 
 1. [x] Rodar o teste de cobertura da JamBase de verdade (ver resultado
    acima).
-0. [ ] Reescrever `artist_sync.py` + testes (perdidos) e instalar Python.
+0. [x] Reescrever `artist_sync.py` + testes (perdidos) e instalar Python.
 2. [ ] Rodar `artist_sync.py spotify-auth` com uma conta real e
    confirmar que artista novo é detectado no próximo `sync`.
 3. [ ] Escrever o adaptador que liga `artist_sync` (lista de artistas) →
