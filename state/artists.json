@@ -1791,15 +1791,64 @@
       ],
       "first_seen": "2026-09-29",
       "muted": false
+    },
+    "tears for fears": {
+      "name": "Tears For Fears",
+      "ids": [
+        "spotify:4bthk9UfsYUYdcFyqxmSUU"
+      ],
+      "reasons": [
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-30",
+      "muted": false
+    },
+    "taku iwasaki": {
+      "name": "Taku Iwasaki",
+      "ids": [
+        "spotify:4E0I7rDFoLnOLb76hcdJ0v"
+      ],
+      "reasons": [
+        "top:medium_term"
+      ],
+      "first_seen": "2026-09-30",
+      "muted": false
+    },
+    "julia wolf": {
+      "name": "Julia Wolf",
+      "ids": [
+        "spotify:5yvGiZLSWJTPBlZpVbPnEZ"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-09-30",
+      "muted": false
+    },
+    "kellin quinn": {
+      "name": "Kellin Quinn",
+      "ids": [
+        "spotify:3M9XAM57a4qFz3v6Lq27t2"
+      ],
+      "reasons": [
+        "3 reproduções"
+      ],
+      "first_seen": "2026-09-30",
+      "muted": false
+    },
+    "toe": {
+      "name": "toe",
+      "ids": [
+        "spotify:0rpKM0MniNkXM1SLSglYUZ"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-09-30",
+      "muted": false
     }
   },
   "pending": {
-    "toe": {
-      "name": "toe",
-      "plays": {
-        "2026-09-29T11:11:49.219Z": "2026-09-29"
-      }
-    },
     "chris stapleton": {
       "name": "Chris Stapleton",
       "plays": {
@@ -1828,6 +1877,150 @@
       "name": "ラックライフ",
       "plays": {
         "2026-09-28T20:29:48.557Z": "2026-09-29"
+      }
+    },
+    "jimin": {
+      "name": "Jimin",
+      "plays": {
+        "2026-09-30T17:18:17.848Z": "2026-09-30"
+      }
+    },
+    "depeche mode": {
+      "name": "Depeche Mode",
+      "plays": {
+        "2026-09-30T16:58:02.154Z": "2026-09-30"
+      }
+    },
+    "lucy rose": {
+      "name": "Lucy Rose",
+      "plays": {
+        "2026-09-30T16:52:43.376Z": "2026-09-30"
+      }
+    },
+    "rüfüs du sol": {
+      "name": "RÜFÜS DU SOL",
+      "plays": {
+        "2026-09-30T16:40:23.458Z": "2026-09-30"
+      }
+    },
+    "sleep token": {
+      "name": "Sleep Token",
+      "plays": {
+        "2026-09-30T16:16:31.549Z": "2026-09-30"
+      }
+    },
+    "jay joseph": {
+      "name": "Jay Joseph",
+      "plays": {
+        "2026-09-30T14:49:10.881Z": "2026-09-30"
+      }
+    },
+    "t-ara": {
+      "name": "T-ARA",
+      "plays": {
+        "2026-09-30T14:39:27.392Z": "2026-09-30"
+      }
+    },
+    "hozier": {
+      "name": "Hozier",
+      "plays": {
+        "2026-09-30T14:29:50.980Z": "2026-09-30"
+      }
+    },
+    "phoneboy": {
+      "name": "Phoneboy",
+      "plays": {
+        "2026-09-30T14:22:16.768Z": "2026-09-30"
+      }
+    },
+    "the driver era": {
+      "name": "THE DRIVER ERA",
+      "plays": {
+        "2026-09-30T14:18:44.978Z": "2026-09-30"
+      }
+    },
+    "mustard service": {
+      "name": "Mustard Service",
+      "plays": {
+        "2026-09-30T14:15:28.288Z": "2026-09-30"
+      }
+    },
+    "adéla": {
+      "name": "ADÉLA",
+      "plays": {
+        "2026-09-30T14:14:01.288Z": "2026-09-30"
+      }
+    },
+    "the offspring": {
+      "name": "The Offspring",
+      "plays": {
+        "2026-09-30T14:07:10.898Z": "2026-09-30"
+      }
+    },
+    "dove cameron": {
+      "name": "Dove Cameron",
+      "plays": {
+        "2026-09-30T14:03:47.769Z": "2026-09-30"
+      }
+    },
+    "saosin": {
+      "name": "Saosin",
+      "plays": {
+        "2026-09-30T13:58:09.868Z": "2026-09-30"
+      }
+    },
+    "loona": {
+      "name": "LOONA",
+      "plays": {
+        "2026-09-30T13:36:58.251Z": "2026-09-30"
+      }
+    },
+    "coin": {
+      "name": "COIN",
+      "plays": {
+        "2026-09-30T13:33:42.845Z": "2026-09-30"
+      }
+    },
+    "百景": {
+      "name": "百景",
+      "plays": {
+        "2026-09-30T13:30:10.853Z": "2026-09-30"
+      }
+    },
+    "fifty fifty": {
+      "name": "FIFTY FIFTY",
+      "plays": {
+        "2026-09-30T13:12:59.059Z": "2026-09-30"
+      }
+    },
+    "ricky montgomery": {
+      "name": "Ricky Montgomery",
+      "plays": {
+        "2026-09-30T13:10:04.951Z": "2026-09-30"
+      }
+    },
+    "maggie lindemann": {
+      "name": "Maggie Lindemann",
+      "plays": {
+        "2026-09-30T13:04:51.205Z": "2026-09-30"
+      }
+    },
+    "momma": {
+      "name": "Momma",
+      "plays": {
+        "2026-09-30T12:59:45.206Z": "2026-09-30"
+      }
+    },
+    "teen suicide": {
+      "name": "Teen Suicide",
+      "plays": {
+        "2026-09-30T12:56:05.434Z": "2026-09-30"
+      }
+    },
+    "the 8": {
+      "name": "THE 8",
+      "plays": {
+        "2026-09-30T01:49:13.858Z": "2026-09-30"
       }
     }
   },
