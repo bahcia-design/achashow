@@ -386,7 +386,146 @@
       "resolved_on": "2026-09-30",
       "last_checked": "2026-09-30"
     },
-    "h&d": {}
+    "h&d": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "hachioji p": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "half•alive": {
+      "jambase_ids": [
+        "jambase:4525423"
+      ],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "han": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "han seungwoo": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "her last sight": {
+      "jambase_ids": [
+        "jambase:14658787"
+      ],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "hozier": {
+      "jambase_ids": [
+        "jambase:52179"
+      ],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "ichika nito": {
+      "jambase_ids": [
+        "jambase:10171869"
+      ],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "imagine dragons": {
+      "jambase_ids": [
+        "jambase:48901"
+      ],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "inhaler": {
+      "jambase_ids": [
+        "jambase:4603678"
+      ],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "ironmouse": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "iu": {
+      "jambase_ids": [
+        "jambase:4746306"
+      ],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "john powell": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "jorge rivera-herrans": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "julia wolf": {
+      "jambase_ids": [
+        "jambase:8335423"
+      ],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "jão": {
+      "jambase_ids": [
+        "jambase:4693888"
+      ],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "kellin quinn": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "kim woo seok": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "kim yo han": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "kingfishr": {
+      "jambase_ids": [
+        "jambase:9362768"
+      ],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "kings of leon": {
+      "jambase_ids": [
+        "jambase:42161"
+      ],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "kinokoteikoku": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "krooked kings": {
+      "jambase_ids": [
+        "jambase:5077004"
+      ],
+      "resolved_on": "2026-10-01",
+      "last_checked": "2026-10-01"
+    },
+    "kureiyuki's": {}
   },
   "events": {
     "jambase:16947563": {
@@ -534,8 +673,9 @@
     }
   },
   "usage": {
-    "2026-09": 88
+    "2026-09": 88,
+    "2026-10": 29
   },
-  "last_run": "2026-09-30",
+  "last_run": "2026-10-01",
   "country": "BR"
 }
