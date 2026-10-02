@@ -525,7 +525,163 @@
       "resolved_on": "2026-10-01",
       "last_checked": "2026-10-01"
     },
-    "kureiyuki's": {}
+    "kureiyuki's": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "ariana grande": {
+      "jambase_ids": [
+        "jambase:51454"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "lais blanco": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "lillikhy": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "linkin park": {
+      "jambase_ids": [
+        "jambase:44555"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "lovejoy": {
+      "jambase_ids": [
+        "jambase:9241618"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "mass of the fermenting dregs": {
+      "jambase_ids": [
+        "jambase:8977178"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "megadeth": {
+      "jambase_ids": [
+        "jambase:242852"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "mirae": {
+      "jambase_ids": [
+        "jambase:10126517"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "mree": {
+      "jambase_ids": [
+        "jambase:4687354"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "muse": {
+      "jambase_ids": [
+        "jambase:234732"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "mustard service": {
+      "jambase_ids": [
+        "jambase:4698515"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "my chemical romance": {
+      "jambase_ids": [
+        "jambase:237291"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "my dead girlfriend": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "måneskin": {
+      "jambase_ids": [
+        "jambase:5520544"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "natori": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "nirvana": {
+      "jambase_ids": [
+        "jambase:244444"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "noso": {
+      "jambase_ids": [
+        "jambase:4393574"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "nougat": {
+      "jambase_ids": [
+        "jambase:13957589"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "omar rudberg": {
+      "jambase_ids": [
+        "jambase:11289166"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "omori": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "one ok rock": {
+      "jambase_ids": [
+        "jambase:53182"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "panic! at the disco": {
+      "jambase_ids": [
+        "jambase:43472"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "paramore": {
+      "jambase_ids": [
+        "jambase:243950"
+      ],
+      "resolved_on": "2026-10-02",
+      "last_checked": "2026-10-02"
+    },
+    "park byeong hoon": {}
   },
   "events": {
     "jambase:16947563": {
@@ -674,8 +830,8 @@
   },
   "usage": {
     "2026-09": 88,
-    "2026-10": 29
+    "2026-10": 58
   },
-  "last_run": "2026-10-01",
+  "last_run": "2026-10-02",
   "country": "BR"
 }

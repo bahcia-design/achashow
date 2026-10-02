@@ -1879,6 +1879,39 @@
       ],
       "first_seen": "2026-10-01",
       "muted": false
+    },
+    "mustard service": {
+      "name": "Mustard Service",
+      "ids": [
+        "spotify:7kAZYW5e5hQHYGQ0XHYhns"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-10-02",
+      "muted": false
+    },
+    "ラックライフ": {
+      "name": "ラックライフ",
+      "ids": [
+        "spotify:35AeYLIKrorZDAxsb40vVZ"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-02",
+      "muted": false
+    },
+    "ariana grande": {
+      "name": "Ariana Grande",
+      "ids": [
+        "spotify:66CXWjxzNUsdJxJ2JdwvnR"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-02",
+      "muted": false
     }
   },
   "pending": {
@@ -1904,12 +1937,6 @@
       "name": "Palace",
       "plays": {
         "2026-09-28T20:45:05.856Z": "2026-09-29"
-      }
-    },
-    "ラックライフ": {
-      "name": "ラックライフ",
-      "plays": {
-        "2026-09-28T20:29:48.557Z": "2026-09-29"
       }
     },
     "jimin": {
@@ -1958,12 +1985,6 @@
       "name": "THE DRIVER ERA",
       "plays": {
         "2026-09-30T14:18:44.978Z": "2026-09-30"
-      }
-    },
-    "mustard service": {
-      "name": "Mustard Service",
-      "plays": {
-        "2026-09-30T14:15:28.288Z": "2026-09-30"
       }
     },
     "adéla": {
@@ -2096,6 +2117,132 @@
       "name": "chouchou merged syrups.",
       "plays": {
         "2026-09-30T20:51:59.688Z": "2026-10-01"
+      }
+    },
+    "kenji": {
+      "name": "kenji",
+      "plays": {
+        "2026-10-02T17:05:02.731Z": "2026-10-02"
+      }
+    },
+    "francisco, el hombre": {
+      "name": "Francisco, el Hombre",
+      "plays": {
+        "2026-10-02T17:01:45.488Z": "2026-10-02"
+      }
+    },
+    "labaq": {
+      "name": "Labaq",
+      "plays": {
+        "2026-10-02T17:01:45.488Z": "2026-10-02"
+      }
+    },
+    "helena maria": {
+      "name": "Helena Maria",
+      "plays": {
+        "2026-10-02T17:01:45.488Z": "2026-10-02"
+      }
+    },
+    "salma jô": {
+      "name": "Salma Jô",
+      "plays": {
+        "2026-10-02T17:01:45.488Z": "2026-10-02"
+      }
+    },
+    "renata éssis": {
+      "name": "Renata Éssis",
+      "plays": {
+        "2026-10-02T17:01:45.488Z": "2026-10-02"
+      }
+    },
+    "miguel veloso": {
+      "name": "Miguel Veloso",
+      "plays": {
+        "2026-10-02T16:31:44.250Z": "2026-10-02"
+      }
+    },
+    "ayron alexander": {
+      "name": "Ayron Alexander",
+      "plays": {
+        "2026-10-02T16:31:44.250Z": "2026-10-02"
+      }
+    },
+    "cast of epic: the musical": {
+      "name": "Cast of EPIC: The Musical",
+      "plays": {
+        "2026-10-02T16:31:44.250Z": "2026-10-02"
+      }
+    },
+    "cafuné": {
+      "name": "Cafuné",
+      "plays": {
+        "2026-10-01T23:24:25.512Z": "2026-10-02"
+      }
+    },
+    "asian kung-fu generation": {
+      "name": "ASIAN KUNG-FU GENERATION",
+      "plays": {
+        "2026-10-01T21:35:01.063Z": "2026-10-02"
+      }
+    },
+    "sean magwire": {
+      "name": "Sean Magwire",
+      "plays": {
+        "2026-10-01T21:30:57.262Z": "2026-10-02"
+      }
+    },
+    "kokonoku": {
+      "name": "Kokonoku",
+      "plays": {
+        "2026-10-01T21:25:30.269Z": "2026-10-02"
+      }
+    },
+    "溶けない名前": {
+      "name": "溶けない名前",
+      "plays": {
+        "2026-10-01T21:20:38.764Z": "2026-10-02"
+      }
+    },
+    "girl in red": {
+      "name": "girl in red",
+      "plays": {
+        "2026-10-01T21:16:12.245Z": "2026-10-02"
+      }
+    },
+    "vedo": {
+      "name": "Vedo",
+      "plays": {
+        "2026-10-01T21:12:32.098Z": "2026-10-02"
+      }
+    },
+    "two door cinema club": {
+      "name": "Two Door Cinema Club",
+      "plays": {
+        "2026-10-01T20:51:34.758Z": "2026-10-02"
+      }
+    },
+    "robbie williams": {
+      "name": "Robbie Williams",
+      "plays": {
+        "2026-10-01T20:45:16.257Z": "2026-10-02"
+      }
+    },
+    "john michael howell": {
+      "name": "John Michael Howell",
+      "plays": {
+        "2026-10-01T20:34:16.461Z": "2026-10-02"
+      }
+    },
+    "shrimp": {
+      "name": "Shrimp",
+      "plays": {
+        "2026-10-01T20:32:06.128Z": "2026-10-02"
+      }
+    },
+    "tempesst": {
+      "name": "Tempesst",
+      "plays": {
+        "2026-10-01T20:24:37.059Z": "2026-10-02"
       }
     }
   },
