@@ -615,6 +615,14 @@
       "date": "2026-08-20",
       "artist": "Pearl Jam",
       "first_seen": "2026-10-02"
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdl85YmpTVmxBTkpQNGF1eXk5U3VrWkgyMEIyOEFRd19ISkllVnhZYW9IWEZXWVFBbXFDSmlWRjhuNVFETXN0aU9jZzlEeGwydGJoWGJOb2NpQ05MYTV6NmxETnY0QTd4N3drOFhRRmIyN2RJOTg5NUF4SkdwS0N1UUtJRVViV21QNUViWW93ZmtEX3VL?oc=5": {
+      "title": "Primavera Sound São Paulo anuncia que shows de The Strokes, Gorillaz, Lily Allen e outros serão exclusivos no Brasil em 2026",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdl85YmpTVmxBTkpQNGF1eXk5U3VrWkgyMEIyOEFRd19ISkllVnhZYW9IWEZXWVFBbXFDSmlWRjhuNVFETXN0aU9jZzlEeGwydGJoWGJOb2NpQ05MYTV6NmxETnY0QTd4N3drOFhRRmIyN2RJOTg5NUF4SkdwS0N1UUtJRVViV21QNUViWW93ZmtEX3VL?oc=5",
+      "source": "Os Garotos de Liverpool",
+      "date": "2026-10-02",
+      "artist": "The Strokes",
+      "first_seen": "2026-10-03"
     }
   },
   "last_alert": {
@@ -636,5 +644,5 @@
     "my chemical romance": "2026-09-30",
     "fresno": "2026-10-01"
   },
-  "last_run": "2026-10-02"
+  "last_run": "2026-10-03"
 }

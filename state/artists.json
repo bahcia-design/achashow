@@ -1912,6 +1912,39 @@
       ],
       "first_seen": "2026-10-02",
       "muted": false
+    },
+    "john michael howell": {
+      "name": "John Michael Howell",
+      "ids": [
+        "spotify:4BqK6JLgMwQ99hx85DxNhP"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-03",
+      "muted": false
+    },
+    "outkast": {
+      "name": "Outkast",
+      "ids": [
+        "spotify:1G9G7WwrXka3Z1r7aIDjI7"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-03",
+      "muted": false
+    },
+    "alice in chains": {
+      "name": "Alice In Chains",
+      "ids": [
+        "spotify:64tNsm6TnZe2zpcMVMOoHL"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-03",
+      "muted": false
     }
   },
   "pending": {
@@ -2227,12 +2260,6 @@
         "2026-10-01T20:45:16.257Z": "2026-10-02"
       }
     },
-    "john michael howell": {
-      "name": "John Michael Howell",
-      "plays": {
-        "2026-10-01T20:34:16.461Z": "2026-10-02"
-      }
-    },
     "shrimp": {
       "name": "Shrimp",
       "plays": {
@@ -2243,6 +2270,78 @@
       "name": "Tempesst",
       "plays": {
         "2026-10-01T20:24:37.059Z": "2026-10-02"
+      }
+    },
+    "winter aid": {
+      "name": "Winter Aid",
+      "plays": {
+        "2026-10-02T21:55:14.555Z": "2026-10-03"
+      }
+    },
+    "katseye": {
+      "name": "KATSEYE",
+      "plays": {
+        "2026-10-02T20:59:41.547Z": "2026-10-03"
+      }
+    },
+    "sabrina carpenter": {
+      "name": "Sabrina Carpenter",
+      "plays": {
+        "2026-10-02T20:56:23.859Z": "2026-10-03"
+      }
+    },
+    "azumi takahashi": {
+      "name": "Azumi Takahashi",
+      "plays": {
+        "2026-10-02T20:48:45.560Z": "2026-10-03"
+      }
+    },
+    "lotus juice": {
+      "name": "Lotus Juice",
+      "plays": {
+        "2026-10-02T20:48:45.560Z": "2026-10-03"
+      }
+    },
+    "アトラスサウンドチーム": {
+      "name": "アトラスサウンドチーム",
+      "plays": {
+        "2026-10-02T20:48:45.560Z": "2026-10-03"
+      }
+    },
+    "atlus game music": {
+      "name": "ATLUS GAME MUSIC",
+      "plays": {
+        "2026-10-02T20:48:45.560Z": "2026-10-03"
+      }
+    },
+    "plastic tree": {
+      "name": "Plastic Tree",
+      "plays": {
+        "2026-10-02T20:14:41.108Z": "2026-10-03"
+      }
+    },
+    "michael jackson": {
+      "name": "Michael Jackson",
+      "plays": {
+        "2026-10-02T19:45:14.650Z": "2026-10-03"
+      }
+    },
+    "mc hk da 7": {
+      "name": "MC HK DA 7",
+      "plays": {
+        "2026-10-02T19:04:59.776Z": "2026-10-03"
+      }
+    },
+    "dj hb smith": {
+      "name": "Dj Hb Smith",
+      "plays": {
+        "2026-10-02T19:04:59.776Z": "2026-10-03"
+      }
+    },
+    "sohits oficial": {
+      "name": "SOHITS OFICIAL",
+      "plays": {
+        "2026-10-02T19:04:59.776Z": "2026-10-03"
       }
     }
   },

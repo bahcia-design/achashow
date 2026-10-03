@@ -681,7 +681,147 @@
       "resolved_on": "2026-10-02",
       "last_checked": "2026-10-02"
     },
-    "park byeong hoon": {}
+    "park byeong hoon": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "alice in chains": {
+      "jambase_ids": [
+        "jambase:43823"
+      ],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "john michael howell": {
+      "jambase_ids": [
+        "jambase:11987457"
+      ],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "outkast": {
+      "jambase_ids": [
+        "jambase:222075"
+      ],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "pearl jam": {
+      "jambase_ids": [
+        "jambase:41886"
+      ],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "pierce the veil": {
+      "jambase_ids": [
+        "jambase:45073"
+      ],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "plastic girl in closet": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "platinum moon": {
+      "jambase_ids": [
+        "jambase:9002145"
+      ],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "polyphia": {
+      "jambase_ids": [
+        "jambase:52485"
+      ],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "primus": {
+      "jambase_ids": [
+        "jambase:41298"
+      ],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "queen": {
+      "jambase_ids": [
+        "jambase:233498"
+      ],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "queens of the stone age": {
+      "jambase_ids": [
+        "jambase:222072"
+      ],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "rabbitology": {
+      "jambase_ids": [
+        "jambase:12482880"
+      ],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "red hot chili peppers": {
+      "jambase_ids": [
+        "jambase:223029"
+      ],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "roh tae hyun": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "royal blood": {
+      "jambase_ids": [
+        "jambase:52334"
+      ],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "royal deluxe": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "rubyeye": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "sartre": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "sawano hiroyuki": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "scatolove": {
+      "jambase_ids": [
+        "jambase:9068172"
+      ],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "seventeen": {
+      "jambase_ids": [
+        "jambase:4290022"
+      ],
+      "resolved_on": "2026-10-03",
+      "last_checked": "2026-10-03"
+    },
+    "shoji music": {}
   },
   "events": {
     "jambase:16947563": {
@@ -693,17 +833,6 @@
       "status": "scheduled",
       "artist": "American Football",
       "artist_key": "american football",
-      "first_seen": "2026-09-29"
-    },
-    "jambase:16404113": {
-      "date": "2026-10-02",
-      "name": "Angra at Tokio Marine Hall",
-      "venue": "Tokio Marine Hall",
-      "city": "Sao Paulo",
-      "url": "https://www.jambase.com/show/angra-tokio-marine-hall-20261002",
-      "status": "scheduled",
-      "artist": "ANGRA",
-      "artist_key": "angra",
       "first_seen": "2026-09-29"
     },
     "jambase:16404116": {
@@ -830,8 +959,8 @@
   },
   "usage": {
     "2026-09": 88,
-    "2026-10": 58
+    "2026-10": 87
   },
-  "last_run": "2026-10-02",
+  "last_run": "2026-10-03",
   "country": "BR"
 }
