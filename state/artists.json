@@ -1945,6 +1945,17 @@
       ],
       "first_seen": "2026-10-03",
       "muted": false
+    },
+    "saosin": {
+      "name": "Saosin",
+      "ids": [
+        "spotify:1NUOfvAhA9AvsF1ISMkgHX"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-04",
+      "muted": false
     }
   },
   "pending": {
@@ -2036,12 +2047,6 @@
       "name": "Dove Cameron",
       "plays": {
         "2026-09-30T14:03:47.769Z": "2026-09-30"
-      }
-    },
-    "saosin": {
-      "name": "Saosin",
-      "plays": {
-        "2026-09-30T13:58:09.868Z": "2026-09-30"
       }
     },
     "loona": {

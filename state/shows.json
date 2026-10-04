@@ -821,7 +821,149 @@
       "resolved_on": "2026-10-03",
       "last_checked": "2026-10-03"
     },
-    "shoji music": {}
+    "shoji music": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "saosin": {
+      "jambase_ids": [
+        "jambase:244561"
+      ],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "sleep token": {
+      "jambase_ids": [
+        "jambase:3987208"
+      ],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "sm6": {
+      "jambase_ids": [
+        "jambase:7840716"
+      ],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "sombr": {
+      "jambase_ids": [
+        "jambase:11302648"
+      ],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "sophism": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "sou": {
+      "jambase_ids": [
+        "jambase:12545734"
+      ],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "stray kids": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "supercombo": {
+      "jambase_ids": [
+        "jambase:9068161"
+      ],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "taku iwasaki": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "taro umebayashi": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "tears for fears": {
+      "jambase_ids": [
+        "jambase:44815"
+      ],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "teima": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "the cranberries": {
+      "jambase_ids": [
+        "jambase:268353"
+      ],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "the crystal casino band": {
+      "jambase_ids": [
+        "jambase:8131643"
+      ],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "the happy fits": {
+      "jambase_ids": [
+        "jambase:4730589"
+      ],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "the hives": {
+      "jambase_ids": [
+        "jambase:230995"
+      ],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "the killers": {
+      "jambase_ids": [
+        "jambase:42746"
+      ],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "the pillows": {
+      "jambase_ids": [
+        "jambase:274861"
+      ],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "the rose": {
+      "jambase_ids": [
+        "jambase:3990328"
+      ],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "the strokes": {
+      "jambase_ids": [
+        "jambase:220448"
+      ],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "the used": {
+      "jambase_ids": [
+        "jambase:44285"
+      ],
+      "resolved_on": "2026-10-04",
+      "last_checked": "2026-10-04"
+    },
+    "the weeknd": {}
   },
   "events": {
     "jambase:16947563": {
@@ -833,17 +975,6 @@
       "status": "scheduled",
       "artist": "American Football",
       "artist_key": "american football",
-      "first_seen": "2026-09-29"
-    },
-    "jambase:16404116": {
-      "date": "2026-10-03",
-      "name": "Angra at Tokio Marine Hall",
-      "venue": "Tokio Marine Hall",
-      "city": "Sao Paulo",
-      "url": "https://www.jambase.com/show/angra-tokio-marine-hall-20261003",
-      "status": "scheduled",
-      "artist": "ANGRA",
-      "artist_key": "angra",
       "first_seen": "2026-09-29"
     },
     "jambase:15986231": {
@@ -934,17 +1065,6 @@
       "artist_key": "foo fighters",
       "first_seen": "2026-09-30"
     },
-    "jambase:16929156": {
-      "date": "2026-10-03",
-      "name": "CPM 22 at Juventus Live Hall",
-      "venue": "Juventus Live Hall",
-      "city": "São Paulo",
-      "url": "https://www.jambase.com/show/cpm-22-juventus-live-hall-20261003",
-      "status": "scheduled",
-      "artist": "Fresno",
-      "artist_key": "fresno",
-      "first_seen": "2026-09-30"
-    },
     "jambase:16349029": {
       "date": "2026-12-05",
       "name": "Primavera Sound Sao Paulo",
@@ -952,15 +1072,15 @@
       "city": "São Paulo",
       "url": "https://www.jambase.com/festival/primavera-sound-sao-paulo-2026",
       "status": "scheduled",
-      "artist": "Gorillaz",
-      "artist_key": "gorillaz",
+      "artist": "The Strokes",
+      "artist_key": "the strokes",
       "first_seen": "2026-09-30"
     }
   },
   "usage": {
     "2026-09": 88,
-    "2026-10": 87
+    "2026-10": 117
   },
-  "last_run": "2026-10-03",
+  "last_run": "2026-10-04",
   "country": "BR"
 }
