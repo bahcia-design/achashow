@@ -20,7 +20,7 @@
         "jambase:5552918"
       ],
       "resolved_on": "2026-09-29",
-      "last_checked": "2026-09-29"
+      "last_checked": "2026-10-06"
     },
     "ahub": {
       "jambase_ids": [],
@@ -37,21 +37,21 @@
         "jambase:52365"
       ],
       "resolved_on": "2026-09-29",
-      "last_checked": "2026-09-29"
+      "last_checked": "2026-10-06"
     },
     "angra": {
       "jambase_ids": [
         "jambase:48719"
       ],
       "resolved_on": "2026-09-29",
-      "last_checked": "2026-09-29"
+      "last_checked": "2026-10-06"
     },
     "arcane": {
       "jambase_ids": [
         "jambase:244134"
       ],
       "resolved_on": "2026-09-29",
-      "last_checked": "2026-09-29"
+      "last_checked": "2026-10-06"
     },
     "arctic monkeys": {
       "jambase_ids": [
@@ -155,7 +155,7 @@
         "jambase:44828"
       ],
       "resolved_on": "2026-09-29",
-      "last_checked": "2026-09-29"
+      "last_checked": "2026-10-06"
     },
     "bts": {
       "jambase_ids": [
@@ -963,7 +963,120 @@
       "resolved_on": "2026-10-04",
       "last_checked": "2026-10-04"
     },
-    "the weeknd": {}
+    "the weeknd": {
+      "jambase_ids": [
+        "jambase:49273"
+      ],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "toe": {
+      "jambase_ids": [
+        "jambase:51211"
+      ],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "tomorrow x together": {
+      "jambase_ids": [
+        "jambase:5513196"
+      ],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "twenty one pilots": {
+      "jambase_ids": [
+        "jambase:50143"
+      ],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "twice": {
+      "jambase_ids": [
+        "jambase:4083323"
+      ],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "twin pumpkin": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "van halen": {
+      "jambase_ids": [
+        "jambase:44452"
+      ],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "versailles": {
+      "jambase_ids": [
+        "jambase:8927789"
+      ],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "victon": {
+      "jambase_ids": [
+        "jambase:4700623"
+      ],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "violet grohl": {
+      "jambase_ids": [
+        "jambase:9667576"
+      ],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "vivinos": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "woodz": {
+      "jambase_ids": [
+        "jambase:5346748"
+      ],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "x1": {
+      "jambase_ids": [
+        "jambase:5854839"
+      ],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "xdinary heroes": {
+      "jambase_ids": [
+        "jambase:10523492"
+      ],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "yung lixo": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "~nois": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "ラックライフ": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    },
+    "結束バンド": {
+      "jambase_ids": [],
+      "resolved_on": "2026-10-06",
+      "last_checked": "2026-10-06"
+    }
   },
   "events": {
     "jambase:16947563": {
@@ -1079,8 +1192,8 @@
   },
   "usage": {
     "2026-09": 88,
-    "2026-10": 117
+    "2026-10": 147
   },
-  "last_run": "2026-10-04",
+  "last_run": "2026-10-06",
   "country": "BR"
 }
