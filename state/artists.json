@@ -1956,6 +1956,61 @@
       ],
       "first_seen": "2026-10-04",
       "muted": false
+    },
+    "split end": {
+      "name": "Split end",
+      "ids": [
+        "spotify:7HxOuo5CXeShZ03FzmtFKv"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-10-07",
+      "muted": false
+    },
+    "seventeen years old and berlin wall": {
+      "name": "Seventeen Years Old And Berlin Wall",
+      "ids": [
+        "spotify:00epidt1rfpJJKIfi7dSQJ"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-10-07",
+      "muted": false
+    },
+    "lady gaga": {
+      "name": "Lady Gaga",
+      "ids": [
+        "spotify:1HY2Jd0NmPuamShAr6KMms"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-07",
+      "muted": false
+    },
+    "sabrina carpenter": {
+      "name": "Sabrina Carpenter",
+      "ids": [
+        "spotify:74KM79TiuVKeVCqs8QtB0B"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-07",
+      "muted": false
+    },
+    "peu heise": {
+      "name": "Peu Heise",
+      "ids": [
+        "spotify:4Oem7hhYuxmPQr4sOrQbgS"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-07",
+      "muted": false
     }
   },
   "pending": {
@@ -1969,12 +2024,6 @@
       "name": "Yot Club",
       "plays": {
         "2026-09-28T21:34:31.166Z": "2026-09-29"
-      }
-    },
-    "lady gaga": {
-      "name": "Lady Gaga",
-      "plays": {
-        "2026-09-28T20:48:19.635Z": "2026-09-29"
       }
     },
     "palace": {
@@ -2289,12 +2338,6 @@
         "2026-10-02T20:59:41.547Z": "2026-10-03"
       }
     },
-    "sabrina carpenter": {
-      "name": "Sabrina Carpenter",
-      "plays": {
-        "2026-10-02T20:56:23.859Z": "2026-10-03"
-      }
-    },
     "azumi takahashi": {
       "name": "Azumi Takahashi",
       "plays": {
@@ -2347,6 +2390,120 @@
       "name": "SOHITS OFICIAL",
       "plays": {
         "2026-10-02T19:04:59.776Z": "2026-10-03"
+      }
+    },
+    "message to bears": {
+      "name": "Message To Bears",
+      "plays": {
+        "2026-10-07T18:13:30.473Z": "2026-10-07"
+      }
+    },
+    "onerepublic": {
+      "name": "OneRepublic",
+      "plays": {
+        "2026-10-07T18:09:34.762Z": "2026-10-07"
+      }
+    },
+    "the neighbourhood": {
+      "name": "The Neighbourhood",
+      "plays": {
+        "2026-10-07T17:58:19.661Z": "2026-10-07"
+      }
+    },
+    "rammstein": {
+      "name": "Rammstein",
+      "plays": {
+        "2026-10-07T17:49:44.766Z": "2026-10-07"
+      }
+    },
+    "justin bieber": {
+      "name": "Justin Bieber",
+      "plays": {
+        "2026-10-06T23:50:23.936Z": "2026-10-07"
+      }
+    },
+    "nicki minaj": {
+      "name": "Nicki Minaj",
+      "plays": {
+        "2026-10-06T23:50:23.936Z": "2026-10-07"
+      }
+    },
+    "aespa": {
+      "name": "aespa",
+      "plays": {
+        "2026-10-06T23:44:40.522Z": "2026-10-07"
+      }
+    },
+    "jung kook": {
+      "name": "Jung Kook",
+      "plays": {
+        "2026-10-06T23:41:05.119Z": "2026-10-07"
+      }
+    },
+    "jack harlow": {
+      "name": "Jack Harlow",
+      "plays": {
+        "2026-10-06T23:41:05.119Z": "2026-10-07"
+      }
+    },
+    "jennie": {
+      "name": "JENNIE",
+      "plays": {
+        "2026-10-06T23:34:13.287Z": "2026-10-07"
+      }
+    },
+    "lily-rose depp": {
+      "name": "Lily-Rose Depp",
+      "plays": {
+        "2026-10-06T23:34:13.287Z": "2026-10-07"
+      }
+    },
+    "colby o'donis": {
+      "name": "Colby O'Donis",
+      "plays": {
+        "2026-10-06T23:30:08.062Z": "2026-10-07"
+      }
+    },
+    "taylor swift": {
+      "name": "Taylor Swift",
+      "plays": {
+        "2026-10-06T23:26:05.629Z": "2026-10-07"
+      }
+    },
+    "pinkpantheress": {
+      "name": "PinkPantheress",
+      "plays": {
+        "2026-10-06T23:22:13.986Z": "2026-10-07"
+      }
+    },
+    "zara larsson": {
+      "name": "Zara Larsson",
+      "plays": {
+        "2026-10-06T23:22:13.986Z": "2026-10-07"
+      }
+    },
+    "one direction": {
+      "name": "One Direction",
+      "plays": {
+        "2026-10-06T23:12:03.427Z": "2026-10-07"
+      }
+    },
+    "blackpink": {
+      "name": "BLACKPINK",
+      "plays": {
+        "2026-10-06T23:08:14.784Z": "2026-10-07"
+      }
+    },
+    "daryl hall & john oates": {
+      "name": "Daryl Hall & John Oates",
+      "plays": {
+        "2026-10-06T17:28:52.167Z": "2026-10-07"
+      }
+    },
+    "tokio hotel": {
+      "name": "Tokio Hotel",
+      "plays": {
+        "2026-10-06T17:00:35.827Z": "2026-10-07"
       }
     }
   },
