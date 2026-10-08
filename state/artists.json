@@ -2011,6 +2011,72 @@
       ],
       "first_seen": "2026-10-07",
       "muted": false
+    },
+    "cast of epic: the musical": {
+      "name": "Cast of EPIC: The Musical",
+      "ids": [
+        "spotify:1gV480zBnPy4ktKHfHKxZ5"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-08",
+      "muted": false
+    },
+    "shirobeats": {
+      "name": "shirobeats",
+      "ids": [
+        "spotify:6ikl2mKOYsek2fUhMj2CTW"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-08",
+      "muted": false
+    },
+    "halacg": {
+      "name": "HalaCG",
+      "ids": [
+        "spotify:0Tbadays3Z2K3BxmvjL34J"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-08",
+      "muted": false
+    },
+    "kensuke ushio": {
+      "name": "kensuke ushio",
+      "ids": [
+        "spotify:4L0gz16xuM1as1OgYzh1SR"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-08",
+      "muted": false
+    },
+    "robbie williams": {
+      "name": "Robbie Williams",
+      "ids": [
+        "spotify:2HcwFjNelS49kFbfvMxQYw"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-08",
+      "muted": false
+    },
+    "soundgarden": {
+      "name": "Soundgarden",
+      "ids": [
+        "spotify:5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-08",
+      "muted": false
     }
   },
   "pending": {
@@ -2254,12 +2320,6 @@
         "2026-10-02T16:31:44.250Z": "2026-10-02"
       }
     },
-    "cast of epic: the musical": {
-      "name": "Cast of EPIC: The Musical",
-      "plays": {
-        "2026-10-02T16:31:44.250Z": "2026-10-02"
-      }
-    },
     "cafuné": {
       "name": "Cafuné",
       "plays": {
@@ -2306,12 +2366,6 @@
       "name": "Two Door Cinema Club",
       "plays": {
         "2026-10-01T20:51:34.758Z": "2026-10-02"
-      }
-    },
-    "robbie williams": {
-      "name": "Robbie Williams",
-      "plays": {
-        "2026-10-01T20:45:16.257Z": "2026-10-02"
       }
     },
     "shrimp": {
@@ -2504,6 +2558,138 @@
       "name": "Tokio Hotel",
       "plays": {
         "2026-10-06T17:00:35.827Z": "2026-10-07"
+      }
+    },
+    "last alliance": {
+      "name": "LAST ALLIANCE",
+      "plays": {
+        "2026-10-08T18:33:24.384Z": "2026-10-08"
+      }
+    },
+    "bubi": {
+      "name": "Bubi",
+      "plays": {
+        "2026-10-08T18:29:43.633Z": "2026-10-08"
+      }
+    },
+    "band-maid": {
+      "name": "BAND-MAID",
+      "plays": {
+        "2026-10-08T18:16:52.674Z": "2026-10-08"
+      }
+    },
+    "laurence manning": {
+      "name": "Laurence Manning",
+      "plays": {
+        "2026-10-08T18:12:16.495Z": "2026-10-08"
+      }
+    },
+    "u2": {
+      "name": "U2",
+      "plays": {
+        "2026-10-08T15:58:35.679Z": "2026-10-08"
+      }
+    },
+    "the black keys": {
+      "name": "The Black Keys",
+      "plays": {
+        "2026-10-08T15:46:36.011Z": "2026-10-08"
+      }
+    },
+    "the smiths": {
+      "name": "The Smiths",
+      "plays": {
+        "2026-10-08T15:42:24.106Z": "2026-10-08"
+      }
+    },
+    "fuller": {
+      "name": "Fuller",
+      "plays": {
+        "2026-10-08T15:29:01.080Z": "2026-10-08"
+      }
+    },
+    "sales": {
+      "name": "SALES",
+      "plays": {
+        "2026-10-08T14:43:11.072Z": "2026-10-08"
+      }
+    },
+    "giga": {
+      "name": "Giga",
+      "plays": {
+        "2026-10-08T14:40:11.477Z": "2026-10-08"
+      }
+    },
+    "hatsune miku": {
+      "name": "Hatsune Miku",
+      "plays": {
+        "2026-10-08T14:40:11.477Z": "2026-10-08"
+      }
+    },
+    "kagamine rin": {
+      "name": "Kagamine Rin",
+      "plays": {
+        "2026-10-08T14:40:11.477Z": "2026-10-08"
+      }
+    },
+    "green day": {
+      "name": "Green Day",
+      "plays": {
+        "2026-10-08T14:23:46.837Z": "2026-10-08"
+      }
+    },
+    "skank": {
+      "name": "Skank",
+      "plays": {
+        "2026-10-07T20:34:33.742Z": "2026-10-08"
+      }
+    },
+    "クレナズム": {
+      "name": "クレナズム",
+      "plays": {
+        "2026-10-07T20:20:32.039Z": "2026-10-08"
+      }
+    },
+    "kevin penkin": {
+      "name": "Kevin Penkin",
+      "plays": {
+        "2026-10-07T20:07:33.743Z": "2026-10-08"
+      }
+    },
+    "mary middlefield": {
+      "name": "Mary Middlefield",
+      "plays": {
+        "2026-10-07T20:05:54.055Z": "2026-10-08"
+      }
+    },
+    "blink-182": {
+      "name": "blink-182",
+      "plays": {
+        "2026-10-07T20:00:50.645Z": "2026-10-08"
+      }
+    },
+    "madonna": {
+      "name": "Madonna",
+      "plays": {
+        "2026-10-07T19:57:22.019Z": "2026-10-08"
+      }
+    },
+    "mada mitakoto no nai sekai": {
+      "name": "Mada Mitakoto No Nai Sekai",
+      "plays": {
+        "2026-10-07T19:53:18.847Z": "2026-10-08"
+      }
+    },
+    "guns n' roses": {
+      "name": "Guns N' Roses",
+      "plays": {
+        "2026-10-07T19:48:45.310Z": "2026-10-08"
+      }
+    },
+    "patrick watson": {
+      "name": "Patrick Watson",
+      "plays": {
+        "2026-10-07T19:36:18.440Z": "2026-10-08"
       }
     }
   },
