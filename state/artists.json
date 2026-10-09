@@ -2077,6 +2077,50 @@
       ],
       "first_seen": "2026-10-08",
       "muted": false
+    },
+    "the black keys": {
+      "name": "The Black Keys",
+      "ids": [
+        "spotify:7mnBLXK823vNxN3UWB7Gfz"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-10-09",
+      "muted": false
+    },
+    "justin bieber": {
+      "name": "Justin Bieber",
+      "ids": [
+        "spotify:1uNFoZAHBGtllmzznpCI3s"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-09",
+      "muted": false
+    },
+    "nicki minaj": {
+      "name": "Nicki Minaj",
+      "ids": [
+        "spotify:0hCNtLu0JehylgoiP8L4Gh"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-09",
+      "muted": false
+    },
+    "citizen": {
+      "name": "Citizen",
+      "ids": [
+        "spotify:6Bp6tELZjPJxxvPii0BkIh"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-09",
+      "muted": false
     }
   },
   "pending": {
@@ -2470,18 +2514,6 @@
         "2026-10-07T17:49:44.766Z": "2026-10-07"
       }
     },
-    "justin bieber": {
-      "name": "Justin Bieber",
-      "plays": {
-        "2026-10-06T23:50:23.936Z": "2026-10-07"
-      }
-    },
-    "nicki minaj": {
-      "name": "Nicki Minaj",
-      "plays": {
-        "2026-10-06T23:50:23.936Z": "2026-10-07"
-      }
-    },
     "aespa": {
       "name": "aespa",
       "plays": {
@@ -2590,12 +2622,6 @@
         "2026-10-08T15:58:35.679Z": "2026-10-08"
       }
     },
-    "the black keys": {
-      "name": "The Black Keys",
-      "plays": {
-        "2026-10-08T15:46:36.011Z": "2026-10-08"
-      }
-    },
     "the smiths": {
       "name": "The Smiths",
       "plays": {
@@ -2690,6 +2716,78 @@
       "name": "Patrick Watson",
       "plays": {
         "2026-10-07T19:36:18.440Z": "2026-10-08"
+      }
+    },
+    "xg": {
+      "name": "XG",
+      "plays": {
+        "2026-10-09T17:44:05.294Z": "2026-10-09"
+      }
+    },
+    "edu falaschi": {
+      "name": "Edu Falaschi",
+      "plays": {
+        "2026-10-09T17:40:53.307Z": "2026-10-09"
+      }
+    },
+    "mili": {
+      "name": "Mili",
+      "plays": {
+        "2026-10-09T17:37:22.976Z": "2026-10-09"
+      }
+    },
+    "stromae": {
+      "name": "Stromae",
+      "plays": {
+        "2026-10-09T17:33:28.407Z": "2026-10-09"
+      }
+    },
+    "pomme": {
+      "name": "Pomme",
+      "plays": {
+        "2026-10-09T17:33:28.407Z": "2026-10-09"
+      }
+    },
+    "caifanes": {
+      "name": "Caifanes",
+      "plays": {
+        "2026-10-09T14:18:24.355Z": "2026-10-09"
+      }
+    },
+    "three days grace": {
+      "name": "Three Days Grace",
+      "plays": {
+        "2026-10-09T13:03:46.858Z": "2026-10-09"
+      }
+    },
+    "colde": {
+      "name": "Colde",
+      "plays": {
+        "2026-10-08T22:37:31.226Z": "2026-10-09"
+      }
+    },
+    "crush": {
+      "name": "Crush",
+      "plays": {
+        "2026-10-08T22:37:31.226Z": "2026-10-09"
+      }
+    },
+    "dutch melrose": {
+      "name": "Dutch Melrose",
+      "plays": {
+        "2026-10-08T21:04:43.314Z": "2026-10-09"
+      }
+    },
+    "caleb bryant": {
+      "name": "Caleb Bryant",
+      "plays": {
+        "2026-10-08T20:46:40.808Z": "2026-10-09"
+      }
+    },
+    "zvc": {
+      "name": "ZVC",
+      "plays": {
+        "2026-10-08T20:44:28.299Z": "2026-10-09"
       }
     }
   },
