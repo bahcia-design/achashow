@@ -2121,6 +2121,94 @@
       ],
       "first_seen": "2026-10-09",
       "muted": false
+    },
+    "harry styles": {
+      "name": "Harry Styles",
+      "ids": [
+        "spotify:6KImCVD70vtIoJWnq6nGn3"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-10-10",
+      "muted": false
+    },
+    "anais vacariu": {
+      "name": "Anais Vacariu",
+      "ids": [
+        "spotify:26dnIQMSX6CYmq6fCzzMfy"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-10-10",
+      "muted": false
+    },
+    "hayley williams": {
+      "name": "Hayley Williams",
+      "ids": [
+        "spotify:6Rx1JKzBrSzoKQtmbVmBnM"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-10-10",
+      "muted": false
+    },
+    "jung kook": {
+      "name": "Jung Kook",
+      "ids": [
+        "spotify:6HaGTQPmzraVmaVxvz6EUc"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-10",
+      "muted": false
+    },
+    "amy winehouse": {
+      "name": "Amy Winehouse",
+      "ids": [
+        "spotify:6Q192DXotxtaysaqNPy5yR"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-10",
+      "muted": false
+    },
+    "ariyou": {
+      "name": "Ariyou",
+      "ids": [
+        "spotify:7MXv01ibmL2cAmanbOi5It"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-10",
+      "muted": false
+    },
+    "重音テト": {
+      "name": "重音テト",
+      "ids": [
+        "spotify:6I2CuDkrOqkniRA1lCuqMS"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-10",
+      "muted": false
+    },
+    "phoneboy": {
+      "name": "Phoneboy",
+      "ids": [
+        "spotify:5vh3TBzvI4nASt2A1KfgcR"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-10",
+      "muted": false
     }
   },
   "pending": {
@@ -2176,12 +2264,6 @@
       "name": "T-ARA",
       "plays": {
         "2026-09-30T14:39:27.392Z": "2026-09-30"
-      }
-    },
-    "phoneboy": {
-      "name": "Phoneboy",
-      "plays": {
-        "2026-09-30T14:22:16.768Z": "2026-09-30"
       }
     },
     "the driver era": {
@@ -2296,18 +2378,6 @@
       "name": "Megami33",
       "plays": {
         "2026-09-30T23:00:00.324Z": "2026-10-01"
-      }
-    },
-    "ariyou": {
-      "name": "Ariyou",
-      "plays": {
-        "2026-09-30T20:55:04.453Z": "2026-10-01"
-      }
-    },
-    "重音テト": {
-      "name": "重音テト",
-      "plays": {
-        "2026-09-30T20:55:04.453Z": "2026-10-01"
       }
     },
     "chouchou merged syrups.": {
@@ -2518,12 +2588,6 @@
       "name": "aespa",
       "plays": {
         "2026-10-06T23:44:40.522Z": "2026-10-07"
-      }
-    },
-    "jung kook": {
-      "name": "Jung Kook",
-      "plays": {
-        "2026-10-06T23:41:05.119Z": "2026-10-07"
       }
     },
     "jack harlow": {
@@ -2788,6 +2852,138 @@
       "name": "ZVC",
       "plays": {
         "2026-10-08T20:44:28.299Z": "2026-10-09"
+      }
+    },
+    "mekaloton": {
+      "name": "mekaloton",
+      "plays": {
+        "2026-10-10T06:46:46.064Z": "2026-10-10"
+      }
+    },
+    "awfultune": {
+      "name": "awfultune",
+      "plays": {
+        "2026-10-10T06:24:29.474Z": "2026-10-10"
+      }
+    },
+    "journey": {
+      "name": "Journey",
+      "plays": {
+        "2026-10-10T06:15:45.158Z": "2026-10-10"
+      }
+    },
+    "rival sons": {
+      "name": "Rival Sons",
+      "plays": {
+        "2026-10-10T05:53:56.701Z": "2026-10-10"
+      }
+    },
+    "eric nam": {
+      "name": "Eric Nam",
+      "plays": {
+        "2026-10-10T05:43:21.316Z": "2026-10-10"
+      }
+    },
+    "bradio": {
+      "name": "BRADIO",
+      "plays": {
+        "2026-10-10T05:36:55.386Z": "2026-10-10"
+      }
+    },
+    "spiritbox": {
+      "name": "Spiritbox",
+      "plays": {
+        "2026-10-10T05:21:55.649Z": "2026-10-10"
+      }
+    },
+    "foals": {
+      "name": "Foals",
+      "plays": {
+        "2026-10-10T05:13:05.762Z": "2026-10-10"
+      }
+    },
+    "jamie paige": {
+      "name": "Jamie Paige",
+      "plays": {
+        "2026-10-10T05:04:48.468Z": "2026-10-10"
+      }
+    },
+    "newjeans": {
+      "name": "NewJeans",
+      "plays": {
+        "2026-10-10T04:57:45.064Z": "2026-10-10"
+      }
+    },
+    "benson boone": {
+      "name": "Benson Boone",
+      "plays": {
+        "2026-10-10T04:30:41.279Z": "2026-10-10"
+      }
+    },
+    "flammy": {
+      "name": "Flammy",
+      "plays": {
+        "2026-10-10T04:26:53.492Z": "2026-10-10"
+      }
+    },
+    "anri": {
+      "name": "Anri",
+      "plays": {
+        "2026-10-10T04:24:09.245Z": "2026-10-10"
+      }
+    },
+    "yena": {
+      "name": "YENA",
+      "plays": {
+        "2026-10-10T04:13:05.725Z": "2026-10-10"
+      }
+    },
+    "mico": {
+      "name": "MICO",
+      "plays": {
+        "2026-10-10T04:00:15.165Z": "2026-10-10"
+      }
+    },
+    "coastal club": {
+      "name": "Coastal Club",
+      "plays": {
+        "2026-10-10T03:57:30.907Z": "2026-10-10"
+      }
+    },
+    "never ending fall": {
+      "name": "Never Ending Fall",
+      "plays": {
+        "2026-10-10T03:44:09.244Z": "2026-10-10"
+      }
+    },
+    "karmin": {
+      "name": "Karmin",
+      "plays": {
+        "2026-10-10T03:40:57.979Z": "2026-10-10"
+      }
+    },
+    "dua lipa": {
+      "name": "Dua Lipa",
+      "plays": {
+        "2026-10-10T03:33:25.784Z": "2026-10-10"
+      }
+    },
+    "talya sindel": {
+      "name": "Talya Sindel",
+      "plays": {
+        "2026-10-10T03:26:21.007Z": "2026-10-10"
+      }
+    },
+    "justin timberlake": {
+      "name": "Justin Timberlake",
+      "plays": {
+        "2026-10-10T03:18:40.602Z": "2026-10-10"
+      }
+    },
+    "defyer": {
+      "name": "defyer",
+      "plays": {
+        "2026-10-10T03:14:12.977Z": "2026-10-10"
       }
     }
   },
