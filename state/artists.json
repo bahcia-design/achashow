@@ -2209,6 +2209,28 @@
       ],
       "first_seen": "2026-10-10",
       "muted": false
+    },
+    "don omar": {
+      "name": "Don Omar",
+      "ids": [
+        "spotify:33ScadVnbm2X8kkUqOkC6Z"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-12",
+      "muted": false
+    },
+    "lucenzo": {
+      "name": "Lucenzo",
+      "ids": [
+        "spotify:5bv5RplEOwdCvhq0EILh9E"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-12",
+      "muted": false
     }
   },
   "pending": {
@@ -2984,18 +3006,6 @@
       "name": "defyer",
       "plays": {
         "2026-10-10T03:14:12.977Z": "2026-10-10"
-      }
-    },
-    "don omar": {
-      "name": "Don Omar",
-      "plays": {
-        "2026-10-11T02:00:24.850Z": "2026-10-11"
-      }
-    },
-    "lucenzo": {
-      "name": "Lucenzo",
-      "plays": {
-        "2026-10-11T02:00:24.850Z": "2026-10-11"
       }
     }
   },
