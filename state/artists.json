@@ -2231,6 +2231,28 @@
       ],
       "first_seen": "2026-10-12",
       "muted": false
+    },
+    "spiritbox": {
+      "name": "Spiritbox",
+      "ids": [
+        "spotify:4MzJMcHQBl9SIYSjwWn8QW"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-13",
+      "muted": false
+    },
+    "david bowie": {
+      "name": "David Bowie",
+      "ids": [
+        "spotify:0oSGxfWSnnOXhD2fKuz2Gy"
+      ],
+      "reasons": [
+        "3 reproduções"
+      ],
+      "first_seen": "2026-10-13",
+      "muted": false
     }
   },
   "pending": {
@@ -2912,12 +2934,6 @@
         "2026-10-10T05:36:55.386Z": "2026-10-10"
       }
     },
-    "spiritbox": {
-      "name": "Spiritbox",
-      "plays": {
-        "2026-10-10T05:21:55.649Z": "2026-10-10"
-      }
-    },
     "foals": {
       "name": "Foals",
       "plays": {
@@ -3006,6 +3022,90 @@
       "name": "defyer",
       "plays": {
         "2026-10-10T03:14:12.977Z": "2026-10-10"
+      }
+    },
+    "sugi hitori": {
+      "name": "sugi hitori",
+      "plays": {
+        "2026-10-13T19:04:33.210Z": "2026-10-13"
+      }
+    },
+    "sega sound team": {
+      "name": "SEGA SOUND TEAM",
+      "plays": {
+        "2026-10-13T18:56:07.315Z": "2026-10-13"
+      }
+    },
+    "大谷智哉": {
+      "name": "大谷智哉",
+      "plays": {
+        "2026-10-13T18:56:07.315Z": "2026-10-13"
+      }
+    },
+    "tyler smyth": {
+      "name": "Tyler Smyth",
+      "plays": {
+        "2026-10-13T18:56:07.315Z": "2026-10-13"
+      }
+    },
+    "zimbra": {
+      "name": "Zimbra",
+      "plays": {
+        "2026-10-13T18:41:50.311Z": "2026-10-13"
+      }
+    },
+    "the marías": {
+      "name": "The Marías",
+      "plays": {
+        "2026-10-13T18:38:08.484Z": "2026-10-13"
+      }
+    },
+    "starlightdaryl": {
+      "name": "StarlightDaryl",
+      "plays": {
+        "2026-10-13T18:34:24.208Z": "2026-10-13"
+      }
+    },
+    "wunder riku": {
+      "name": "WUNDER RiKU",
+      "plays": {
+        "2026-10-13T18:34:24.208Z": "2026-10-13"
+      }
+    },
+    "nee": {
+      "name": "NEE",
+      "plays": {
+        "2026-10-13T18:29:37.502Z": "2026-10-13"
+      }
+    },
+    "jack johnson": {
+      "name": "Jack Johnson",
+      "plays": {
+        "2026-10-13T18:18:51.208Z": "2026-10-13"
+      }
+    },
+    "bôa": {
+      "name": "bôa",
+      "plays": {
+        "2026-10-13T18:11:56.879Z": "2026-10-13"
+      }
+    },
+    "rec hall": {
+      "name": "Rec Hall",
+      "plays": {
+        "2026-10-13T17:53:00.738Z": "2026-10-13"
+      }
+    },
+    "king shelter": {
+      "name": "King Shelter",
+      "plays": {
+        "2026-10-13T17:49:29.257Z": "2026-10-13"
+      }
+    },
+    "kid abelha": {
+      "name": "Kid Abelha",
+      "plays": {
+        "2026-10-13T17:35:14.551Z": "2026-10-13"
       }
     }
   },
