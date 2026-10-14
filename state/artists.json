@@ -2253,6 +2253,138 @@
       ],
       "first_seen": "2026-10-13",
       "muted": false
+    },
+    "mico": {
+      "name": "MICO",
+      "ids": [
+        "spotify:0wajW5BBnk40YAhJdTkrrG"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-14",
+      "muted": false
+    },
+    "ayron alexander": {
+      "name": "Ayron Alexander",
+      "ids": [
+        "spotify:69ZOltPRsF5iPkicJQMRZ9"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-14",
+      "muted": false
+    },
+    "miguel veloso": {
+      "name": "Miguel Veloso",
+      "ids": [
+        "spotify:1DQVqtMtxpz4eYX5BBAiBP"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-14",
+      "muted": false
+    },
+    "link do zap": {
+      "name": "Link do Zap",
+      "ids": [
+        "spotify:69HZc0P77aI7VUFx4GAdQm"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-14",
+      "muted": false
+    },
+    "pluglip": {
+      "name": "pluglip",
+      "ids": [
+        "spotify:2U0pxQZXxuKh6zKZ9t4uXV"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-14",
+      "muted": false
+    },
+    "sega sound team": {
+      "name": "SEGA SOUND TEAM",
+      "ids": [
+        "spotify:4ShgdWtm52xvEr8uYmT0V6"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-14",
+      "muted": false
+    },
+    "大谷智哉": {
+      "name": "大谷智哉",
+      "ids": [
+        "spotify:0TdhLJ5G2ICGuYTlNOeut3"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-14",
+      "muted": false
+    },
+    "tyler smyth": {
+      "name": "Tyler Smyth",
+      "ids": [
+        "spotify:6m0Je9Z408QX7tN93Iv7hm"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-14",
+      "muted": false
+    },
+    "pinkpantheress": {
+      "name": "PinkPantheress",
+      "ids": [
+        "spotify:78rUTD7y6Cy67W1RVzYs7t"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-14",
+      "muted": false
+    },
+    "zara larsson": {
+      "name": "Zara Larsson",
+      "ids": [
+        "spotify:1Xylc3o4UrD53lo9CvFvVg"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-14",
+      "muted": false
+    },
+    "stromae": {
+      "name": "Stromae",
+      "ids": [
+        "spotify:5j4HeCoUlzhfWtjAfM1acR"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-14",
+      "muted": false
+    },
+    "pomme": {
+      "name": "Pomme",
+      "ids": [
+        "spotify:6e3pZKXUxrPfnUPJ960Hd9"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-14",
+      "muted": false
     }
   },
   "pending": {
@@ -2406,18 +2538,6 @@
         "2026-10-01T13:53:07.460Z": "2026-10-01"
       }
     },
-    "link do zap": {
-      "name": "Link do Zap",
-      "plays": {
-        "2026-10-01T13:44:55.189Z": "2026-10-01"
-      }
-    },
-    "pluglip": {
-      "name": "pluglip",
-      "plays": {
-        "2026-10-01T13:44:55.189Z": "2026-10-01"
-      }
-    },
     "megami33": {
       "name": "Megami33",
       "plays": {
@@ -2464,18 +2584,6 @@
       "name": "Renata Éssis",
       "plays": {
         "2026-10-02T17:01:45.488Z": "2026-10-02"
-      }
-    },
-    "miguel veloso": {
-      "name": "Miguel Veloso",
-      "plays": {
-        "2026-10-02T16:31:44.250Z": "2026-10-02"
-      }
-    },
-    "ayron alexander": {
-      "name": "Ayron Alexander",
-      "plays": {
-        "2026-10-02T16:31:44.250Z": "2026-10-02"
       }
     },
     "cafuné": {
@@ -2664,18 +2772,6 @@
         "2026-10-06T23:26:05.629Z": "2026-10-07"
       }
     },
-    "pinkpantheress": {
-      "name": "PinkPantheress",
-      "plays": {
-        "2026-10-06T23:22:13.986Z": "2026-10-07"
-      }
-    },
-    "zara larsson": {
-      "name": "Zara Larsson",
-      "plays": {
-        "2026-10-06T23:22:13.986Z": "2026-10-07"
-      }
-    },
     "one direction": {
       "name": "One Direction",
       "plays": {
@@ -2844,18 +2940,6 @@
         "2026-10-09T17:37:22.976Z": "2026-10-09"
       }
     },
-    "stromae": {
-      "name": "Stromae",
-      "plays": {
-        "2026-10-09T17:33:28.407Z": "2026-10-09"
-      }
-    },
-    "pomme": {
-      "name": "Pomme",
-      "plays": {
-        "2026-10-09T17:33:28.407Z": "2026-10-09"
-      }
-    },
     "caifanes": {
       "name": "Caifanes",
       "plays": {
@@ -2976,12 +3060,6 @@
         "2026-10-10T04:13:05.725Z": "2026-10-10"
       }
     },
-    "mico": {
-      "name": "MICO",
-      "plays": {
-        "2026-10-10T04:00:15.165Z": "2026-10-10"
-      }
-    },
     "coastal club": {
       "name": "Coastal Club",
       "plays": {
@@ -3028,24 +3106,6 @@
       "name": "sugi hitori",
       "plays": {
         "2026-10-13T19:04:33.210Z": "2026-10-13"
-      }
-    },
-    "sega sound team": {
-      "name": "SEGA SOUND TEAM",
-      "plays": {
-        "2026-10-13T18:56:07.315Z": "2026-10-13"
-      }
-    },
-    "大谷智哉": {
-      "name": "大谷智哉",
-      "plays": {
-        "2026-10-13T18:56:07.315Z": "2026-10-13"
-      }
-    },
-    "tyler smyth": {
-      "name": "Tyler Smyth",
-      "plays": {
-        "2026-10-13T18:56:07.315Z": "2026-10-13"
       }
     },
     "zimbra": {
@@ -3106,6 +3166,108 @@
       "name": "Kid Abelha",
       "plays": {
         "2026-10-13T17:35:14.551Z": "2026-10-13"
+      }
+    },
+    "it boys!": {
+      "name": "It Boys!",
+      "plays": {
+        "2026-10-14T16:50:22.720Z": "2026-10-14"
+      }
+    },
+    "artemas": {
+      "name": "Artemas",
+      "plays": {
+        "2026-10-14T14:41:11.438Z": "2026-10-14"
+      }
+    },
+    "jennifer lopez": {
+      "name": "Jennifer Lopez",
+      "plays": {
+        "2026-10-14T14:38:48.428Z": "2026-10-14"
+      }
+    },
+    "pitbull": {
+      "name": "Pitbull",
+      "plays": {
+        "2026-10-14T14:38:48.428Z": "2026-10-14"
+      }
+    },
+    "modjo": {
+      "name": "Modjo",
+      "plays": {
+        "2026-10-14T14:34:03.107Z": "2026-10-14"
+      }
+    },
+    "bruno mars": {
+      "name": "Bruno Mars",
+      "plays": {
+        "2026-10-14T14:24:05.759Z": "2026-10-14"
+      }
+    },
+    "意識のないクランケ": {
+      "name": "意識のないクランケ",
+      "plays": {
+        "2026-10-14T14:19:53.607Z": "2026-10-14"
+      }
+    },
+    "phoebe bridgers": {
+      "name": "Phoebe Bridgers",
+      "plays": {
+        "2026-10-14T14:15:07.019Z": "2026-10-14"
+      }
+    },
+    "doja cat": {
+      "name": "Doja Cat",
+      "plays": {
+        "2026-10-14T13:48:24.458Z": "2026-10-14"
+      }
+    },
+    "shawn mendes": {
+      "name": "Shawn Mendes",
+      "plays": {
+        "2026-10-14T13:25:54.140Z": "2026-10-14"
+      }
+    },
+    "camila cabello": {
+      "name": "Camila Cabello",
+      "plays": {
+        "2026-10-14T13:25:54.140Z": "2026-10-14"
+      }
+    },
+    "katy perry": {
+      "name": "Katy Perry",
+      "plays": {
+        "2026-10-14T13:18:36.775Z": "2026-10-14"
+      }
+    },
+    "kamaitachi": {
+      "name": "kamaitachi",
+      "plays": {
+        "2026-10-14T13:14:52.011Z": "2026-10-14"
+      }
+    },
+    "teagan earley": {
+      "name": "Teagan Earley",
+      "plays": {
+        "2026-10-14T13:12:15.351Z": "2026-10-14"
+      }
+    },
+    "poppy": {
+      "name": "Poppy",
+      "plays": {
+        "2026-10-14T13:03:13.379Z": "2026-10-14"
+      }
+    },
+    "猫又おかゆ": {
+      "name": "猫又おかゆ",
+      "plays": {
+        "2026-10-13T22:55:50.930Z": "2026-10-14"
+      }
+    },
+    "bloc party": {
+      "name": "Bloc Party",
+      "plays": {
+        "2026-10-13T19:08:13.806Z": "2026-10-14"
       }
     }
   },
