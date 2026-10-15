@@ -2385,6 +2385,171 @@
       ],
       "first_seen": "2026-10-14",
       "muted": false
+    },
+    "rival sons": {
+      "name": "Rival Sons",
+      "ids": [
+        "spotify:356c8AN5YWKvz86B4Sb1yf"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-15",
+      "muted": false
+    },
+    "the offspring": {
+      "name": "The Offspring",
+      "ids": [
+        "spotify:5LfGQac0EIXyAN8aUwmNAQ"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-15",
+      "muted": false
+    },
+    "riproducer": {
+      "name": "Riproducer",
+      "ids": [
+        "spotify:0B4xVHjtdgZXuRFbk4U21N"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-15",
+      "muted": false
+    },
+    "modjo": {
+      "name": "Modjo",
+      "ids": [
+        "spotify:0AkpPlFLnr0VQwZQeMGht0"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-15",
+      "muted": false
+    },
+    "artemas": {
+      "name": "Artemas",
+      "ids": [
+        "spotify:0PCCGZ0wGLizHt2KZ7hhA2"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-15",
+      "muted": false
+    },
+    "bruno mars": {
+      "name": "Bruno Mars",
+      "ids": [
+        "spotify:0du5cEVh5yTK9QJze8zA0C"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-15",
+      "muted": false
+    },
+    "jennifer lopez": {
+      "name": "Jennifer Lopez",
+      "ids": [
+        "spotify:2DlGxzQSjYe5N6G9nkYghR"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-15",
+      "muted": false
+    },
+    "pitbull": {
+      "name": "Pitbull",
+      "ids": [
+        "spotify:0TnOYISbd1XYRBk9myaseg"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-15",
+      "muted": false
+    },
+    "katy perry": {
+      "name": "Katy Perry",
+      "ids": [
+        "spotify:6jJ0s89eD6GaHleKKya26X"
+      ],
+      "reasons": [
+        "3 reproduções"
+      ],
+      "first_seen": "2026-10-15",
+      "muted": false
+    },
+    "意識のないクランケ": {
+      "name": "意識のないクランケ",
+      "ids": [
+        "spotify:1NyJvJRMK4iEDnbn9qBrSA"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-15",
+      "muted": false
+    },
+    "it boys!": {
+      "name": "It Boys!",
+      "ids": [
+        "spotify:33qEPyJzzczQ2a8BSiCeww"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-15",
+      "muted": false
+    },
+    "teagan earley": {
+      "name": "Teagan Earley",
+      "ids": [
+        "spotify:1iM9uHQqsPQvZ087a5pf5w"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-15",
+      "muted": false
+    },
+    "adéla": {
+      "name": "ADÉLA",
+      "ids": [
+        "spotify:2qanRMyA5bNuTvz1dK45OP"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-15",
+      "muted": false
+    },
+    "kamaitachi": {
+      "name": "kamaitachi",
+      "ids": [
+        "spotify:1ISc8zhrqxd5WrJMkMMLSm"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-15",
+      "muted": false
+    },
+    "the 8": {
+      "name": "THE 8",
+      "ids": [
+        "spotify:4DqFd6XE3dX4LWXHJVVpLk"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-15",
+      "muted": false
     }
   },
   "pending": {
@@ -2448,18 +2613,6 @@
         "2026-09-30T14:18:44.978Z": "2026-09-30"
       }
     },
-    "adéla": {
-      "name": "ADÉLA",
-      "plays": {
-        "2026-09-30T14:14:01.288Z": "2026-09-30"
-      }
-    },
-    "the offspring": {
-      "name": "The Offspring",
-      "plays": {
-        "2026-09-30T14:07:10.898Z": "2026-09-30"
-      }
-    },
     "dove cameron": {
       "name": "Dove Cameron",
       "plays": {
@@ -2512,12 +2665,6 @@
       "name": "Teen Suicide",
       "plays": {
         "2026-09-30T12:56:05.434Z": "2026-09-30"
-      }
-    },
-    "the 8": {
-      "name": "THE 8",
-      "plays": {
-        "2026-09-30T01:49:13.858Z": "2026-09-30"
       }
     },
     "metallica": {
@@ -3000,12 +3147,6 @@
         "2026-10-10T06:15:45.158Z": "2026-10-10"
       }
     },
-    "rival sons": {
-      "name": "Rival Sons",
-      "plays": {
-        "2026-10-10T05:53:56.701Z": "2026-10-10"
-      }
-    },
     "eric nam": {
       "name": "Eric Nam",
       "plays": {
@@ -3168,48 +3309,6 @@
         "2026-10-13T17:35:14.551Z": "2026-10-13"
       }
     },
-    "it boys!": {
-      "name": "It Boys!",
-      "plays": {
-        "2026-10-14T16:50:22.720Z": "2026-10-14"
-      }
-    },
-    "artemas": {
-      "name": "Artemas",
-      "plays": {
-        "2026-10-14T14:41:11.438Z": "2026-10-14"
-      }
-    },
-    "jennifer lopez": {
-      "name": "Jennifer Lopez",
-      "plays": {
-        "2026-10-14T14:38:48.428Z": "2026-10-14"
-      }
-    },
-    "pitbull": {
-      "name": "Pitbull",
-      "plays": {
-        "2026-10-14T14:38:48.428Z": "2026-10-14"
-      }
-    },
-    "modjo": {
-      "name": "Modjo",
-      "plays": {
-        "2026-10-14T14:34:03.107Z": "2026-10-14"
-      }
-    },
-    "bruno mars": {
-      "name": "Bruno Mars",
-      "plays": {
-        "2026-10-14T14:24:05.759Z": "2026-10-14"
-      }
-    },
-    "意識のないクランケ": {
-      "name": "意識のないクランケ",
-      "plays": {
-        "2026-10-14T14:19:53.607Z": "2026-10-14"
-      }
-    },
     "phoebe bridgers": {
       "name": "Phoebe Bridgers",
       "plays": {
@@ -3234,24 +3333,6 @@
         "2026-10-14T13:25:54.140Z": "2026-10-14"
       }
     },
-    "katy perry": {
-      "name": "Katy Perry",
-      "plays": {
-        "2026-10-14T13:18:36.775Z": "2026-10-14"
-      }
-    },
-    "kamaitachi": {
-      "name": "kamaitachi",
-      "plays": {
-        "2026-10-14T13:14:52.011Z": "2026-10-14"
-      }
-    },
-    "teagan earley": {
-      "name": "Teagan Earley",
-      "plays": {
-        "2026-10-14T13:12:15.351Z": "2026-10-14"
-      }
-    },
     "poppy": {
       "name": "Poppy",
       "plays": {
@@ -3268,6 +3349,150 @@
       "name": "Bloc Party",
       "plays": {
         "2026-10-13T19:08:13.806Z": "2026-10-14"
+      }
+    },
+    "badflower": {
+      "name": "Badflower",
+      "plays": {
+        "2026-10-15T16:37:06.253Z": "2026-10-15"
+      }
+    },
+    "viagra boys": {
+      "name": "Viagra Boys",
+      "plays": {
+        "2026-10-15T16:34:25.841Z": "2026-10-15"
+      }
+    },
+    "rihanna": {
+      "name": "Rihanna",
+      "plays": {
+        "2026-10-15T15:48:50.048Z": "2026-10-15"
+      }
+    },
+    "edward maya": {
+      "name": "Edward Maya",
+      "plays": {
+        "2026-10-15T15:44:22.461Z": "2026-10-15"
+      }
+    },
+    "vika jigulina": {
+      "name": "Vika Jigulina",
+      "plays": {
+        "2026-10-15T15:44:22.461Z": "2026-10-15"
+      }
+    },
+    "isabel larosa": {
+      "name": "Isabel LaRosa",
+      "plays": {
+        "2026-10-15T15:24:34.235Z": "2026-10-15"
+      }
+    },
+    "utada": {
+      "name": "Utada",
+      "plays": {
+        "2026-10-15T15:11:10.741Z": "2026-10-15"
+      }
+    },
+    "evanescence": {
+      "name": "Evanescence",
+      "plays": {
+        "2026-10-15T14:56:22.065Z": "2026-10-15"
+      }
+    },
+    "got7": {
+      "name": "GOT7",
+      "plays": {
+        "2026-10-15T14:40:39.427Z": "2026-10-15"
+      }
+    },
+    "sheena ringo": {
+      "name": "Sheena Ringo",
+      "plays": {
+        "2026-10-15T14:37:22.205Z": "2026-10-15"
+      }
+    },
+    "cpm 22": {
+      "name": "CPM 22",
+      "plays": {
+        "2026-10-15T14:20:25.762Z": "2026-10-15"
+      }
+    },
+    "scalene": {
+      "name": "Scalene",
+      "plays": {
+        "2026-10-15T14:17:07.268Z": "2026-10-15"
+      }
+    },
+    "fbc": {
+      "name": "FBC",
+      "plays": {
+        "2026-10-15T14:13:48.777Z": "2026-10-15"
+      }
+    },
+    "vhoor": {
+      "name": "VHOOR",
+      "plays": {
+        "2026-10-15T14:13:48.777Z": "2026-10-15"
+      }
+    },
+    "djair voz cristalina": {
+      "name": "Djair Voz Cristalina",
+      "plays": {
+        "2026-10-15T14:13:48.777Z": "2026-10-15"
+      }
+    },
+    "britney spears": {
+      "name": "Britney Spears",
+      "plays": {
+        "2026-10-15T14:00:10.274Z": "2026-10-15"
+      }
+    },
+    "marina": {
+      "name": "MARINA",
+      "plays": {
+        "2026-10-15T13:30:32.303Z": "2026-10-15"
+      }
+    },
+    "radiohead": {
+      "name": "Radiohead",
+      "plays": {
+        "2026-10-15T13:24:10.851Z": "2026-10-15"
+      }
+    },
+    "vernon": {
+      "name": "Vernon",
+      "plays": {
+        "2026-10-15T12:36:05.388Z": "2026-10-15"
+      }
+    },
+    "malibu": {
+      "name": "Malibu",
+      "plays": {
+        "2026-10-15T12:33:14.925Z": "2026-10-15"
+      }
+    },
+    "delacruz": {
+      "name": "Delacruz",
+      "plays": {
+        "2026-10-15T12:33:14.925Z": "2026-10-15"
+      }
+    },
+    "clau": {
+      "name": "Clau",
+      "plays": {
+        "2026-10-15T12:33:14.925Z": "2026-10-15"
+      }
+    },
+    "luccas carlos": {
+      "name": "Luccas Carlos",
+      "plays": {
+        "2026-10-15T12:33:14.925Z": "2026-10-15"
+      }
+    },
+    "keviin": {
+      "name": "Keviin",
+      "plays": {
+        "2026-10-15T12:33:14.925Z": "2026-10-15"
       }
     }
   },
