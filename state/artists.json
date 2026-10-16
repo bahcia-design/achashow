@@ -2550,6 +2550,127 @@
       ],
       "first_seen": "2026-10-15",
       "muted": false
+    },
+    "placebo": {
+      "name": "Placebo",
+      "ids": [
+        "spotify:6RZUqkomCmb8zCRqc9eznB"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-10-16",
+      "muted": false
+    },
+    "justice": {
+      "name": "Justice",
+      "ids": [
+        "spotify:1gR0gsQYfi6joyO1dlp76N"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-16",
+      "muted": false
+    },
+    "tame impala": {
+      "name": "Tame Impala",
+      "ids": [
+        "spotify:5INjqkS1o8h1imAzPqGZBb"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-16",
+      "muted": false
+    },
+    "sza": {
+      "name": "SZA",
+      "ids": [
+        "spotify:7tYKF4w9nC0nq9CsPZTHyP"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-16",
+      "muted": false
+    },
+    "grand theft auto vi": {
+      "name": "Grand Theft Auto VI",
+      "ids": [
+        "spotify:15o7qdDTBzs6xWRUYUtZc1"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-16",
+      "muted": false
+    },
+    "king gizzard & the lizard wizard": {
+      "name": "King Gizzard & The Lizard Wizard",
+      "ids": [
+        "spotify:6XYvaoDGE0VmRt83Jss9Sn"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-16",
+      "muted": false
+    },
+    "justin timberlake": {
+      "name": "Justin Timberlake",
+      "ids": [
+        "spotify:31TPClRtHm23RisEBtV3X7"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-16",
+      "muted": false
+    },
+    "rihanna": {
+      "name": "Rihanna",
+      "ids": [
+        "spotify:5pKCCKE2ajJHZ9KAiaK11H"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-16",
+      "muted": false
+    },
+    "michael jackson": {
+      "name": "Michael Jackson",
+      "ids": [
+        "spotify:3fMbdgg4jU18AjLCKBhRSm"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-16",
+      "muted": false
+    },
+    "benson boone": {
+      "name": "Benson Boone",
+      "ids": [
+        "spotify:22wbnEMDvgVIAGdFeek6ET"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-16",
+      "muted": false
+    },
+    "asian kung-fu generation": {
+      "name": "ASIAN KUNG-FU GENERATION",
+      "ids": [
+        "spotify:0MK8l3nURwwQIjafvXoJJt"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-16",
+      "muted": false
     }
   },
   "pending": {
@@ -2739,12 +2860,6 @@
         "2026-10-01T23:24:25.512Z": "2026-10-02"
       }
     },
-    "asian kung-fu generation": {
-      "name": "ASIAN KUNG-FU GENERATION",
-      "plays": {
-        "2026-10-01T21:35:01.063Z": "2026-10-02"
-      }
-    },
     "sean magwire": {
       "name": "Sean Magwire",
       "plays": {
@@ -2833,12 +2948,6 @@
       "name": "Plastic Tree",
       "plays": {
         "2026-10-02T20:14:41.108Z": "2026-10-03"
-      }
-    },
-    "michael jackson": {
-      "name": "Michael Jackson",
-      "plays": {
-        "2026-10-02T19:45:14.650Z": "2026-10-03"
       }
     },
     "mc hk da 7": {
@@ -3177,12 +3286,6 @@
         "2026-10-10T04:57:45.064Z": "2026-10-10"
       }
     },
-    "benson boone": {
-      "name": "Benson Boone",
-      "plays": {
-        "2026-10-10T04:30:41.279Z": "2026-10-10"
-      }
-    },
     "flammy": {
       "name": "Flammy",
       "plays": {
@@ -3229,12 +3332,6 @@
       "name": "Talya Sindel",
       "plays": {
         "2026-10-10T03:26:21.007Z": "2026-10-10"
-      }
-    },
-    "justin timberlake": {
-      "name": "Justin Timberlake",
-      "plays": {
-        "2026-10-10T03:18:40.602Z": "2026-10-10"
       }
     },
     "defyer": {
@@ -3363,12 +3460,6 @@
         "2026-10-15T16:34:25.841Z": "2026-10-15"
       }
     },
-    "rihanna": {
-      "name": "Rihanna",
-      "plays": {
-        "2026-10-15T15:48:50.048Z": "2026-10-15"
-      }
-    },
     "edward maya": {
       "name": "Edward Maya",
       "plays": {
@@ -3493,6 +3584,96 @@
       "name": "Keviin",
       "plays": {
         "2026-10-15T12:33:14.925Z": "2026-10-15"
+      }
+    },
+    "anna lea": {
+      "name": "Anna Lea",
+      "plays": {
+        "2026-10-16T15:31:54.357Z": "2026-10-16"
+      }
+    },
+    "t.i.": {
+      "name": "T.I.",
+      "plays": {
+        "2026-10-16T14:40:27.533Z": "2026-10-16"
+      }
+    },
+    "he is we": {
+      "name": "He Is We",
+      "plays": {
+        "2026-10-16T14:35:50.842Z": "2026-10-16"
+      }
+    },
+    "lana del rey": {
+      "name": "Lana Del Rey",
+      "plays": {
+        "2026-10-16T14:18:07.747Z": "2026-10-16"
+      }
+    },
+    "santigold": {
+      "name": "Santigold",
+      "plays": {
+        "2026-10-16T14:13:55.760Z": "2026-10-16"
+      }
+    },
+    "lisa": {
+      "name": "LiSA",
+      "plays": {
+        "2026-10-15T21:15:57.447Z": "2026-10-16"
+      }
+    },
+    "cheese people": {
+      "name": "Cheese People",
+      "plays": {
+        "2026-10-15T21:02:27.849Z": "2026-10-16"
+      }
+    },
+    "dean lewis": {
+      "name": "Dean Lewis",
+      "plays": {
+        "2026-10-15T20:53:22.216Z": "2026-10-16"
+      }
+    },
+    "dnmo": {
+      "name": "DNMO",
+      "plays": {
+        "2026-10-15T20:50:22.642Z": "2026-10-16"
+      }
+    },
+    "sub urban": {
+      "name": "Sub Urban",
+      "plays": {
+        "2026-10-15T20:50:22.642Z": "2026-10-16"
+      }
+    },
+    "creepy nuts": {
+      "name": "Creepy Nuts",
+      "plays": {
+        "2026-10-15T20:43:36.008Z": "2026-10-16"
+      }
+    },
+    "luísa sonza": {
+      "name": "Luísa Sonza",
+      "plays": {
+        "2026-10-15T20:40:29.907Z": "2026-10-16"
+      }
+    },
+    "qwer": {
+      "name": "QWER",
+      "plays": {
+        "2026-10-15T20:32:11.149Z": "2026-10-16"
+      }
+    },
+    "the night flight orchestra": {
+      "name": "The Night Flight Orchestra",
+      "plays": {
+        "2026-10-15T17:29:44.122Z": "2026-10-16"
+      }
+    },
+    "yuqi": {
+      "name": "YUQI",
+      "plays": {
+        "2026-10-15T17:22:25.076Z": "2026-10-16"
       }
     }
   },
