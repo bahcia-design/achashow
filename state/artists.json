@@ -2671,6 +2671,83 @@
       ],
       "first_seen": "2026-10-16",
       "muted": false
+    },
+    "xg": {
+      "name": "XG",
+      "ids": [
+        "spotify:0LOK81e9H5lr61HlGGHqwA"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-17",
+      "muted": false
+    },
+    "britney spears": {
+      "name": "Britney Spears",
+      "ids": [
+        "spotify:26dSoYclwsYLMAKD3tpOr4"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-17",
+      "muted": false
+    },
+    "metallica": {
+      "name": "Metallica",
+      "ids": [
+        "spotify:2ye2Wgw4gimLv2eAKyk1NB"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-17",
+      "muted": false
+    },
+    "edward maya": {
+      "name": "Edward Maya",
+      "ids": [
+        "spotify:6XwwFnewNgWp81MYMK8zLq"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-17",
+      "muted": false
+    },
+    "vika jigulina": {
+      "name": "Vika Jigulina",
+      "ids": [
+        "spotify:34dZRjYum6vVBGslgYaBtB"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-17",
+      "muted": false
+    },
+    "isabel larosa": {
+      "name": "Isabel LaRosa",
+      "ids": [
+        "spotify:5arKwJZEvT5uKq4o0JfqR4"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-17",
+      "muted": false
+    },
+    "keys": {
+      "name": "keys",
+      "ids": [
+        "spotify:4i8lKC7tJD7kKXW2ehd4Y5"
+      ],
+      "reasons": [
+        "7 reproduções"
+      ],
+      "first_seen": "2026-10-17",
+      "muted": false
     }
   },
   "pending": {
@@ -2786,12 +2863,6 @@
       "name": "Teen Suicide",
       "plays": {
         "2026-09-30T12:56:05.434Z": "2026-09-30"
-      }
-    },
-    "metallica": {
-      "name": "Metallica",
-      "plays": {
-        "2026-10-01T17:45:34.632Z": "2026-10-01"
       }
     },
     "alohaii": {
@@ -3178,12 +3249,6 @@
         "2026-10-07T19:36:18.440Z": "2026-10-08"
       }
     },
-    "xg": {
-      "name": "XG",
-      "plays": {
-        "2026-10-09T17:44:05.294Z": "2026-10-09"
-      }
-    },
     "edu falaschi": {
       "name": "Edu Falaschi",
       "plays": {
@@ -3460,24 +3525,6 @@
         "2026-10-15T16:34:25.841Z": "2026-10-15"
       }
     },
-    "edward maya": {
-      "name": "Edward Maya",
-      "plays": {
-        "2026-10-15T15:44:22.461Z": "2026-10-15"
-      }
-    },
-    "vika jigulina": {
-      "name": "Vika Jigulina",
-      "plays": {
-        "2026-10-15T15:44:22.461Z": "2026-10-15"
-      }
-    },
-    "isabel larosa": {
-      "name": "Isabel LaRosa",
-      "plays": {
-        "2026-10-15T15:24:34.235Z": "2026-10-15"
-      }
-    },
     "utada": {
       "name": "Utada",
       "plays": {
@@ -3530,12 +3577,6 @@
       "name": "Djair Voz Cristalina",
       "plays": {
         "2026-10-15T14:13:48.777Z": "2026-10-15"
-      }
-    },
-    "britney spears": {
-      "name": "Britney Spears",
-      "plays": {
-        "2026-10-15T14:00:10.274Z": "2026-10-15"
       }
     },
     "marina": {
@@ -3674,6 +3715,36 @@
       "name": "YUQI",
       "plays": {
         "2026-10-15T17:22:25.076Z": "2026-10-16"
+      }
+    },
+    "zayn": {
+      "name": "ZAYN",
+      "plays": {
+        "2026-10-16T20:10:10.167Z": "2026-10-17"
+      }
+    },
+    "kiss": {
+      "name": "KISS",
+      "plays": {
+        "2026-10-16T19:56:12.981Z": "2026-10-17"
+      }
+    },
+    "the animals": {
+      "name": "The Animals",
+      "plays": {
+        "2026-10-16T19:47:45.799Z": "2026-10-17"
+      }
+    },
+    "wolf parade": {
+      "name": "Wolf Parade",
+      "plays": {
+        "2026-10-16T18:00:05.246Z": "2026-10-17"
+      }
+    },
+    "alec benjamin": {
+      "name": "Alec Benjamin",
+      "plays": {
+        "2026-10-16T17:02:10.681Z": "2026-10-17"
       }
     }
   },
