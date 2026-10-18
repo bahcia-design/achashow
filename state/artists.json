@@ -2748,6 +2748,127 @@
       ],
       "first_seen": "2026-10-17",
       "muted": false
+    },
+    "chiclete com banana": {
+      "name": "Chiclete Com Banana",
+      "ids": [
+        "spotify:1bhqpMFFgoa0NTz82BprgL"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-10-18",
+      "muted": false
+    },
+    "timbalada": {
+      "name": "Timbalada",
+      "ids": [
+        "spotify:1Da4NyNC4CLayaNGGmL9uZ"
+      ],
+      "reasons": [
+        "3 reproduções"
+      ],
+      "first_seen": "2026-10-18",
+      "muted": false
+    },
+    "olodum": {
+      "name": "Olodum",
+      "ids": [
+        "spotify:3tJ9PkBOrG7hFkHeNM2tbw"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-18",
+      "muted": false
+    },
+    "molejo": {
+      "name": "Molejo",
+      "ids": [
+        "spotify:7yl05GUXqcUA3mfpowr1fe"
+      ],
+      "reasons": [
+        "3 reproduções"
+      ],
+      "first_seen": "2026-10-18",
+      "muted": false
+    },
+    "banda eva": {
+      "name": "Banda Eva",
+      "ids": [
+        "spotify:1wqkMc837HWUwdC8sOZ7lZ"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-18",
+      "muted": false
+    },
+    "pepeu gomes": {
+      "name": "Pepeu Gomes",
+      "ids": [
+        "spotify:3XLeGN8GPEzQarxiDoQURu"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-18",
+      "muted": false
+    },
+    "tchakabum": {
+      "name": "Tchakabum",
+      "ids": [
+        "spotify:7iJl63aJyNd8C6NZlMv6kp"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-18",
+      "muted": false
+    },
+    "bamdamel": {
+      "name": "Bamdamel",
+      "ids": [
+        "spotify:3pliEYuTjFFUfecvfxywbW"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-18",
+      "muted": false
+    },
+    "kid abelha": {
+      "name": "Kid Abelha",
+      "ids": [
+        "spotify:4bOZtegYNmYOe3gMgPtt0H"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-18",
+      "muted": false
+    },
+    "skank": {
+      "name": "Skank",
+      "ids": [
+        "spotify:4C4kpaAdp6aKSkguw40SsU"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-18",
+      "muted": false
+    },
+    "doja cat": {
+      "name": "Doja Cat",
+      "ids": [
+        "spotify:5cj0lLjcoR7YOSnhnX0Po5"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-18",
+      "muted": false
     }
   },
   "pending": {
@@ -3195,12 +3316,6 @@
         "2026-10-08T14:23:46.837Z": "2026-10-08"
       }
     },
-    "skank": {
-      "name": "Skank",
-      "plays": {
-        "2026-10-07T20:34:33.742Z": "2026-10-08"
-      }
-    },
     "クレナズム": {
       "name": "クレナズム",
       "plays": {
@@ -3465,22 +3580,10 @@
         "2026-10-13T17:49:29.257Z": "2026-10-13"
       }
     },
-    "kid abelha": {
-      "name": "Kid Abelha",
-      "plays": {
-        "2026-10-13T17:35:14.551Z": "2026-10-13"
-      }
-    },
     "phoebe bridgers": {
       "name": "Phoebe Bridgers",
       "plays": {
         "2026-10-14T14:15:07.019Z": "2026-10-14"
-      }
-    },
-    "doja cat": {
-      "name": "Doja Cat",
-      "plays": {
-        "2026-10-14T13:48:24.458Z": "2026-10-14"
       }
     },
     "shawn mendes": {
@@ -3745,6 +3848,84 @@
       "name": "Alec Benjamin",
       "plays": {
         "2026-10-16T17:02:10.681Z": "2026-10-17"
+      }
+    },
+    "vixe mainha": {
+      "name": "Vixe Mainha",
+      "plays": {
+        "2026-10-18T15:21:48.369Z": "2026-10-18"
+      }
+    },
+    "jammil e uma noites": {
+      "name": "Jammil E Uma Noites",
+      "plays": {
+        "2026-10-18T14:58:07.066Z": "2026-10-18"
+      }
+    },
+    "netinho": {
+      "name": "Netinho",
+      "plays": {
+        "2026-10-18T14:52:54.352Z": "2026-10-18"
+      }
+    },
+    "é o tchan": {
+      "name": "É O Tchan",
+      "plays": {
+        "2026-10-18T14:48:01.068Z": "2026-10-18"
+      }
+    },
+    "babado novo": {
+      "name": "Babado Novo",
+      "plays": {
+        "2026-10-18T14:44:35.911Z": "2026-10-18"
+      }
+    },
+    "claudia leitte": {
+      "name": "Claudia Leitte",
+      "plays": {
+        "2026-10-18T14:44:35.911Z": "2026-10-18"
+      }
+    },
+    "caetano veloso": {
+      "name": "Caetano Veloso",
+      "plays": {
+        "2026-10-18T14:39:46.832Z": "2026-10-18"
+      }
+    },
+    "as meninas": {
+      "name": "As Meninas",
+      "plays": {
+        "2026-10-18T14:15:24.671Z": "2026-10-18"
+      }
+    },
+    "banda beijo": {
+      "name": "Banda Beijo",
+      "plays": {
+        "2026-10-18T14:11:37.360Z": "2026-10-18"
+      }
+    },
+    "dominguinhos do estacio": {
+      "name": "Dominguinhos Do Estacio",
+      "plays": {
+        "2026-10-18T14:00:35.497Z": "2026-10-18"
+      }
+    },
+    "roupa nova": {
+      "name": "Roupa Nova",
+      "plays": {
+        "2026-10-18T13:54:12.405Z": "2026-10-18"
+      }
+    },
+    "aurora": {
+      "name": "AURORA",
+      "plays": {
+        "2026-10-17T22:59:15.302Z": "2026-10-18"
+      }
+    },
+    "adele": {
+      "name": "Adele",
+      "plays": {
+        "2026-10-17T16:49:46.072Z": "2026-10-18"
       }
     }
   },
