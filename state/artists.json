@@ -2869,6 +2869,50 @@
       ],
       "first_seen": "2026-10-18",
       "muted": false
+    },
+    "the 1975": {
+      "name": "The 1975",
+      "ids": [
+        "spotify:3mIj9lX2MWuHmhNCA7LSCW"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-10-19",
+      "muted": false
+    },
+    "chris grey": {
+      "name": "Chris Grey",
+      "ids": [
+        "spotify:0F3maSKfGGVtfATaAyeyPG"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-19",
+      "muted": false
+    },
+    "babado novo": {
+      "name": "Babado Novo",
+      "ids": [
+        "spotify:2jGuS7w8SfDzRNbxW1Lo2c"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-19",
+      "muted": false
+    },
+    "claudia leitte": {
+      "name": "Claudia Leitte",
+      "ids": [
+        "spotify:2OjoIDVPQKT9B7loZbPEfp"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-19",
+      "muted": false
     }
   },
   "pending": {
@@ -3874,18 +3918,6 @@
         "2026-10-18T14:48:01.068Z": "2026-10-18"
       }
     },
-    "babado novo": {
-      "name": "Babado Novo",
-      "plays": {
-        "2026-10-18T14:44:35.911Z": "2026-10-18"
-      }
-    },
-    "claudia leitte": {
-      "name": "Claudia Leitte",
-      "plays": {
-        "2026-10-18T14:44:35.911Z": "2026-10-18"
-      }
-    },
     "caetano veloso": {
       "name": "Caetano Veloso",
       "plays": {
@@ -3926,6 +3958,90 @@
       "name": "Adele",
       "plays": {
         "2026-10-17T16:49:46.072Z": "2026-10-18"
+      }
+    },
+    "jutes": {
+      "name": "Jutes",
+      "plays": {
+        "2026-10-19T14:56:56.932Z": "2026-10-19"
+      }
+    },
+    "ari abdul": {
+      "name": "Ari Abdul",
+      "plays": {
+        "2026-10-19T14:56:56.932Z": "2026-10-19"
+      }
+    },
+    "kaoru wada": {
+      "name": "Kaoru Wada",
+      "plays": {
+        "2026-10-19T14:24:55.034Z": "2026-10-19"
+      }
+    },
+    "him": {
+      "name": "HIM",
+      "plays": {
+        "2026-10-19T14:14:21.133Z": "2026-10-19"
+      }
+    },
+    "hikaru shirosu": {
+      "name": "Hikaru Shirosu",
+      "plays": {
+        "2026-10-19T14:03:48.543Z": "2026-10-19"
+      }
+    },
+    "the crane wives": {
+      "name": "The Crane Wives",
+      "plays": {
+        "2026-10-19T13:11:10.621Z": "2026-10-19"
+      }
+    },
+    "pomplamoose": {
+      "name": "Pomplamoose",
+      "plays": {
+        "2026-10-19T13:07:29.335Z": "2026-10-19"
+      }
+    },
+    "k/da": {
+      "name": "K/DA",
+      "plays": {
+        "2026-10-19T12:37:31.760Z": "2026-10-19"
+      }
+    },
+    "league of legends": {
+      "name": "League of Legends",
+      "plays": {
+        "2026-10-19T12:37:31.760Z": "2026-10-19"
+      }
+    },
+    "i-dle": {
+      "name": "i-dle",
+      "plays": {
+        "2026-10-19T12:37:31.760Z": "2026-10-19"
+      }
+    },
+    "mimi webb": {
+      "name": "Mimi Webb",
+      "plays": {
+        "2026-10-19T12:37:31.760Z": "2026-10-19"
+      }
+    },
+    "sophie powers": {
+      "name": "Sophie Powers",
+      "plays": {
+        "2026-10-19T12:37:31.760Z": "2026-10-19"
+      }
+    },
+    "miyeon": {
+      "name": "MIYEON",
+      "plays": {
+        "2026-10-19T12:37:31.760Z": "2026-10-19"
+      }
+    },
+    "soyeon": {
+      "name": "SOYEON",
+      "plays": {
+        "2026-10-19T12:37:31.760Z": "2026-10-19"
       }
     }
   },

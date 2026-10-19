@@ -2367,6 +2367,22 @@
       "date": "2026-09-19",
       "artist": "Timbalada",
       "first_seen": "2026-10-18"
+    },
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeHc4b3IteVAydDE2NU92SEYyQzJQZDlGZk1ndzhtLXY1TEs1Y004SWxQN3BLbUdVZjlDM0p2aWVjb1d0ZnpmeTd4clYwTDd3bmdZYlBVXzAyb2ZuV2duaXFKbVFUa3pQbXlSRUg4N2o1ckROdTZxdXNtbmZDc2JrTnJOWVR2cEZXNjRRUFQwRVdBbk16T1V4cHRiVkNDTXVPU1FfNk9tcWpFcFRfdUM3bm5hLWtmcUI3OHZWUWI0Wkk0VkRQUXVGdU42S2ZLbDk3NXFuS3pSQXdFdDlhdVhjMV8tbm1XSVBCVTBCTGEtX0lTZw?oc=5": {
+      "title": "Placebo retorna ao Brasil em 2027 celebrando 30 anos do álbum de estreia com show especial em Porto Alegre",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeHc4b3IteVAydDE2NU92SEYyQzJQZDlGZk1ndzhtLXY1TEs1Y004SWxQN3BLbUdVZjlDM0p2aWVjb1d0ZnpmeTd4clYwTDd3bmdZYlBVXzAyb2ZuV2duaXFKbVFUa3pQbXlSRUg4N2o1ckROdTZxdXNtbmZDc2JrTnJOWVR2cEZXNjRRUFQwRVdBbk16T1V4cHRiVkNDTXVPU1FfNk9tcWpFcFRfdUM3bm5hLWtmcUI3OHZWUWI0Wkk0VkRQUXVGdU42S2ZLbDk3NXFuS3pSQXdFdDlhdVhjMV8tbm1XSVBCVTBCTGEtX0lTZw?oc=5",
+      "source": "Super Transado",
+      "date": "2026-09-22",
+      "artist": "Placebo",
+      "first_seen": "2026-10-19"
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTW9sVmIyLVRVQVhaM3VRUjlJUTUyT1hiUHhocUk5cGN4OFFDWFNFb1o1QXNPblpBbWFlN2V0am5uM2QxSWdCU2NtUS1iTGk5TDlxSzBnWjJWY2lmVVBobjh3enFKbmw1NFFFUmhxc1Mwa014SzBRQmhPYlBaVXVwUlg4RnRlVXF3ZGfSAY8BQVVfeXFMTXd2d1VHdFNFNVQ3cnktQW1lMGxXR3ZPdW5GOVJuYThqOHZMaFdDX29KZXlpZ2Y1Mk1BalRrZEdicEkxNVdBbS14dlJTNzdDRm1iMmpJTWdjUG5rQlZUeGNHQ3F5TkVmN3dMc1E0REZZTExhUUxMdGVrRzJmZTFCbWNWLTUwZHhmX2RIbjNJV3M?oc=5": {
+      "title": "Atração do Lollapalooza Brasil, The 1975 anuncia show no Rio",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTW9sVmIyLVRVQVhaM3VRUjlJUTUyT1hiUHhocUk5cGN4OFFDWFNFb1o1QXNPblpBbWFlN2V0am5uM2QxSWdCU2NtUS1iTGk5TDlxSzBnWjJWY2lmVVBobjh3enFKbmw1NFFFUmhxc1Mwa014SzBRQmhPYlBaVXVwUlg4RnRlVXF3ZGfSAY8BQVVfeXFMTXd2d1VHdFNFNVQ3cnktQW1lMGxXR3ZPdW5GOVJuYThqOHZMaFdDX29KZXlpZ2Y1Mk1BalRrZEdicEkxNVdBbS14dlJTNzdDRm1iMmpJTWdjUG5rQlZUeGNHQ3F5TkVmN3dMc1E0REZZTExhUUxMdGVrRzJmZTFCbWNWLTUwZHhmX2RIbjNJV3M?oc=5",
+      "source": "Portal PopNow",
+      "date": "2026-10-15",
+      "artist": "The 1975",
+      "first_seen": "2026-10-19"
     }
   },
   "last_alert": {
@@ -2408,7 +2424,8 @@
     "metallica": "2026-10-17",
     "banda eva": "2026-10-18",
     "kid abelha": "2026-10-18",
-    "timbalada": "2026-10-18"
+    "timbalada": "2026-10-18",
+    "the 1975": "2026-10-19"
   },
-  "last_run": "2026-10-18"
+  "last_run": "2026-10-19"
 }
