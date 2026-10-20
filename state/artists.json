@@ -2913,6 +2913,50 @@
       ],
       "first_seen": "2026-10-19",
       "muted": false
+    },
+    "sayuri": {
+      "name": "Sayuri",
+      "ids": [
+        "spotify:1YLxQZIGsaZq9rvFu8zeRz"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-10-20",
+      "muted": false
+    },
+    "lee eun sang": {
+      "name": "Lee Eun Sang",
+      "ids": [
+        "spotify:23oRZ1WSV1YCPk3Ra7ivzJ"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-10-20",
+      "muted": false
+    },
+    "timeless treasures": {
+      "name": "Timeless Treasures",
+      "ids": [
+        "spotify:65eHlNLtiaHyKkCYd71zMR"
+      ],
+      "reasons": [
+        "3 reproduções"
+      ],
+      "first_seen": "2026-10-20",
+      "muted": false
+    },
+    "chase atlantic": {
+      "name": "Chase Atlantic",
+      "ids": [
+        "spotify:7cYEt1pqMgXJdq00hAwVpT"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-20",
+      "muted": false
     }
   },
   "pending": {
@@ -4042,6 +4086,24 @@
       "name": "SOYEON",
       "plays": {
         "2026-10-19T12:37:31.760Z": "2026-10-19"
+      }
+    },
+    "sawanohiroyuki[nzk]": {
+      "name": "SawanoHiroyuki[nZk]",
+      "plays": {
+        "2026-10-20T14:41:35.634Z": "2026-10-20"
+      }
+    },
+    "frederic": {
+      "name": "frederic",
+      "plays": {
+        "2026-10-20T13:05:02.480Z": "2026-10-20"
+      }
+    },
+    "flavor foley": {
+      "name": "FLAVOR FOLEY",
+      "plays": {
+        "2026-10-20T12:53:35.416Z": "2026-10-20"
       }
     }
   },
