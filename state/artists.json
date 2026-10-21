@@ -2957,6 +2957,17 @@
       ],
       "first_seen": "2026-10-20",
       "muted": false
+    },
+    "sawanohiroyuki[nzk]": {
+      "name": "SawanoHiroyuki[nZk]",
+      "ids": [
+        "spotify:2EWXgN0xWOnbqJOxa9pWNO"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-21",
+      "muted": false
     }
   },
   "pending": {
@@ -4088,12 +4099,6 @@
         "2026-10-19T12:37:31.760Z": "2026-10-19"
       }
     },
-    "sawanohiroyuki[nzk]": {
-      "name": "SawanoHiroyuki[nZk]",
-      "plays": {
-        "2026-10-20T14:41:35.634Z": "2026-10-20"
-      }
-    },
     "frederic": {
       "name": "frederic",
       "plays": {
@@ -4104,6 +4109,72 @@
       "name": "FLAVOR FOLEY",
       "plays": {
         "2026-10-20T12:53:35.416Z": "2026-10-20"
+      }
+    },
+    "taku matsushiba": {
+      "name": "Taku Matsushiba",
+      "plays": {
+        "2026-10-21T12:04:17.392Z": "2026-10-21"
+      }
+    },
+    "kano": {
+      "name": "Kano",
+      "plays": {
+        "2026-10-21T03:25:45.303Z": "2026-10-21"
+      }
+    },
+    "tuyu": {
+      "name": "TUYU",
+      "plays": {
+        "2026-10-20T21:35:40.425Z": "2026-10-21"
+      }
+    },
+    "美波": {
+      "name": "美波",
+      "plays": {
+        "2026-10-20T21:32:17.757Z": "2026-10-21"
+      }
+    },
+    "juju<3": {
+      "name": "juju<3",
+      "plays": {
+        "2026-10-20T20:06:20.885Z": "2026-10-21"
+      }
+    },
+    "billie eilish": {
+      "name": "Billie Eilish",
+      "plays": {
+        "2026-10-20T20:06:18.924Z": "2026-10-21"
+      }
+    },
+    "phil collins": {
+      "name": "Phil Collins",
+      "plays": {
+        "2026-10-20T20:02:54.898Z": "2026-10-21"
+      }
+    },
+    "5 seconds of summer": {
+      "name": "5 Seconds of Summer",
+      "plays": {
+        "2026-10-20T19:58:34.519Z": "2026-10-21"
+      }
+    },
+    "chimeraz": {
+      "name": "CHIMERAZ",
+      "plays": {
+        "2026-10-20T19:49:50.330Z": "2026-10-21"
+      }
+    },
+    "career woman": {
+      "name": "Career Woman",
+      "plays": {
+        "2026-10-20T19:21:05.682Z": "2026-10-21"
+      }
+    },
+    "my first story": {
+      "name": "MY FIRST STORY",
+      "plays": {
+        "2026-10-20T18:33:20.625Z": "2026-10-21"
       }
     }
   },
