@@ -2968,6 +2968,72 @@
       ],
       "first_seen": "2026-10-21",
       "muted": false
+    },
+    "santigold": {
+      "name": "Santigold",
+      "ids": [
+        "spotify:6Jrxnp0JgqmeUX1veU591p"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-22",
+      "muted": false
+    },
+    "scalene": {
+      "name": "Scalene",
+      "ids": [
+        "spotify:4PTd1rpXV7XDffOuLY7M0z"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-22",
+      "muted": false
+    },
+    "taku matsushiba": {
+      "name": "Taku Matsushiba",
+      "ids": [
+        "spotify:3ITwaLbY4bFzc57CVTKT2u"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-22",
+      "muted": false
+    },
+    "utada": {
+      "name": "Utada",
+      "ids": [
+        "spotify:3cOksS0L23DEPJd3JwMuVs"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-22",
+      "muted": false
+    },
+    "when in rome": {
+      "name": "When In Rome",
+      "ids": [
+        "spotify:3jOO5nZ2XPmc232rNjzqJy"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-22",
+      "muted": false
+    },
+    "juju<3": {
+      "name": "juju<3",
+      "ids": [
+        "spotify:496w0Fyed8J7IRzn5Ffb6x"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-22",
+      "muted": false
     }
   },
   "pending": {
@@ -3727,12 +3793,6 @@
         "2026-10-15T16:34:25.841Z": "2026-10-15"
       }
     },
-    "utada": {
-      "name": "Utada",
-      "plays": {
-        "2026-10-15T15:11:10.741Z": "2026-10-15"
-      }
-    },
     "evanescence": {
       "name": "Evanescence",
       "plays": {
@@ -3755,12 +3815,6 @@
       "name": "CPM 22",
       "plays": {
         "2026-10-15T14:20:25.762Z": "2026-10-15"
-      }
-    },
-    "scalene": {
-      "name": "Scalene",
-      "plays": {
-        "2026-10-15T14:17:07.268Z": "2026-10-15"
       }
     },
     "fbc": {
@@ -3851,12 +3905,6 @@
       "name": "Lana Del Rey",
       "plays": {
         "2026-10-16T14:18:07.747Z": "2026-10-16"
-      }
-    },
-    "santigold": {
-      "name": "Santigold",
-      "plays": {
-        "2026-10-16T14:13:55.760Z": "2026-10-16"
       }
     },
     "lisa": {
@@ -4111,12 +4159,6 @@
         "2026-10-20T12:53:35.416Z": "2026-10-20"
       }
     },
-    "taku matsushiba": {
-      "name": "Taku Matsushiba",
-      "plays": {
-        "2026-10-21T12:04:17.392Z": "2026-10-21"
-      }
-    },
     "kano": {
       "name": "Kano",
       "plays": {
@@ -4133,12 +4175,6 @@
       "name": "美波",
       "plays": {
         "2026-10-20T21:32:17.757Z": "2026-10-21"
-      }
-    },
-    "juju<3": {
-      "name": "juju<3",
-      "plays": {
-        "2026-10-20T20:06:20.885Z": "2026-10-21"
       }
     },
     "billie eilish": {
@@ -4175,6 +4211,84 @@
       "name": "MY FIRST STORY",
       "plays": {
         "2026-10-20T18:33:20.625Z": "2026-10-21"
+      }
+    },
+    "led zeppelin": {
+      "name": "Led Zeppelin",
+      "plays": {
+        "2026-10-22T15:10:00.835Z": "2026-10-22"
+      }
+    },
+    "john mayer": {
+      "name": "John Mayer",
+      "plays": {
+        "2026-10-22T15:06:28.123Z": "2026-10-22"
+      }
+    },
+    "max": {
+      "name": "MAX",
+      "plays": {
+        "2026-10-22T15:02:50.230Z": "2026-10-22"
+      }
+    },
+    "keshi": {
+      "name": "keshi",
+      "plays": {
+        "2026-10-22T15:02:50.230Z": "2026-10-22"
+      }
+    },
+    "長靴をはいた猫": {
+      "name": "長靴をはいた猫",
+      "plays": {
+        "2026-10-21T21:29:47.028Z": "2026-10-22"
+      }
+    },
+    "aden foyer": {
+      "name": "Aden Foyer",
+      "plays": {
+        "2026-10-21T21:20:22.151Z": "2026-10-22"
+      }
+    },
+    "james bay": {
+      "name": "James Bay",
+      "plays": {
+        "2026-10-21T19:15:22.679Z": "2026-10-22"
+      }
+    },
+    "the vaccines": {
+      "name": "The Vaccines",
+      "plays": {
+        "2026-10-21T19:10:51.298Z": "2026-10-22"
+      }
+    },
+    "coyote beatz": {
+      "name": "Coyote Beatz",
+      "plays": {
+        "2026-10-21T19:07:56.305Z": "2026-10-22"
+      }
+    },
+    "paige": {
+      "name": "Paige",
+      "plays": {
+        "2026-10-21T19:07:56.305Z": "2026-10-22"
+      }
+    },
+    "troy": {
+      "name": "TROY",
+      "plays": {
+        "2026-10-21T19:04:16.338Z": "2026-10-22"
+      }
+    },
+    "g3ox_em": {
+      "name": "g3ox_em",
+      "plays": {
+        "2026-10-21T18:54:58.219Z": "2026-10-22"
+      }
+    },
+    "tristam": {
+      "name": "Tristam",
+      "plays": {
+        "2026-10-21T18:04:39.588Z": "2026-10-22"
       }
     }
   },
