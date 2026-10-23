@@ -3034,6 +3034,28 @@
       ],
       "first_seen": "2026-10-22",
       "muted": false
+    },
+    "aurora": {
+      "name": "AURORA",
+      "ids": [
+        "spotify:1WgXqy2Dd70QQOU7Ay074N"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-23",
+      "muted": false
+    },
+    "foals": {
+      "name": "Foals",
+      "ids": [
+        "spotify:6FQqZYVfTNQ1pCqfkwVFEa"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-23",
+      "muted": false
     }
   },
   "pending": {
@@ -3613,12 +3635,6 @@
         "2026-10-10T05:36:55.386Z": "2026-10-10"
       }
     },
-    "foals": {
-      "name": "Foals",
-      "plays": {
-        "2026-10-10T05:13:05.762Z": "2026-10-10"
-      }
-    },
     "jamie paige": {
       "name": "Jamie Paige",
       "plays": {
@@ -4049,12 +4065,6 @@
       "name": "Roupa Nova",
       "plays": {
         "2026-10-18T13:54:12.405Z": "2026-10-18"
-      }
-    },
-    "aurora": {
-      "name": "AURORA",
-      "plays": {
-        "2026-10-17T22:59:15.302Z": "2026-10-18"
       }
     },
     "adele": {
