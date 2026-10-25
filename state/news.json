@@ -2831,6 +2831,14 @@
       "date": "2026-09-22",
       "artist": "Placebo",
       "first_seen": "2026-10-24"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jMldwd3puLTNoT0RSVkQzcW4xR2xXUy1TeVJlZ3JUYmRuLVhHbU5nREtPX216WGZUOXhHdlRlNktHTW0yQ1NmX05mVzhZTi1GdVBLcHZId1dpbjlYQUgxdDVTYVotMWp6UVV4akpFOVlzNmVJalVn?oc=5": {
+      "title": "BTS confirma loja oficial em São Paulo; veja como visitar e política de compra",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jMldwd3puLTNoT0RSVkQzcW4xR2xXUy1TeVJlZ3JUYmRuLVhHbU5nREtPX216WGZUOXhHdlRlNktHTW0yQ1NmX05mVzhZTi1GdVBLcHZId1dpbjlYQUgxdDVTYVotMWp6UVV4akpFOVlzNmVJalVn?oc=5",
+      "source": "Billboard Brasil",
+      "date": "2026-10-21",
+      "artist": "BTS",
+      "first_seen": "2026-10-25"
     }
   },
   "last_alert": {
@@ -2880,5 +2888,5 @@
     "claudia leitte": "2026-10-24",
     "dead fish": "2026-10-24"
   },
-  "last_run": "2026-10-24"
+  "last_run": "2026-10-25"
 }

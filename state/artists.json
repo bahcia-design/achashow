@@ -3067,6 +3067,17 @@
       ],
       "first_seen": "2026-10-24",
       "muted": false
+    },
+    "kenshi yonezu": {
+      "name": "Kenshi Yonezu",
+      "ids": [
+        "spotify:1snhtMLeb2DYoMOcVbb8iB"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-25",
+      "muted": false
     }
   },
   "pending": {
@@ -4322,6 +4333,24 @@
       "name": "NateWantsToBattle",
       "plays": {
         "2026-10-24T01:06:25.648Z": "2026-10-24"
+      }
+    },
+    "ivy mono": {
+      "name": "Ivy Mono",
+      "plays": {
+        "2026-10-25T13:52:50.338Z": "2026-10-25"
+      }
+    },
+    "american pets": {
+      "name": "American Pets",
+      "plays": {
+        "2026-10-25T13:46:56.051Z": "2026-10-25"
+      }
+    },
+    "ヨルシカ": {
+      "name": "ヨルシカ",
+      "plays": {
+        "2026-10-24T21:24:21.020Z": "2026-10-25"
       }
     }
   },
