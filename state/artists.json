@@ -3078,6 +3078,61 @@
       ],
       "first_seen": "2026-10-25",
       "muted": false
+    },
+    "illit": {
+      "name": "ILLIT",
+      "ids": [
+        "spotify:36cgvBn0aadzOijnjjwqMN"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-10-27",
+      "muted": false
+    },
+    "kevin penkin": {
+      "name": "Kevin Penkin",
+      "ids": [
+        "spotify:4S33gEeiCjwfD1FJKfMT3Y"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-27",
+      "muted": false
+    },
+    "pomplamoose": {
+      "name": "Pomplamoose",
+      "ids": [
+        "spotify:5dHfLBNU8zoypgKefzEB1c"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-27",
+      "muted": false
+    },
+    "yena": {
+      "name": "YENA",
+      "ids": [
+        "spotify:49muoiIu4uea4PO8vueUNN"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-27",
+      "muted": false
+    },
+    "newjeans": {
+      "name": "NewJeans",
+      "ids": [
+        "spotify:6HvZYsbFfjnjFrWF950C9d"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-27",
+      "muted": false
     }
   },
   "pending": {
@@ -3531,12 +3586,6 @@
         "2026-10-07T20:20:32.039Z": "2026-10-08"
       }
     },
-    "kevin penkin": {
-      "name": "Kevin Penkin",
-      "plays": {
-        "2026-10-07T20:07:33.743Z": "2026-10-08"
-      }
-    },
     "mary middlefield": {
       "name": "Mary Middlefield",
       "plays": {
@@ -3663,12 +3712,6 @@
         "2026-10-10T05:04:48.468Z": "2026-10-10"
       }
     },
-    "newjeans": {
-      "name": "NewJeans",
-      "plays": {
-        "2026-10-10T04:57:45.064Z": "2026-10-10"
-      }
-    },
     "flammy": {
       "name": "Flammy",
       "plays": {
@@ -3679,12 +3722,6 @@
       "name": "Anri",
       "plays": {
         "2026-10-10T04:24:09.245Z": "2026-10-10"
-      }
-    },
-    "yena": {
-      "name": "YENA",
-      "plays": {
-        "2026-10-10T04:13:05.725Z": "2026-10-10"
       }
     },
     "coastal club": {
@@ -4131,12 +4168,6 @@
         "2026-10-19T13:11:10.621Z": "2026-10-19"
       }
     },
-    "pomplamoose": {
-      "name": "Pomplamoose",
-      "plays": {
-        "2026-10-19T13:07:29.335Z": "2026-10-19"
-      }
-    },
     "k/da": {
       "name": "K/DA",
       "plays": {
@@ -4363,6 +4394,174 @@
       "name": "鈴木みのり",
       "plays": {
         "2026-10-26T15:59:21.576Z": "2026-10-26"
+      }
+    },
+    "solence": {
+      "name": "Solence",
+      "plays": {
+        "2026-10-27T17:25:49.290Z": "2026-10-27"
+      }
+    },
+    "natasha bedingfield": {
+      "name": "Natasha Bedingfield",
+      "plays": {
+        "2026-10-27T17:22:27.938Z": "2026-10-27"
+      }
+    },
+    "rai1367": {
+      "name": "rai1367",
+      "plays": {
+        "2026-10-27T14:48:27.712Z": "2026-10-27"
+      }
+    },
+    "vansire": {
+      "name": "Vansire",
+      "plays": {
+        "2026-10-27T14:44:39.870Z": "2026-10-27"
+      }
+    },
+    "yoasobi": {
+      "name": "YOASOBI",
+      "plays": {
+        "2026-10-27T14:38:20.889Z": "2026-10-27"
+      }
+    },
+    "sidney gish": {
+      "name": "Sidney Gish",
+      "plays": {
+        "2026-10-27T10:30:18.709Z": "2026-10-27"
+      }
+    },
+    "red velvet": {
+      "name": "Red Velvet",
+      "plays": {
+        "2026-10-27T01:52:44.013Z": "2026-10-27"
+      }
+    },
+    "acrimonious": {
+      "name": "Acrimonious",
+      "plays": {
+        "2026-10-27T00:27:09.984Z": "2026-10-27"
+      }
+    },
+    "tom morello": {
+      "name": "Tom Morello",
+      "plays": {
+        "2026-10-27T00:17:46.334Z": "2026-10-27"
+      }
+    },
+    "yves": {
+      "name": "Yves",
+      "plays": {
+        "2026-10-26T21:23:44.831Z": "2026-10-27"
+      }
+    },
+    "misamo": {
+      "name": "MISAMO",
+      "plays": {
+        "2026-10-26T21:20:48.740Z": "2026-10-27"
+      }
+    },
+    "unis": {
+      "name": "UNIS",
+      "plays": {
+        "2026-10-26T21:17:33.235Z": "2026-10-27"
+      }
+    },
+    "huh yunjin": {
+      "name": "HUH YUNJIN",
+      "plays": {
+        "2026-10-26T21:14:29.543Z": "2026-10-27"
+      }
+    },
+    "tzuyu": {
+      "name": "TZUYU",
+      "plays": {
+        "2026-10-26T21:11:52.218Z": "2026-10-27"
+      }
+    },
+    "billlie": {
+      "name": "Billlie",
+      "plays": {
+        "2026-10-26T21:08:08.208Z": "2026-10-27"
+      }
+    },
+    "tws": {
+      "name": "TWS",
+      "plays": {
+        "2026-10-26T21:05:29.440Z": "2026-10-27"
+      }
+    },
+    "wonhee": {
+      "name": "WONHEE",
+      "plays": {
+        "2026-10-26T21:02:17.263Z": "2026-10-27"
+      }
+    },
+    "ifeye": {
+      "name": "ifeye",
+      "plays": {
+        "2026-10-26T20:58:29.217Z": "2026-10-27"
+      }
+    },
+    "rescene": {
+      "name": "RESCENE",
+      "plays": {
+        "2026-10-26T20:55:16.523Z": "2026-10-27"
+      }
+    },
+    "izna": {
+      "name": "izna",
+      "plays": {
+        "2026-10-26T20:52:02.614Z": "2026-10-27"
+      }
+    },
+    "say my name": {
+      "name": "SAY MY NAME",
+      "plays": {
+        "2026-10-26T20:49:15.478Z": "2026-10-27"
+      }
+    },
+    "nayeon": {
+      "name": "NAYEON",
+      "plays": {
+        "2026-10-26T20:46:14.479Z": "2026-10-27"
+      }
+    },
+    "julie": {
+      "name": "JULIE",
+      "plays": {
+        "2026-10-26T20:46:14.479Z": "2026-10-27"
+      }
+    },
+    "babymonster": {
+      "name": "BABYMONSTER",
+      "plays": {
+        "2026-10-26T20:39:46.648Z": "2026-10-27"
+      }
+    },
+    "fromis_9": {
+      "name": "fromis_9",
+      "plays": {
+        "2026-10-26T20:36:28.473Z": "2026-10-27"
+      }
+    },
+    "kiiikiii": {
+      "name": "KiiiKiii",
+      "plays": {
+        "2026-10-26T20:33:33.860Z": "2026-10-27"
+      }
+    },
+    "le sserafim": {
+      "name": "LE SSERAFIM",
+      "plays": {
+        "2026-10-26T20:30:15.266Z": "2026-10-27"
+      }
+    },
+    "hearts2hearts": {
+      "name": "Hearts2Hearts",
+      "plays": {
+        "2026-10-26T20:23:37.727Z": "2026-10-27"
       }
     }
   },
