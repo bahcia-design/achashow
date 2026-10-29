@@ -3133,6 +3133,17 @@
       ],
       "first_seen": "2026-10-27",
       "muted": false
+    },
+    "the neighbourhood": {
+      "name": "The Neighbourhood",
+      "ids": [
+        "spotify:77SW9BnxLY8rJ0RciFqkHh"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-10-29",
+      "muted": false
     }
   },
   "pending": {
@@ -3434,12 +3445,6 @@
       "name": "OneRepublic",
       "plays": {
         "2026-10-07T18:09:34.762Z": "2026-10-07"
-      }
-    },
-    "the neighbourhood": {
-      "name": "The Neighbourhood",
-      "plays": {
-        "2026-10-07T17:58:19.661Z": "2026-10-07"
       }
     },
     "rammstein": {
