@@ -3144,6 +3144,17 @@
       ],
       "first_seen": "2026-10-29",
       "muted": false
+    },
+    "wev": {
+      "name": "wev",
+      "ids": [
+        "spotify:1KpEYlQPQN64r0aRE9Wg6i"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-10-30",
+      "muted": false
     }
   },
   "pending": {
