@@ -3155,6 +3155,50 @@
       ],
       "first_seen": "2026-10-30",
       "muted": false
+    },
+    "red velvet": {
+      "name": "Red Velvet",
+      "ids": [
+        "spotify:1z4g3DjTBBZKhvAroFlhOM"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-31",
+      "muted": false
+    },
+    "girls' generation": {
+      "name": "Girls' Generation",
+      "ids": [
+        "spotify:0Sadg1vgvaPqGTOjxu0N6c"
+      ],
+      "reasons": [
+        "3 reproduções"
+      ],
+      "first_seen": "2026-10-31",
+      "muted": false
+    },
+    "hearts2hearts": {
+      "name": "Hearts2Hearts",
+      "ids": [
+        "spotify:1ZLU77nRzQIaP23mVSYpCQ"
+      ],
+      "reasons": [
+        "3 reproduções"
+      ],
+      "first_seen": "2026-10-31",
+      "muted": false
+    },
+    "ramones": {
+      "name": "Ramones",
+      "ids": [
+        "spotify:1co4F2pPNH8JjTutZkmgSm"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-10-31",
+      "muted": false
     }
   },
   "pending": {
@@ -4448,12 +4492,6 @@
         "2026-10-27T10:30:18.709Z": "2026-10-27"
       }
     },
-    "red velvet": {
-      "name": "Red Velvet",
-      "plays": {
-        "2026-10-27T01:52:44.013Z": "2026-10-27"
-      }
-    },
     "acrimonious": {
       "name": "Acrimonious",
       "plays": {
@@ -4574,16 +4612,52 @@
         "2026-10-26T20:30:15.266Z": "2026-10-27"
       }
     },
-    "hearts2hearts": {
-      "name": "Hearts2Hearts",
-      "plays": {
-        "2026-10-26T20:23:37.727Z": "2026-10-27"
-      }
-    },
     "the cribs": {
       "name": "The Cribs",
       "plays": {
         "2026-10-27T17:53:13.572Z": "2026-10-28"
+      }
+    },
+    "bruno coulais": {
+      "name": "Bruno Coulais",
+      "plays": {
+        "2026-10-31T00:19:31.990Z": "2026-10-31"
+      }
+    },
+    "laurent petitgirard": {
+      "name": "Laurent Petitgirard",
+      "plays": {
+        "2026-10-31T00:19:31.990Z": "2026-10-31"
+      }
+    },
+    "mathilde pellegrini": {
+      "name": "Mathilde Pellegrini",
+      "plays": {
+        "2026-10-31T00:19:31.990Z": "2026-10-31"
+      }
+    },
+    "the children's choir of nice": {
+      "name": "The Children's Choir Of Nice",
+      "plays": {
+        "2026-10-31T00:19:31.990Z": "2026-10-31"
+      }
+    },
+    "hélène breschand": {
+      "name": "Hélène Breschand",
+      "plays": {
+        "2026-10-31T00:19:31.990Z": "2026-10-31"
+      }
+    },
+    "hungrarian symphony orchestra budapest": {
+      "name": "Hungrarian Symphony Orchestra Budapest",
+      "plays": {
+        "2026-10-31T00:19:31.990Z": "2026-10-31"
+      }
+    },
+    "ray parker jr.": {
+      "name": "Ray Parker Jr.",
+      "plays": {
+        "2026-10-31T00:17:01.067Z": "2026-10-31"
       }
     }
   },
