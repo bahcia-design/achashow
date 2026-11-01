@@ -3199,6 +3199,28 @@
       ],
       "first_seen": "2026-10-31",
       "muted": false
+    },
+    "the living tombstone": {
+      "name": "The Living Tombstone",
+      "ids": [
+        "spotify:0I6yADrmeyvw66g7yjkqIF"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-01",
+      "muted": false
+    },
+    "the smiths": {
+      "name": "The Smiths",
+      "ids": [
+        "spotify:3yY2gUcIsjMr8hjo51PoJ8"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-01",
+      "muted": false
     }
   },
   "pending": {
@@ -3596,12 +3618,6 @@
       "name": "U2",
       "plays": {
         "2026-10-08T15:58:35.679Z": "2026-10-08"
-      }
-    },
-    "the smiths": {
-      "name": "The Smiths",
-      "plays": {
-        "2026-10-08T15:42:24.106Z": "2026-10-08"
       }
     },
     "fuller": {
@@ -4658,6 +4674,24 @@
       "name": "Ray Parker Jr.",
       "plays": {
         "2026-10-31T00:17:01.067Z": "2026-10-31"
+      }
+    },
+    "the ghastly ones": {
+      "name": "The Ghastly Ones",
+      "plays": {
+        "2026-11-01T00:06:53.223Z": "2026-11-01"
+      }
+    },
+    "capital inicial": {
+      "name": "Capital Inicial",
+      "plays": {
+        "2026-10-31T22:46:32.816Z": "2026-11-01"
+      }
+    },
+    "joy division": {
+      "name": "Joy Division",
+      "plays": {
+        "2026-10-31T17:56:22.018Z": "2026-11-01"
       }
     }
   },
