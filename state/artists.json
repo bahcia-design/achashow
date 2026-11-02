@@ -3221,6 +3221,17 @@
       ],
       "first_seen": "2026-11-01",
       "muted": false
+    },
+    "probot": {
+      "name": "Probot",
+      "ids": [
+        "spotify:3up7wqUGMUTm0184V57RTH"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-02",
+      "muted": false
     }
   },
   "pending": {
@@ -4692,6 +4703,24 @@
       "name": "Joy Division",
       "plays": {
         "2026-10-31T17:56:22.018Z": "2026-11-01"
+      }
+    },
+    "eric wagner": {
+      "name": "Eric Wagner",
+      "plays": {
+        "2026-11-02T17:14:23.016Z": "2026-11-02"
+      }
+    },
+    "jack black": {
+      "name": "Jack Black",
+      "plays": {
+        "2026-11-02T16:55:18.139Z": "2026-11-02"
+      }
+    },
+    "the grass museum": {
+      "name": "The Grass Museum",
+      "plays": {
+        "2026-11-01T19:52:11.817Z": "2026-11-02"
       }
     }
   },
