@@ -3232,6 +3232,105 @@
       ],
       "first_seen": "2026-11-02",
       "muted": false
+    },
+    "yousei teikoku": {
+      "name": "Yousei Teikoku",
+      "ids": [
+        "spotify:6CDPvGtPJ6Iz7uftJYQpxO"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-03",
+      "muted": false
+    },
+    "maggie lindemann": {
+      "name": "Maggie Lindemann",
+      "ids": [
+        "spotify:0uGk2czvcpWQA383Im6ajf"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-03",
+      "muted": false
+    },
+    "mili": {
+      "name": "Mili",
+      "ids": [
+        "spotify:0K05TDnN7xPwIHDOwD2YYs"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-03",
+      "muted": false
+    },
+    "lisa": {
+      "name": "LiSA",
+      "ids": [
+        "spotify:0blbVefuxOGltDBa00dspv"
+      ],
+      "reasons": [
+        "3 reproduções"
+      ],
+      "first_seen": "2026-11-03",
+      "muted": false
+    },
+    "tokio hotel": {
+      "name": "Tokio Hotel",
+      "ids": [
+        "spotify:46aNfN89JrOQTCy97GoCHa"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-03",
+      "muted": false
+    },
+    "katseye": {
+      "name": "KATSEYE",
+      "ids": [
+        "spotify:3c0gDdb9lhnHGFtP4prQpn"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-03",
+      "muted": false
+    },
+    "colby o'donis": {
+      "name": "Colby O'Donis",
+      "ids": [
+        "spotify:7fObcBw9VM3x7ntWKCYl0z"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-03",
+      "muted": false
+    },
+    "akeboshi": {
+      "name": "Akeboshi",
+      "ids": [
+        "spotify:7whUoQAv5bVu2Cv4ZmgTyw"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-03",
+      "muted": false
+    },
+    "いろんなためいき": {
+      "name": "いろんなためいき",
+      "ids": [
+        "spotify:79NdG8r5gvbD8ro8DqnpH0"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-03",
+      "muted": false
     }
   },
   "pending": {
@@ -3329,12 +3428,6 @@
       "name": "Ricky Montgomery",
       "plays": {
         "2026-09-30T13:10:04.951Z": "2026-09-30"
-      }
-    },
-    "maggie lindemann": {
-      "name": "Maggie Lindemann",
-      "plays": {
-        "2026-09-30T13:04:51.205Z": "2026-09-30"
       }
     },
     "momma": {
@@ -3469,12 +3562,6 @@
         "2026-10-02T21:55:14.555Z": "2026-10-03"
       }
     },
-    "katseye": {
-      "name": "KATSEYE",
-      "plays": {
-        "2026-10-02T20:59:41.547Z": "2026-10-03"
-      }
-    },
     "azumi takahashi": {
       "name": "Azumi Takahashi",
       "plays": {
@@ -3565,12 +3652,6 @@
         "2026-10-06T23:34:13.287Z": "2026-10-07"
       }
     },
-    "colby o'donis": {
-      "name": "Colby O'Donis",
-      "plays": {
-        "2026-10-06T23:30:08.062Z": "2026-10-07"
-      }
-    },
     "taylor swift": {
       "name": "Taylor Swift",
       "plays": {
@@ -3593,12 +3674,6 @@
       "name": "Daryl Hall & John Oates",
       "plays": {
         "2026-10-06T17:28:52.167Z": "2026-10-07"
-      }
-    },
-    "tokio hotel": {
-      "name": "Tokio Hotel",
-      "plays": {
-        "2026-10-06T17:00:35.827Z": "2026-10-07"
       }
     },
     "last alliance": {
@@ -3713,12 +3788,6 @@
       "name": "Edu Falaschi",
       "plays": {
         "2026-10-09T17:40:53.307Z": "2026-10-09"
-      }
-    },
-    "mili": {
-      "name": "Mili",
-      "plays": {
-        "2026-10-09T17:37:22.976Z": "2026-10-09"
       }
     },
     "caifanes": {
@@ -4067,12 +4136,6 @@
       "name": "Lana Del Rey",
       "plays": {
         "2026-10-16T14:18:07.747Z": "2026-10-16"
-      }
-    },
-    "lisa": {
-      "name": "LiSA",
-      "plays": {
-        "2026-10-15T21:15:57.447Z": "2026-10-16"
       }
     },
     "cheese people": {
@@ -4721,6 +4784,102 @@
       "name": "The Grass Museum",
       "plays": {
         "2026-11-01T19:52:11.817Z": "2026-11-02"
+      }
+    },
+    "sleeping with sirens": {
+      "name": "Sleeping With Sirens",
+      "plays": {
+        "2026-11-03T02:25:12.783Z": "2026-11-03"
+      }
+    },
+    "dxs": {
+      "name": "DxS",
+      "plays": {
+        "2026-11-03T02:17:26.865Z": "2026-11-03"
+      }
+    },
+    "the caretaker": {
+      "name": "The Caretaker",
+      "plays": {
+        "2026-11-03T02:01:58.062Z": "2026-11-03"
+      }
+    },
+    "circrush": {
+      "name": "CIRCRUSH",
+      "plays": {
+        "2026-11-03T01:44:58.467Z": "2026-11-03"
+      }
+    },
+    "r.l. beats": {
+      "name": "R.L. Beats",
+      "plays": {
+        "2026-11-03T01:33:55.512Z": "2026-11-03"
+      }
+    },
+    "asca": {
+      "name": "ASCA",
+      "plays": {
+        "2026-11-03T01:31:51.774Z": "2026-11-03"
+      }
+    },
+    "hoobastank": {
+      "name": "Hoobastank",
+      "plays": {
+        "2026-11-03T01:28:04.180Z": "2026-11-03"
+      }
+    },
+    "nx zero": {
+      "name": "NX Zero",
+      "plays": {
+        "2026-11-03T01:24:10.874Z": "2026-11-03"
+      }
+    },
+    "fkj": {
+      "name": "FKJ",
+      "plays": {
+        "2026-11-03T01:05:43.468Z": "2026-11-03"
+      }
+    },
+    "labrinth": {
+      "name": "Labrinth",
+      "plays": {
+        "2026-11-03T01:05:43.468Z": "2026-11-03"
+      }
+    },
+    "the pied pipers": {
+      "name": "The Pied Pipers",
+      "plays": {
+        "2026-11-03T00:57:25.142Z": "2026-11-03"
+      }
+    },
+    "farrel ewanena": {
+      "name": "Farrel Ewanena",
+      "plays": {
+        "2026-11-03T00:54:30.866Z": "2026-11-03"
+      }
+    },
+    "lordm": {
+      "name": "LordM",
+      "plays": {
+        "2026-11-03T00:51:04.567Z": "2026-11-03"
+      }
+    },
+    "herb alpert & the tijuana brass": {
+      "name": "Herb Alpert & The Tijuana Brass",
+      "plays": {
+        "2026-11-03T00:46:26.570Z": "2026-11-03"
+      }
+    },
+    "skillet": {
+      "name": "Skillet",
+      "plays": {
+        "2026-11-03T00:26:49.963Z": "2026-11-03"
+      }
+    },
+    "manoel gomes": {
+      "name": "Manoel Gomes",
+      "plays": {
+        "2026-11-03T00:23:42.674Z": "2026-11-03"
       }
     }
   },
