@@ -3331,6 +3331,17 @@
       ],
       "first_seen": "2026-11-03",
       "muted": false
+    },
+    "asca": {
+      "name": "ASCA",
+      "ids": [
+        "spotify:5pjjlQXYjoMFWdjdKOre9s"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-04",
+      "muted": false
     }
   },
   "pending": {
@@ -4816,12 +4827,6 @@
         "2026-11-03T01:33:55.512Z": "2026-11-03"
       }
     },
-    "asca": {
-      "name": "ASCA",
-      "plays": {
-        "2026-11-03T01:31:51.774Z": "2026-11-03"
-      }
-    },
     "hoobastank": {
       "name": "Hoobastank",
       "plays": {
@@ -4880,6 +4885,66 @@
       "name": "Manoel Gomes",
       "plays": {
         "2026-11-03T00:23:42.674Z": "2026-11-03"
+      }
+    },
+    "con the artist": {
+      "name": "CON THE ARTIST",
+      "plays": {
+        "2026-11-04T19:36:09.652Z": "2026-11-04"
+      }
+    },
+    "kevin walkman": {
+      "name": "Kevin Walkman",
+      "plays": {
+        "2026-11-04T19:29:27.422Z": "2026-11-04"
+      }
+    },
+    "almost monday": {
+      "name": "almost monday",
+      "plays": {
+        "2026-11-04T19:25:24.934Z": "2026-11-04"
+      }
+    },
+    "last dinosaurs": {
+      "name": "Last Dinosaurs",
+      "plays": {
+        "2026-11-04T19:23:10.838Z": "2026-11-04"
+      }
+    },
+    "hidanny!!": {
+      "name": "Hidanny!!",
+      "plays": {
+        "2026-11-04T19:11:59.403Z": "2026-11-04"
+      }
+    },
+    "inoha": {
+      "name": "INOHA",
+      "plays": {
+        "2026-11-04T19:08:32.483Z": "2026-11-04"
+      }
+    },
+    "valley": {
+      "name": "Valley",
+      "plays": {
+        "2026-11-04T19:05:24.395Z": "2026-11-04"
+      }
+    },
+    "shishamo": {
+      "name": "SHISHAMO",
+      "plays": {
+        "2026-11-04T18:26:16.645Z": "2026-11-04"
+      }
+    },
+    "daichi miura": {
+      "name": "Daichi Miura",
+      "plays": {
+        "2026-11-04T18:21:05.313Z": "2026-11-04"
+      }
+    },
+    "natalie holt": {
+      "name": "Natalie Holt",
+      "plays": {
+        "2026-11-04T18:10:11.510Z": "2026-11-04"
       }
     }
   },
