@@ -3639,6 +3639,83 @@
       ],
       "first_seen": "2026-11-05",
       "muted": false
+    },
+    "kevin walkman": {
+      "name": "Kevin Walkman",
+      "ids": [
+        "spotify:0Q1Xt8JEFDwfiuNBIM60E4"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-06",
+      "muted": false
+    },
+    "luvleelou": {
+      "name": "Luvleelou",
+      "ids": [
+        "spotify:12OZHc5dwkNzjQ1trfG4Ml"
+      ],
+      "reasons": [
+        "3 reproduções"
+      ],
+      "first_seen": "2026-11-06",
+      "muted": false
+    },
+    "a2o soul": {
+      "name": "A2O SOUL",
+      "ids": [
+        "spotify:1sqWFSwBcJ6eunJRrCsmYb"
+      ],
+      "reasons": [
+        "3 reproduções"
+      ],
+      "first_seen": "2026-11-06",
+      "muted": false
+    },
+    "a2o": {
+      "name": "A2O",
+      "ids": [
+        "spotify:7rBQch7KtqQNQjV5AxdHlE"
+      ],
+      "reasons": [
+        "4 reproduções"
+      ],
+      "first_seen": "2026-11-06",
+      "muted": false
+    },
+    "sim": {
+      "name": "SiM",
+      "ids": [
+        "spotify:2BM933ADIluGGrPBOhPgIt"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-06",
+      "muted": false
+    },
+    "my first story": {
+      "name": "MY FIRST STORY",
+      "ids": [
+        "spotify:6cutt8thPFUICMfxaYerWd"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-06",
+      "muted": false
+    },
+    "last alliance": {
+      "name": "LAST ALLIANCE",
+      "ids": [
+        "spotify:3j8Vtsosedh2OfhYZ381pC"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-06",
+      "muted": false
     }
   },
   "pending": {
@@ -3964,12 +4041,6 @@
       "name": "Daryl Hall & John Oates",
       "plays": {
         "2026-10-06T17:28:52.167Z": "2026-10-07"
-      }
-    },
-    "last alliance": {
-      "name": "LAST ALLIANCE",
-      "plays": {
-        "2026-10-08T18:33:24.384Z": "2026-10-08"
       }
     },
     "bubi": {
@@ -4614,12 +4685,6 @@
         "2026-10-20T19:21:05.682Z": "2026-10-21"
       }
     },
-    "my first story": {
-      "name": "MY FIRST STORY",
-      "plays": {
-        "2026-10-20T18:33:20.625Z": "2026-10-21"
-      }
-    },
     "led zeppelin": {
       "name": "Led Zeppelin",
       "plays": {
@@ -5070,12 +5135,6 @@
         "2026-11-04T19:36:09.652Z": "2026-11-04"
       }
     },
-    "kevin walkman": {
-      "name": "Kevin Walkman",
-      "plays": {
-        "2026-11-04T19:29:27.422Z": "2026-11-04"
-      }
-    },
     "almost monday": {
       "name": "almost monday",
       "plays": {
@@ -5172,12 +5231,6 @@
         "2026-11-05T13:55:10.008Z": "2026-11-05"
       }
     },
-    "luvleelou": {
-      "name": "Luvleelou",
-      "plays": {
-        "2026-11-05T12:12:54.844Z": "2026-11-05"
-      }
-    },
     "ok glass": {
       "name": "OK Glass",
       "plays": {
@@ -5186,12 +5239,6 @@
     },
     "a2o lite": {
       "name": "A2O LITE",
-      "plays": {
-        "2026-11-05T01:56:38.558Z": "2026-11-05"
-      }
-    },
-    "a2o": {
-      "name": "A2O",
       "plays": {
         "2026-11-05T01:56:38.558Z": "2026-11-05"
       }
@@ -5236,6 +5283,30 @@
       "name": "Joaquim e Manuel",
       "plays": {
         "2026-11-05T00:51:13.534Z": "2026-11-05"
+      }
+    },
+    "リリ(cv: 小松未可子)": {
+      "name": "リリ(CV: 小松未可子)",
+      "plays": {
+        "2026-11-06T00:12:19.392Z": "2026-11-06"
+      }
+    },
+    "flow": {
+      "name": "FLOW",
+      "plays": {
+        "2026-11-05T23:45:00.386Z": "2026-11-06"
+      }
+    },
+    "jon-yakitory": {
+      "name": "jon-YAKITORY",
+      "plays": {
+        "2026-11-05T23:20:58.085Z": "2026-11-06"
+      }
+    },
+    "sukima switch": {
+      "name": "Sukima Switch",
+      "plays": {
+        "2026-11-05T23:11:29.451Z": "2026-11-06"
       }
     }
   },
