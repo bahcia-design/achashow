@@ -3716,6 +3716,17 @@
       ],
       "first_seen": "2026-11-06",
       "muted": false
+    },
+    "james newton howard": {
+      "name": "James Newton Howard",
+      "ids": [
+        "spotify:2M4eNCvV3CJUswavkhAQg2"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-07",
+      "muted": false
     }
   },
   "pending": {
@@ -5307,6 +5318,54 @@
       "name": "Sukima Switch",
       "plays": {
         "2026-11-05T23:11:29.451Z": "2026-11-06"
+      }
+    },
+    "insira aqui": {
+      "name": "Insira Aqui",
+      "plays": {
+        "2026-11-07T04:10:54.697Z": "2026-11-07"
+      }
+    },
+    "ichiko aoba": {
+      "name": "Ichiko Aoba",
+      "plays": {
+        "2026-11-07T02:44:36.060Z": "2026-11-07"
+      }
+    },
+    "zé do piseirão": {
+      "name": "Zé do Piseirão",
+      "plays": {
+        "2026-11-07T02:41:42.797Z": "2026-11-07"
+      }
+    },
+    "djavú": {
+      "name": "Djavú",
+      "plays": {
+        "2026-11-07T02:41:42.797Z": "2026-11-07"
+      }
+    },
+    "dj juninho portugal": {
+      "name": "DJ Juninho Portugal",
+      "plays": {
+        "2026-11-07T02:41:42.797Z": "2026-11-07"
+      }
+    },
+    "calcinha preta": {
+      "name": "Calcinha Preta",
+      "plays": {
+        "2026-11-07T02:38:21.793Z": "2026-11-07"
+      }
+    },
+    "paradigm": {
+      "name": "Paradigm",
+      "plays": {
+        "2026-11-07T00:29:39.275Z": "2026-11-07"
+      }
+    },
+    "jennifer lawrence": {
+      "name": "Jennifer Lawrence",
+      "plays": {
+        "2026-11-06T22:07:10.128Z": "2026-11-07"
       }
     }
   },

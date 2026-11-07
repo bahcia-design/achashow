@@ -4295,6 +4295,22 @@
       "date": "2026-11-05",
       "artist": "Sou",
       "first_seen": "2026-11-06"
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFE4MWVnRHRwZkdDLTdOb21qQjhWNmYwOXJDMTRhMlA3clY1TDhTbVpKUXZhMzAyOWtWSTBuVkFrMVk5Ri1ZSkdQS1ZTNWplZEJQQXM4V0lQa3R4RFRkRElZcmFNMmVMeEpndzJmaTlZbEFwN0x5YWg3U0Q3Y0pjcjJnWDY5MVR4NTFuM0ZrVWxhYlh3dU9DTm5aUzROSkhxUmJaUF9saw?oc=5": {
+      "title": "Coachella na mira: ADÉLA negocia show após confirmar Lollapalooza Bras",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFE4MWVnRHRwZkdDLTdOb21qQjhWNmYwOXJDMTRhMlA3clY1TDhTbVpKUXZhMzAyOWtWSTBuVkFrMVk5Ri1ZSkdQS1ZTNWplZEJQQXM4V0lQa3R4RFRkRElZcmFNMmVMeEpndzJmaTlZbEFwN0x5YWg3U0Q3Y0pjcjJnWDY5MVR4NTFuM0ZrVWxhYlh3dU9DTm5aUzROSkhxUmJaUF9saw?oc=5",
+      "source": "The Music Journal Brazil",
+      "date": "2026-11-07",
+      "artist": "ADÉLA",
+      "first_seen": "2026-11-07"
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxONUZSSklyT29MZTJYU044Q3FxQXlyTDlKOFRSMkZyZmdYZUs5SVhHRjk2RDFJZ1E5SzhTNk5zQWZuSUM2ZkMxNkdabC1ueERVbXhYT1RGMjBlanNNclFRUHZvSmxxR3otVEkxbmlIaFprNElqMXlpRWhIWnRibFFpZW9kdWNxQdIBiwFBVV95cUxPbWdXcENnUHRpbVI4Q0lrM1ZBQnJZNkNSV3E0cFVXT0hFRE1KZEV0QzRaRlhtWXBVcUxIRkdLSWlNam44QkQ0Q1N0RmFMSXM4cHFqcFZkQUdiRFUtNUtyMU9VTEVmUTlkRWlBOUFvcHF2NXctU1dfcEpVMEpuWEpHN01NVzZGemZuZFdn?oc=5": {
+      "title": "The Neighbourhood vem ao Brasil para dois shows em junho",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONUZSSklyT29MZTJYU044Q3FxQXlyTDlKOFRSMkZyZmdYZUs5SVhHRjk2RDFJZ1E5SzhTNk5zQWZuSUM2ZkMxNkdabC1ueERVbXhYT1RGMjBlanNNclFRUHZvSmxxR3otVEkxbmlIaFprNElqMXlpRWhIWnRibFFpZW9kdWNxQdIBiwFBVV95cUxPbWdXcENnUHRpbVI4Q0lrM1ZBQnJZNkNSV3E0cFVXT0hFRE1KZEV0QzRaRlhtWXBVcUxIRkdLSWlNam44QkQ0Q1N0RmFMSXM4cHFqcFZkQUdiRFUtNUtyMU9VTEVmUTlkRWlBOUFvcHF2NXctU1dfcEpVMEpuWEpHN01NVzZGemZuZFdn?oc=5",
+      "source": "Portal PopNow",
+      "date": "2026-11-02",
+      "artist": "The Neighbourhood",
+      "first_seen": "2026-11-07"
     }
   },
   "last_alert": {
@@ -4327,7 +4343,7 @@
     "citizen": "2026-11-06",
     "babymetal": "2026-10-13",
     "zara larsson": "2026-10-14",
-    "adéla": "2026-10-15",
+    "adéla": "2026-11-07",
     "kamaitachi": "2026-10-15",
     "mass of the fermenting dregs": "2026-10-16",
     "michael jackson": "2026-10-16",
@@ -4353,5 +4369,5 @@
     "league of legends": "2026-11-06",
     "sim": "2026-11-06"
   },
-  "last_run": "2026-11-06"
+  "last_run": "2026-11-07"
 }
