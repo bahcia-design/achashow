@@ -3727,6 +3727,138 @@
       ],
       "first_seen": "2026-11-07",
       "muted": false
+    },
+    "calcinha preta": {
+      "name": "Calcinha Preta",
+      "ids": [
+        "spotify:6Kps94g1Npexh3LrinIOvC"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-11-08",
+      "muted": false
+    },
+    "parangolé": {
+      "name": "Parangolé",
+      "ids": [
+        "spotify:2v5eqze59fqRes2e5QVGhf"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-11-08",
+      "muted": false
+    },
+    "band-maid": {
+      "name": "BAND-MAID",
+      "ids": [
+        "spotify:5Wh3G01Xfxn2zzEZNpuYHH"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-08",
+      "muted": false
+    },
+    "宮野真守": {
+      "name": "宮野真守",
+      "ids": [
+        "spotify:2wmWOyjETOwI0iVIZSjiJQ"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-08",
+      "muted": false
+    },
+    "鈴木みのり": {
+      "name": "鈴木みのり",
+      "ids": [
+        "spotify:3No3soWJHB0mCzqbGlV7cu"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-08",
+      "muted": false
+    },
+    "bubi": {
+      "name": "Bubi",
+      "ids": [
+        "spotify:2LlDXTSoqYFe1viQSb3zw7"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-08",
+      "muted": false
+    },
+    "julie": {
+      "name": "julie",
+      "ids": [
+        "spotify:3VNzWLePg9jTvQ2ximYOzW"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-08",
+      "muted": false
+    },
+    "laurence manning": {
+      "name": "Laurence Manning",
+      "ids": [
+        "spotify:4pS3AwZi3Nd0klW5yEE1Le"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-08",
+      "muted": false
+    },
+    "shishamo": {
+      "name": "SHISHAMO",
+      "ids": [
+        "spotify:6MGHit7sV38BhpChZYByFv"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-08",
+      "muted": false
+    },
+    "arapuca hits": {
+      "name": "Arapuca Hits",
+      "ids": [
+        "spotify:6eso50KR292SQYU2j7wqB0"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-08",
+      "muted": false
+    },
+    "cheese people": {
+      "name": "Cheese People",
+      "ids": [
+        "spotify:3NFAoFIxpzHRAUpgpX7rjO"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-08",
+      "muted": false
+    },
+    "zé vaqueiro": {
+      "name": "Zé Vaqueiro",
+      "ids": [
+        "spotify:5K8Rmjmf4RZFffz94EmBRt"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-08",
+      "muted": false
     }
   },
   "pending": {
@@ -4052,24 +4184,6 @@
       "name": "Daryl Hall & John Oates",
       "plays": {
         "2026-10-06T17:28:52.167Z": "2026-10-07"
-      }
-    },
-    "bubi": {
-      "name": "Bubi",
-      "plays": {
-        "2026-10-08T18:29:43.633Z": "2026-10-08"
-      }
-    },
-    "band-maid": {
-      "name": "BAND-MAID",
-      "plays": {
-        "2026-10-08T18:16:52.674Z": "2026-10-08"
-      }
-    },
-    "laurence manning": {
-      "name": "Laurence Manning",
-      "plays": {
-        "2026-10-08T18:12:16.495Z": "2026-10-08"
       }
     },
     "u2": {
@@ -4462,12 +4576,6 @@
         "2026-10-16T14:18:07.747Z": "2026-10-16"
       }
     },
-    "cheese people": {
-      "name": "Cheese People",
-      "plays": {
-        "2026-10-15T21:02:27.849Z": "2026-10-16"
-      }
-    },
     "dean lewis": {
       "name": "Dean Lewis",
       "plays": {
@@ -4810,18 +4918,6 @@
         "2026-10-24T21:24:21.020Z": "2026-10-25"
       }
     },
-    "宮野真守": {
-      "name": "宮野真守",
-      "plays": {
-        "2026-10-26T15:59:21.576Z": "2026-10-26"
-      }
-    },
-    "鈴木みのり": {
-      "name": "鈴木みのり",
-      "plays": {
-        "2026-10-26T15:59:21.576Z": "2026-10-26"
-      }
-    },
     "solence": {
       "name": "Solence",
       "plays": {
@@ -4944,12 +5040,6 @@
     },
     "nayeon": {
       "name": "NAYEON",
-      "plays": {
-        "2026-10-26T20:46:14.479Z": "2026-10-27"
-      }
-    },
-    "julie": {
-      "name": "JULIE",
       "plays": {
         "2026-10-26T20:46:14.479Z": "2026-10-27"
       }
@@ -5176,12 +5266,6 @@
         "2026-11-04T19:05:24.395Z": "2026-11-04"
       }
     },
-    "shishamo": {
-      "name": "SHISHAMO",
-      "plays": {
-        "2026-11-04T18:26:16.645Z": "2026-11-04"
-      }
-    },
     "daichi miura": {
       "name": "Daichi Miura",
       "plays": {
@@ -5350,12 +5434,6 @@
         "2026-11-07T02:41:42.797Z": "2026-11-07"
       }
     },
-    "calcinha preta": {
-      "name": "Calcinha Preta",
-      "plays": {
-        "2026-11-07T02:38:21.793Z": "2026-11-07"
-      }
-    },
     "paradigm": {
       "name": "Paradigm",
       "plays": {
@@ -5366,6 +5444,162 @@
       "name": "Jennifer Lawrence",
       "plays": {
         "2026-11-06T22:07:10.128Z": "2026-11-07"
+      }
+    },
+    "childish gambino": {
+      "name": "Childish Gambino",
+      "plays": {
+        "2026-11-08T13:49:14.664Z": "2026-11-08"
+      }
+    },
+    "evinha": {
+      "name": "Evinha",
+      "plays": {
+        "2026-11-08T13:36:18.626Z": "2026-11-08"
+      }
+    },
+    "cage the elephant": {
+      "name": "Cage The Elephant",
+      "plays": {
+        "2026-11-08T13:34:09.231Z": "2026-11-08"
+      }
+    },
+    "togenashi togeari": {
+      "name": "TOGENASHI TOGEARI",
+      "plays": {
+        "2026-11-08T13:21:33.969Z": "2026-11-08"
+      }
+    },
+    "east of eden": {
+      "name": "East Of Eden",
+      "plays": {
+        "2026-11-08T13:18:23.166Z": "2026-11-08"
+      }
+    },
+    "tatsuya kitani": {
+      "name": "Tatsuya Kitani",
+      "plays": {
+        "2026-11-08T13:11:52.775Z": "2026-11-08"
+      }
+    },
+    "modern talking": {
+      "name": "Modern Talking",
+      "plays": {
+        "2026-11-08T13:03:59.580Z": "2026-11-08"
+      }
+    },
+    "eagles of death metal": {
+      "name": "Eagles Of Death Metal",
+      "plays": {
+        "2026-11-08T12:56:08.173Z": "2026-11-08"
+      }
+    },
+    "sokoninaru": {
+      "name": "Sokoninaru",
+      "plays": {
+        "2026-11-08T12:30:51.671Z": "2026-11-08"
+      }
+    },
+    "kempa": {
+      "name": "Kempa",
+      "plays": {
+        "2026-11-08T03:51:07.324Z": "2026-11-08"
+      }
+    },
+    "empire street": {
+      "name": "Empire Street",
+      "plays": {
+        "2026-11-08T03:51:07.324Z": "2026-11-08"
+      }
+    },
+    "canal do hit": {
+      "name": "Canal Do Hit",
+      "plays": {
+        "2026-11-08T03:42:56.988Z": "2026-11-08"
+      }
+    },
+    "felipe amorim": {
+      "name": "Felipe Amorim",
+      "plays": {
+        "2026-11-08T03:40:14.707Z": "2026-11-08"
+      }
+    },
+    "tv girl": {
+      "name": "TV Girl",
+      "plays": {
+        "2026-11-08T03:36:35.504Z": "2026-11-08"
+      }
+    },
+    "dj jpr": {
+      "name": "Dj JPR",
+      "plays": {
+        "2026-11-08T03:33:01.116Z": "2026-11-08"
+      }
+    },
+    "bernardo gomes": {
+      "name": "Bernardo Gomes",
+      "plays": {
+        "2026-11-08T03:29:05.244Z": "2026-11-08"
+      }
+    },
+    "felipe farra": {
+      "name": "Felipe Farra",
+      "plays": {
+        "2026-11-08T03:29:05.244Z": "2026-11-08"
+      }
+    },
+    "dlima7": {
+      "name": "DLIMA7",
+      "plays": {
+        "2026-11-08T03:29:05.244Z": "2026-11-08"
+      }
+    },
+    "cyndi lauper": {
+      "name": "Cyndi Lauper",
+      "plays": {
+        "2026-11-08T03:20:16.207Z": "2026-11-08"
+      }
+    },
+    "le tigre": {
+      "name": "Le Tigre",
+      "plays": {
+        "2026-11-08T03:16:17.581Z": "2026-11-08"
+      }
+    },
+    "daft punk": {
+      "name": "Daft Punk",
+      "plays": {
+        "2026-11-08T03:07:02.476Z": "2026-11-08"
+      }
+    },
+    "seu vaqueiro": {
+      "name": "Seu Vaqueiro",
+      "plays": {
+        "2026-11-08T02:56:05.750Z": "2026-11-08"
+      }
+    },
+    "gloria groove": {
+      "name": "Gloria Groove",
+      "plays": {
+        "2026-11-08T02:46:45.870Z": "2026-11-08"
+      }
+    },
+    "ferrugem": {
+      "name": "Ferrugem",
+      "plays": {
+        "2026-11-08T02:43:56.585Z": "2026-11-08"
+      }
+    },
+    "sorriso maroto": {
+      "name": "Sorriso Maroto",
+      "plays": {
+        "2026-11-08T02:43:56.585Z": "2026-11-08"
+      }
+    },
+    "arlindo cruz": {
+      "name": "Arlindo Cruz",
+      "plays": {
+        "2026-11-08T02:40:37.378Z": "2026-11-08"
       }
     }
   },
