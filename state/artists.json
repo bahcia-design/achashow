@@ -3859,6 +3859,84 @@
       ],
       "first_seen": "2026-11-08",
       "muted": false
+    },
+    "lagum": {
+      "name": "Lagum",
+      "ids": [
+        "spotify:5D56dZmhE9DgT01XixdHiD"
+      ],
+      "reasons": [
+        "top:medium_term",
+        "top:short_term"
+      ],
+      "first_seen": "2026-11-09",
+      "muted": false
+    },
+    "ashe": {
+      "name": "Ashe",
+      "ids": [
+        "spotify:6P5NO5hzJbuOqSdyPB7SJM"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-11-09",
+      "muted": false
+    },
+    "rusted root": {
+      "name": "Rusted Root",
+      "ids": [
+        "spotify:2M3vnW1p5w4uPRkLYTbvdB"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-09",
+      "muted": false
+    },
+    "azumi takahashi": {
+      "name": "Azumi Takahashi",
+      "ids": [
+        "spotify:4VeqFgWkP7P9eEGwzPuXcM"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-09",
+      "muted": false
+    },
+    "アトラスサウンドチーム": {
+      "name": "アトラスサウンドチーム",
+      "ids": [
+        "spotify:4hFBhdNVZZuVk5FYThUwaN"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-09",
+      "muted": false
+    },
+    "atlus game music": {
+      "name": "ATLUS GAME MUSIC",
+      "ids": [
+        "spotify:7tUDDR0lAc9PLMPHPfzaqI"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-09",
+      "muted": false
+    },
+    "fromis_9": {
+      "name": "fromis_9",
+      "ids": [
+        "spotify:24nUVBIlCGi4twz4nYxJum"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-09",
+      "muted": false
     }
   },
   "pending": {
@@ -4082,24 +4160,6 @@
       "name": "Winter Aid",
       "plays": {
         "2026-10-02T21:55:14.555Z": "2026-10-03"
-      }
-    },
-    "azumi takahashi": {
-      "name": "Azumi Takahashi",
-      "plays": {
-        "2026-10-02T20:48:45.560Z": "2026-10-03"
-      }
-    },
-    "アトラスサウンドチーム": {
-      "name": "アトラスサウンドチーム",
-      "plays": {
-        "2026-10-02T20:48:45.560Z": "2026-10-03"
-      }
-    },
-    "atlus game music": {
-      "name": "ATLUS GAME MUSIC",
-      "plays": {
-        "2026-10-02T20:48:45.560Z": "2026-10-03"
       }
     },
     "mc hk da 7": {
@@ -5050,12 +5110,6 @@
         "2026-10-26T20:39:46.648Z": "2026-10-27"
       }
     },
-    "fromis_9": {
-      "name": "fromis_9",
-      "plays": {
-        "2026-10-26T20:36:28.473Z": "2026-10-27"
-      }
-    },
     "kiiikiii": {
       "name": "KiiiKiii",
       "plays": {
@@ -5600,6 +5654,42 @@
       "name": "Arlindo Cruz",
       "plays": {
         "2026-11-08T02:40:37.378Z": "2026-11-08"
+      }
+    },
+    "picheolin": {
+      "name": "Picheolin",
+      "plays": {
+        "2026-11-09T21:33:55.422Z": "2026-11-09"
+      }
+    },
+    "charlie brown jr.": {
+      "name": "Charlie Brown Jr.",
+      "plays": {
+        "2026-11-09T20:59:44.203Z": "2026-11-09"
+      }
+    },
+    "dr. dog": {
+      "name": "Dr. Dog",
+      "plays": {
+        "2026-11-09T20:13:31.516Z": "2026-11-09"
+      }
+    },
+    "carrottier": {
+      "name": "carrottier",
+      "plays": {
+        "2026-11-09T20:09:36.191Z": "2026-11-09"
+      }
+    },
+    "kendrick lamar": {
+      "name": "Kendrick Lamar",
+      "plays": {
+        "2026-11-09T20:01:12.025Z": "2026-11-09"
+      }
+    },
+    "delanie": {
+      "name": "Delanie",
+      "plays": {
+        "2026-11-09T14:56:40.470Z": "2026-11-09"
       }
     }
   },
