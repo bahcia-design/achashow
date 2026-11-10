@@ -3937,6 +3937,50 @@
       ],
       "first_seen": "2026-11-09",
       "muted": false
+    },
+    "kasane teto": {
+      "name": "Kasane Teto",
+      "ids": [
+        "spotify:4JX0GdKx8EduY2Ck7qac4H"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-10",
+      "muted": false
+    },
+    "tatsuya kitani": {
+      "name": "Tatsuya Kitani",
+      "ids": [
+        "spotify:7mvhRvEAHiCTQHUnH7fgnv"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-10",
+      "muted": false
+    },
+    "three days grace": {
+      "name": "Three Days Grace",
+      "ids": [
+        "spotify:2xiIXseIJcq3nG7C8fHeBj"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-10",
+      "muted": false
+    },
+    "hikaru shirosu": {
+      "name": "Hikaru Shirosu",
+      "ids": [
+        "spotify:3WJfB0QSAWAO283H19gL5a"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-10",
+      "muted": false
     }
   },
   "pending": {
@@ -4322,12 +4366,6 @@
       "name": "Caifanes",
       "plays": {
         "2026-10-09T14:18:24.355Z": "2026-10-09"
-      }
-    },
-    "three days grace": {
-      "name": "Three Days Grace",
-      "plays": {
-        "2026-10-09T13:03:46.858Z": "2026-10-09"
       }
     },
     "colde": {
@@ -4796,12 +4834,6 @@
       "name": "HIM",
       "plays": {
         "2026-10-19T14:14:21.133Z": "2026-10-19"
-      }
-    },
-    "hikaru shirosu": {
-      "name": "Hikaru Shirosu",
-      "plays": {
-        "2026-10-19T14:03:48.543Z": "2026-10-19"
       }
     },
     "the crane wives": {
@@ -5350,12 +5382,6 @@
         "2026-11-05T17:54:59.404Z": "2026-11-05"
       }
     },
-    "kasane teto": {
-      "name": "Kasane Teto",
-      "plays": {
-        "2026-11-05T17:54:59.404Z": "2026-11-05"
-      }
-    },
     "bentham": {
       "name": "Bentham",
       "plays": {
@@ -5530,12 +5556,6 @@
         "2026-11-08T13:18:23.166Z": "2026-11-08"
       }
     },
-    "tatsuya kitani": {
-      "name": "Tatsuya Kitani",
-      "plays": {
-        "2026-11-08T13:11:52.775Z": "2026-11-08"
-      }
-    },
     "modern talking": {
       "name": "Modern Talking",
       "plays": {
@@ -5690,6 +5710,84 @@
       "name": "Delanie",
       "plays": {
         "2026-11-09T14:56:40.470Z": "2026-11-09"
+      }
+    },
+    "gemini": {
+      "name": "Gemini",
+      "plays": {
+        "2026-11-10T19:03:05.153Z": "2026-11-10"
+      }
+    },
+    "the fratellis": {
+      "name": "The Fratellis",
+      "plays": {
+        "2026-11-10T18:52:07.052Z": "2026-11-10"
+      }
+    },
+    "liwan": {
+      "name": "liwan",
+      "plays": {
+        "2026-11-10T18:46:36.770Z": "2026-11-10"
+      }
+    },
+    "shade": {
+      "name": "shade",
+      "plays": {
+        "2026-11-10T18:38:25.493Z": "2026-11-10"
+      }
+    },
+    "rod stewart": {
+      "name": "Rod Stewart",
+      "plays": {
+        "2026-11-10T18:32:49.703Z": "2026-11-10"
+      }
+    },
+    "albie": {
+      "name": "albie",
+      "plays": {
+        "2026-11-10T18:27:16.673Z": "2026-11-10"
+      }
+    },
+    "fall out boy": {
+      "name": "Fall Out Boy",
+      "plays": {
+        "2026-11-10T18:08:12.866Z": "2026-11-10"
+      }
+    },
+    "slipknot": {
+      "name": "Slipknot",
+      "plays": {
+        "2026-11-10T16:24:01.391Z": "2026-11-10"
+      }
+    },
+    "itzy": {
+      "name": "ITZY",
+      "plays": {
+        "2026-11-10T15:13:01.278Z": "2026-11-10"
+      }
+    },
+    "sia": {
+      "name": "Sia",
+      "plays": {
+        "2026-11-10T15:09:49.624Z": "2026-11-10"
+      }
+    },
+    "boston": {
+      "name": "Boston",
+      "plays": {
+        "2026-11-10T14:47:50.229Z": "2026-11-10"
+      }
+    },
+    "vance joy": {
+      "name": "Vance Joy",
+      "plays": {
+        "2026-11-10T14:39:25.764Z": "2026-11-10"
+      }
+    },
+    "sabaton": {
+      "name": "Sabaton",
+      "plays": {
+        "2026-11-10T13:07:49.817Z": "2026-11-10"
       }
     }
   },
