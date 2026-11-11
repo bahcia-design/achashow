@@ -3981,6 +3981,28 @@
       ],
       "first_seen": "2026-11-10",
       "muted": false
+    },
+    "daryl hall & john oates": {
+      "name": "Daryl Hall & John Oates",
+      "ids": [
+        "spotify:77tT1kLj6mCWtFNqiOmP9H"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-11",
+      "muted": false
+    },
+    "長靴をはいた猫": {
+      "name": "長靴をはいた猫",
+      "ids": [
+        "spotify:4RTEJcNTComi6njHLwO5uf"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-11",
+      "muted": false
     }
   },
   "pending": {
@@ -4282,12 +4304,6 @@
       "name": "BLACKPINK",
       "plays": {
         "2026-10-06T23:08:14.784Z": "2026-10-07"
-      }
-    },
-    "daryl hall & john oates": {
-      "name": "Daryl Hall & John Oates",
-      "plays": {
-        "2026-10-06T17:28:52.167Z": "2026-10-07"
       }
     },
     "u2": {
@@ -4918,12 +4934,6 @@
       "name": "keshi",
       "plays": {
         "2026-10-22T15:02:50.230Z": "2026-10-22"
-      }
-    },
-    "長靴をはいた猫": {
-      "name": "長靴をはいた猫",
-      "plays": {
-        "2026-10-21T21:29:47.028Z": "2026-10-22"
       }
     },
     "aden foyer": {
@@ -5788,6 +5798,18 @@
       "name": "Sabaton",
       "plays": {
         "2026-11-10T13:07:49.817Z": "2026-11-10"
+      }
+    },
+    "satoshi takebe": {
+      "name": "Satoshi Takebe",
+      "plays": {
+        "2026-11-11T14:55:39.379Z": "2026-11-11"
+      }
+    },
+    "rush": {
+      "name": "Rush",
+      "plays": {
+        "2026-11-11T14:34:45.906Z": "2026-11-11"
       }
     }
   },
