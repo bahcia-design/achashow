@@ -4036,6 +4036,28 @@
       ],
       "first_seen": "2026-11-12",
       "muted": false
+    },
+    "vernon": {
+      "name": "Vernon",
+      "ids": [
+        "spotify:2Y34b9AOK30zXgL7cAH4NG"
+      ],
+      "reasons": [
+        "3 reproduções"
+      ],
+      "first_seen": "2026-11-13",
+      "muted": false
+    },
+    "sabaton": {
+      "name": "Sabaton",
+      "ids": [
+        "spotify:3o2dn2O0FCVsWDFSh8qxgG"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-13",
+      "muted": false
     }
   },
   "pending": {
@@ -4649,12 +4671,6 @@
       "name": "MARINA",
       "plays": {
         "2026-10-15T13:30:32.303Z": "2026-10-15"
-      }
-    },
-    "vernon": {
-      "name": "Vernon",
-      "plays": {
-        "2026-10-15T12:36:05.388Z": "2026-10-15"
       }
     },
     "malibu": {
@@ -5815,12 +5831,6 @@
         "2026-11-10T14:39:25.764Z": "2026-11-10"
       }
     },
-    "sabaton": {
-      "name": "Sabaton",
-      "plays": {
-        "2026-11-10T13:07:49.817Z": "2026-11-10"
-      }
-    },
     "satoshi takebe": {
       "name": "Satoshi Takebe",
       "plays": {
@@ -5873,6 +5883,30 @@
       "name": "Monotono",
       "plays": {
         "2026-11-12T02:02:44.664Z": "2026-11-12"
+      }
+    },
+    "the hunger games": {
+      "name": "The Hunger Games",
+      "plays": {
+        "2026-11-13T17:32:58.093Z": "2026-11-13"
+      }
+    },
+    "baco exu do blues": {
+      "name": "Baco Exu do Blues",
+      "plays": {
+        "2026-11-13T03:01:45.015Z": "2026-11-13"
+      }
+    },
+    "marina sena": {
+      "name": "Marina Sena",
+      "plays": {
+        "2026-11-13T03:01:45.015Z": "2026-11-13"
+      }
+    },
+    "o grilo": {
+      "name": "O Grilo",
+      "plays": {
+        "2026-11-13T02:16:51.176Z": "2026-11-13"
       }
     }
   },
