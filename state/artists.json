@@ -4058,6 +4058,61 @@
       ],
       "first_seen": "2026-11-13",
       "muted": false
+    },
+    "two door cinema club": {
+      "name": "Two Door Cinema Club",
+      "ids": [
+        "spotify:536BYVgOnRky0xjsPT96zl"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-15",
+      "muted": false
+    },
+    "jennie": {
+      "name": "JENNIE",
+      "ids": [
+        "spotify:250b0Wlc5Vk0CoUsaCY84M"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-15",
+      "muted": false
+    },
+    "the grass museum": {
+      "name": "The Grass Museum",
+      "ids": [
+        "spotify:0razZwrEBUw3dXGrlfbGbb"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-15",
+      "muted": false
+    },
+    "phil collins": {
+      "name": "Phil Collins",
+      "ids": [
+        "spotify:4lxfqrEsLX6N1N4OCSkILp"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-15",
+      "muted": false
+    },
+    "mollie elizabeth": {
+      "name": "Mollie Elizabeth",
+      "ids": [
+        "spotify:7a5GcLbKGNuyqIfl6mw99Z"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-15",
+      "muted": false
     }
   },
   "pending": {
@@ -4247,12 +4302,6 @@
         "2026-10-01T21:12:32.098Z": "2026-10-02"
       }
     },
-    "two door cinema club": {
-      "name": "Two Door Cinema Club",
-      "plays": {
-        "2026-10-01T20:51:34.758Z": "2026-10-02"
-      }
-    },
     "shrimp": {
       "name": "Shrimp",
       "plays": {
@@ -4317,12 +4366,6 @@
       "name": "Jack Harlow",
       "plays": {
         "2026-10-06T23:41:05.119Z": "2026-10-07"
-      }
-    },
-    "jennie": {
-      "name": "JENNIE",
-      "plays": {
-        "2026-10-06T23:34:13.287Z": "2026-10-07"
       }
     },
     "lily-rose depp": {
@@ -4925,12 +4968,6 @@
         "2026-10-20T20:06:18.924Z": "2026-10-21"
       }
     },
-    "phil collins": {
-      "name": "Phil Collins",
-      "plays": {
-        "2026-10-20T20:02:54.898Z": "2026-10-21"
-      }
-    },
     "5 seconds of summer": {
       "name": "5 Seconds of Summer",
       "plays": {
@@ -5271,12 +5308,6 @@
       "name": "Jack Black",
       "plays": {
         "2026-11-02T16:55:18.139Z": "2026-11-02"
-      }
-    },
-    "the grass museum": {
-      "name": "The Grass Museum",
-      "plays": {
-        "2026-11-01T19:52:11.817Z": "2026-11-02"
       }
     },
     "dxs": {
@@ -5849,12 +5880,6 @@
         "2026-11-12T02:40:57.695Z": "2026-11-12"
       }
     },
-    "mollie elizabeth": {
-      "name": "Mollie Elizabeth",
-      "plays": {
-        "2026-11-12T02:35:50.552Z": "2026-11-12"
-      }
-    },
     "black sabbath": {
       "name": "Black Sabbath",
       "plays": {
@@ -5937,6 +5962,84 @@
       "name": "Kevin McLellan",
       "plays": {
         "2026-11-13T19:30:45.426Z": "2026-11-14"
+      }
+    },
+    "savage hands": {
+      "name": "Savage Hands",
+      "plays": {
+        "2026-11-15T16:11:34.006Z": "2026-11-15"
+      }
+    },
+    "saja boys": {
+      "name": "Saja Boys",
+      "plays": {
+        "2026-11-14T20:06:43.658Z": "2026-11-15"
+      }
+    },
+    "andrew choi": {
+      "name": "Andrew Choi",
+      "plays": {
+        "2026-11-14T20:06:43.658Z": "2026-11-15"
+      }
+    },
+    "neckwav": {
+      "name": "Neckwav",
+      "plays": {
+        "2026-11-14T20:06:43.658Z": "2026-11-15"
+      }
+    },
+    "danny chung": {
+      "name": "Danny Chung",
+      "plays": {
+        "2026-11-14T20:06:43.658Z": "2026-11-15"
+      }
+    },
+    "kevin woo": {
+      "name": "KEVIN WOO",
+      "plays": {
+        "2026-11-14T20:06:43.658Z": "2026-11-15"
+      }
+    },
+    "samuil lee": {
+      "name": "samUIL Lee",
+      "plays": {
+        "2026-11-14T20:06:43.658Z": "2026-11-15"
+      }
+    },
+    "kpop demon hunters cast": {
+      "name": "KPop Demon Hunters Cast",
+      "plays": {
+        "2026-11-14T20:06:43.658Z": "2026-11-15"
+      }
+    },
+    "the plot in you": {
+      "name": "The Plot In You",
+      "plays": {
+        "2026-11-14T20:03:31.635Z": "2026-11-15"
+      }
+    },
+    "richy mitch & the coal miners": {
+      "name": "Richy Mitch & The Coal Miners",
+      "plays": {
+        "2026-11-14T19:57:03.282Z": "2026-11-15"
+      }
+    },
+    "pollyanna": {
+      "name": "Pollyanna",
+      "plays": {
+        "2026-11-14T19:55:35.759Z": "2026-11-15"
+      }
+    },
+    "tenblank": {
+      "name": "TENBLANK",
+      "plays": {
+        "2026-11-14T19:52:21.533Z": "2026-11-15"
+      }
+    },
+    "櫻井ユキノ": {
+      "name": "櫻井ユキノ",
+      "plays": {
+        "2026-11-14T19:52:21.533Z": "2026-11-15"
       }
     }
   },
