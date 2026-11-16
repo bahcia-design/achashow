@@ -4113,6 +4113,72 @@
       ],
       "first_seen": "2026-11-15",
       "muted": false
+    },
+    "5 seconds of summer": {
+      "name": "5 Seconds of Summer",
+      "ids": [
+        "spotify:5Rl15oVamLq7FbSb0NNBNy"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-16",
+      "muted": false
+    },
+    "palace": {
+      "name": "Palace",
+      "ids": [
+        "spotify:48vDIufGC8ujPuBiTxY8dm"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-16",
+      "muted": false
+    },
+    "slipknot": {
+      "name": "Slipknot",
+      "ids": [
+        "spotify:05fG473iIaoy82BF1aGhL8"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-16",
+      "muted": false
+    },
+    "alex gaskarth": {
+      "name": "Alex Gaskarth",
+      "ids": [
+        "spotify:5X0hXpGcJDZiGTpnGPWEm5"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-16",
+      "muted": false
+    },
+    "rescene": {
+      "name": "RESCENE",
+      "ids": [
+        "spotify:5deOsjuFTKrNMJW3rKuL8S"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-16",
+      "muted": false
+    },
+    "joe hisaishi": {
+      "name": "Joe Hisaishi",
+      "ids": [
+        "spotify:7nzSoJISlVJsn7O0yTeMOB"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-16",
+      "muted": false
     }
   },
   "pending": {
@@ -4126,12 +4192,6 @@
       "name": "Yot Club",
       "plays": {
         "2026-09-28T21:34:31.166Z": "2026-09-29"
-      }
-    },
-    "palace": {
-      "name": "Palace",
-      "plays": {
-        "2026-09-28T20:45:05.856Z": "2026-09-29"
       }
     },
     "jimin": {
@@ -4968,12 +5028,6 @@
         "2026-10-20T20:06:18.924Z": "2026-10-21"
       }
     },
-    "5 seconds of summer": {
-      "name": "5 Seconds of Summer",
-      "plays": {
-        "2026-10-20T19:58:34.519Z": "2026-10-21"
-      }
-    },
     "chimeraz": {
       "name": "CHIMERAZ",
       "plays": {
@@ -5194,12 +5248,6 @@
       "name": "ifeye",
       "plays": {
         "2026-10-26T20:58:29.217Z": "2026-10-27"
-      }
-    },
-    "rescene": {
-      "name": "RESCENE",
-      "plays": {
-        "2026-10-26T20:55:16.523Z": "2026-10-27"
       }
     },
     "izna": {
@@ -5832,12 +5880,6 @@
         "2026-11-10T18:08:12.866Z": "2026-11-10"
       }
     },
-    "slipknot": {
-      "name": "Slipknot",
-      "plays": {
-        "2026-11-10T16:24:01.391Z": "2026-11-10"
-      }
-    },
     "itzy": {
       "name": "ITZY",
       "plays": {
@@ -6040,6 +6082,54 @@
       "name": "櫻井ユキノ",
       "plays": {
         "2026-11-14T19:52:21.533Z": "2026-11-15"
+      }
+    },
+    "nouvelle story": {
+      "name": "Nouvelle Story",
+      "plays": {
+        "2026-11-16T21:32:47.909Z": "2026-11-16"
+      }
+    },
+    "cyyu": {
+      "name": "CyYu",
+      "plays": {
+        "2026-11-16T21:13:43.616Z": "2026-11-16"
+      }
+    },
+    "echo & the bunnymen": {
+      "name": "Echo & the Bunnymen",
+      "plays": {
+        "2026-11-16T21:09:30.921Z": "2026-11-16"
+      }
+    },
+    "wolf alice": {
+      "name": "Wolf Alice",
+      "plays": {
+        "2026-11-16T20:59:05.474Z": "2026-11-16"
+      }
+    },
+    "nct dream": {
+      "name": "NCT DREAM",
+      "plays": {
+        "2026-11-16T17:49:20.209Z": "2026-11-16"
+      }
+    },
+    "orca": {
+      "name": "Orca",
+      "plays": {
+        "2026-11-16T13:31:07.038Z": "2026-11-16"
+      }
+    },
+    "tamago": {
+      "name": "tamago",
+      "plays": {
+        "2026-11-16T13:13:51.437Z": "2026-11-16"
+      }
+    },
+    "interpol": {
+      "name": "Interpol",
+      "plays": {
+        "2026-11-15T22:23:49.470Z": "2026-11-16"
       }
     }
   },
