@@ -4179,6 +4179,94 @@
       ],
       "first_seen": "2026-11-16",
       "muted": false
+    },
+    "ricky montgomery": {
+      "name": "Ricky Montgomery",
+      "ids": [
+        "spotify:0ZUvK7zGdXLd78mQr3t1Tw"
+      ],
+      "reasons": [
+        "top:short_term"
+      ],
+      "first_seen": "2026-11-17",
+      "muted": false
+    },
+    "tempesst": {
+      "name": "Tempesst",
+      "ids": [
+        "spotify:6yYoIxAvtAgGPSSring5SB"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-17",
+      "muted": false
+    },
+    "lana del rey": {
+      "name": "Lana Del Rey",
+      "ids": [
+        "spotify:00FQb4jTyendYWaN8pK0wa"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-17",
+      "muted": false
+    },
+    "local natives": {
+      "name": "Local Natives",
+      "ids": [
+        "spotify:75dQReiBOHN37fQgWQrIAJ"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-17",
+      "muted": false
+    },
+    "dean lewis": {
+      "name": "Dean Lewis",
+      "ids": [
+        "spotify:3QSQFmccmX81fWCUSPTS7y"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-17",
+      "muted": false
+    },
+    "bôa": {
+      "name": "bôa",
+      "ids": [
+        "spotify:5jTtGLk1mGFMY5lQOvJYUj"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-17",
+      "muted": false
+    },
+    "john mayer": {
+      "name": "John Mayer",
+      "ids": [
+        "spotify:0hEurMDQu99nJRq8pTxO14"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-17",
+      "muted": false
+    },
+    "evanescence": {
+      "name": "Evanescence",
+      "ids": [
+        "spotify:5nGIFgo0shDenQYSE0Sn7c"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-17",
+      "muted": false
     }
   },
   "pending": {
@@ -4258,12 +4346,6 @@
       "name": "FIFTY FIFTY",
       "plays": {
         "2026-09-30T13:12:59.059Z": "2026-09-30"
-      }
-    },
-    "ricky montgomery": {
-      "name": "Ricky Montgomery",
-      "plays": {
-        "2026-09-30T13:10:04.951Z": "2026-09-30"
       }
     },
     "momma": {
@@ -4366,12 +4448,6 @@
       "name": "Shrimp",
       "plays": {
         "2026-10-01T20:32:06.128Z": "2026-10-02"
-      }
-    },
-    "tempesst": {
-      "name": "Tempesst",
-      "plays": {
-        "2026-10-01T20:24:37.059Z": "2026-10-02"
       }
     },
     "winter aid": {
@@ -4680,12 +4756,6 @@
         "2026-10-13T18:18:51.208Z": "2026-10-13"
       }
     },
-    "bôa": {
-      "name": "bôa",
-      "plays": {
-        "2026-10-13T18:11:56.879Z": "2026-10-13"
-      }
-    },
     "rec hall": {
       "name": "Rec Hall",
       "plays": {
@@ -4744,12 +4814,6 @@
       "name": "Viagra Boys",
       "plays": {
         "2026-10-15T16:34:25.841Z": "2026-10-15"
-      }
-    },
-    "evanescence": {
-      "name": "Evanescence",
-      "plays": {
-        "2026-10-15T14:56:22.065Z": "2026-10-15"
       }
     },
     "got7": {
@@ -4822,18 +4886,6 @@
       "name": "He Is We",
       "plays": {
         "2026-10-16T14:35:50.842Z": "2026-10-16"
-      }
-    },
-    "lana del rey": {
-      "name": "Lana Del Rey",
-      "plays": {
-        "2026-10-16T14:18:07.747Z": "2026-10-16"
-      }
-    },
-    "dean lewis": {
-      "name": "Dean Lewis",
-      "plays": {
-        "2026-10-15T20:53:22.216Z": "2026-10-16"
       }
     },
     "dnmo": {
@@ -5044,12 +5096,6 @@
       "name": "Led Zeppelin",
       "plays": {
         "2026-10-22T15:10:00.835Z": "2026-10-22"
-      }
-    },
-    "john mayer": {
-      "name": "John Mayer",
-      "plays": {
-        "2026-10-22T15:06:28.123Z": "2026-10-22"
       }
     },
     "max": {
@@ -6130,6 +6176,96 @@
       "name": "Interpol",
       "plays": {
         "2026-11-15T22:23:49.470Z": "2026-11-16"
+      }
+    },
+    "volodja brodsky": {
+      "name": "Volodja Brodsky",
+      "plays": {
+        "2026-11-17T18:46:16.590Z": "2026-11-17"
+      }
+    },
+    "alejandro aranda": {
+      "name": "Alejandro Aranda",
+      "plays": {
+        "2026-11-17T18:42:21.324Z": "2026-11-17"
+      }
+    },
+    "yvette young": {
+      "name": "Yvette Young",
+      "plays": {
+        "2026-11-17T18:42:21.324Z": "2026-11-17"
+      }
+    },
+    "quem é você alice?": {
+      "name": "Quem é você Alice?",
+      "plays": {
+        "2026-11-17T18:16:04.521Z": "2026-11-17"
+      }
+    },
+    "the honeysticks": {
+      "name": "The Honeysticks",
+      "plays": {
+        "2026-11-17T17:39:10.708Z": "2026-11-17"
+      }
+    },
+    "caleb hurst": {
+      "name": "Caleb Hurst",
+      "plays": {
+        "2026-11-17T17:39:10.708Z": "2026-11-17"
+      }
+    },
+    "snow patrol": {
+      "name": "Snow Patrol",
+      "plays": {
+        "2026-11-17T17:34:54.205Z": "2026-11-17"
+      }
+    },
+    "hanson": {
+      "name": "Hanson",
+      "plays": {
+        "2026-11-17T17:30:53.209Z": "2026-11-17"
+      }
+    },
+    "john lennon": {
+      "name": "John Lennon",
+      "plays": {
+        "2026-11-17T17:27:10.113Z": "2026-11-17"
+      }
+    },
+    "claudio constantini": {
+      "name": "Claudio Constantini",
+      "plays": {
+        "2026-11-17T16:40:14.555Z": "2026-11-17"
+      }
+    },
+    "omni gardens": {
+      "name": "Omni Gardens",
+      "plays": {
+        "2026-11-17T16:38:38.916Z": "2026-11-17"
+      }
+    },
+    "blurred city lights": {
+      "name": "Blurred City Lights",
+      "plays": {
+        "2026-11-17T00:35:57.501Z": "2026-11-17"
+      }
+    },
+    "the police": {
+      "name": "The Police",
+      "plays": {
+        "2026-11-17T00:27:44.389Z": "2026-11-17"
+      }
+    },
+    "florence + the machine": {
+      "name": "Florence + The Machine",
+      "plays": {
+        "2026-11-17T00:23:23.301Z": "2026-11-17"
+      }
+    },
+    "rage against the machine": {
+      "name": "Rage Against The Machine",
+      "plays": {
+        "2026-11-17T00:04:51.332Z": "2026-11-17"
       }
     }
   },
