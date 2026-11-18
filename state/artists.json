@@ -4267,6 +4267,50 @@
       ],
       "first_seen": "2026-11-17",
       "muted": false
+    },
+    "solence": {
+      "name": "Solence",
+      "ids": [
+        "spotify:4fnono0JCZFAeeaecrI7kg"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-18",
+      "muted": false
+    },
+    "the rolling stones": {
+      "name": "The Rolling Stones",
+      "ids": [
+        "spotify:22bE4uQ6baNwSHPVcDxLCe"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-18",
+      "muted": false
+    },
+    "dxs": {
+      "name": "DxS",
+      "ids": [
+        "spotify:4wBjmEkWhY4T22q00CiF5V"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-18",
+      "muted": false
+    },
+    "zvc": {
+      "name": "ZVC",
+      "ids": [
+        "spotify:178yogXdTxSjPnonPUtnoI"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-18",
+      "muted": false
     }
   },
   "pending": {
@@ -4628,12 +4672,6 @@
       "name": "Caleb Bryant",
       "plays": {
         "2026-10-08T20:46:40.808Z": "2026-10-09"
-      }
-    },
-    "zvc": {
-      "name": "ZVC",
-      "plays": {
-        "2026-10-08T20:44:28.299Z": "2026-10-09"
       }
     },
     "mekaloton": {
@@ -5194,12 +5232,6 @@
         "2026-10-24T21:24:21.020Z": "2026-10-25"
       }
     },
-    "solence": {
-      "name": "Solence",
-      "plays": {
-        "2026-10-27T17:25:49.290Z": "2026-10-27"
-      }
-    },
     "natasha bedingfield": {
       "name": "Natasha Bedingfield",
       "plays": {
@@ -5402,12 +5434,6 @@
       "name": "Jack Black",
       "plays": {
         "2026-11-02T16:55:18.139Z": "2026-11-02"
-      }
-    },
-    "dxs": {
-      "name": "DxS",
-      "plays": {
-        "2026-11-03T02:17:26.865Z": "2026-11-03"
       }
     },
     "the caretaker": {
@@ -6266,6 +6292,66 @@
       "name": "Rage Against The Machine",
       "plays": {
         "2026-11-17T00:04:51.332Z": "2026-11-17"
+      }
+    },
+    "jinjer": {
+      "name": "Jinjer",
+      "plays": {
+        "2026-11-18T19:43:37.340Z": "2026-11-18"
+      }
+    },
+    "tilly louise": {
+      "name": "Tilly Louise",
+      "plays": {
+        "2026-11-18T19:19:55.015Z": "2026-11-18"
+      }
+    },
+    "jelly roll": {
+      "name": "Jelly Roll",
+      "plays": {
+        "2026-11-18T18:59:08.945Z": "2026-11-18"
+      }
+    },
+    "yonkagor": {
+      "name": "YonKaGor",
+      "plays": {
+        "2026-11-18T18:53:02.739Z": "2026-11-18"
+      }
+    },
+    "isaac dunbar": {
+      "name": "Isaac Dunbar",
+      "plays": {
+        "2026-11-18T18:03:24.096Z": "2026-11-18"
+      }
+    },
+    "survive said the prophet": {
+      "name": "Survive Said The Prophet",
+      "plays": {
+        "2026-11-18T17:27:52.624Z": "2026-11-18"
+      }
+    },
+    "clairo": {
+      "name": "Clairo",
+      "plays": {
+        "2026-11-18T15:10:38.091Z": "2026-11-18"
+      }
+    },
+    "men i trust": {
+      "name": "Men I Trust",
+      "plays": {
+        "2026-11-18T13:52:05.837Z": "2026-11-18"
+      }
+    },
+    "portishead": {
+      "name": "Portishead",
+      "plays": {
+        "2026-11-18T13:30:54.506Z": "2026-11-18"
+      }
+    },
+    "pim stones": {
+      "name": "Pim Stones",
+      "plays": {
+        "2026-11-18T13:13:59.464Z": "2026-11-18"
       }
     }
   },
