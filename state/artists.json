@@ -4311,6 +4311,28 @@
       ],
       "first_seen": "2026-11-18",
       "muted": false
+    },
+    "mafumafu": {
+      "name": "Mafumafu",
+      "ids": [
+        "spotify:6t6aXZlmnAF1VuiG8BVjQZ"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-11-19",
+      "muted": false
+    },
+    "ever": {
+      "name": "Ever",
+      "ids": [
+        "spotify:061A4aELrBbKpSJtE4qKyD"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-19",
+      "muted": false
     }
   },
   "pending": {
@@ -5586,12 +5608,6 @@
         "2026-11-05T17:51:36.506Z": "2026-11-05"
       }
     },
-    "mafumafu": {
-      "name": "Mafumafu",
-      "plays": {
-        "2026-11-05T17:40:37.104Z": "2026-11-05"
-      }
-    },
     "yoshida yasei": {
       "name": "Yoshida Yasei",
       "plays": {
@@ -6352,6 +6368,66 @@
       "name": "Pim Stones",
       "plays": {
         "2026-11-18T13:13:59.464Z": "2026-11-18"
+      }
+    },
+    "vally.exe": {
+      "name": "vally.exe",
+      "plays": {
+        "2026-11-19T15:19:44.139Z": "2026-11-19"
+      }
+    },
+    "soundcirclet": {
+      "name": "SoundCirclet",
+      "plays": {
+        "2026-11-19T15:19:44.139Z": "2026-11-19"
+      }
+    },
+    "pentagon": {
+      "name": "PENTAGON",
+      "plays": {
+        "2026-11-19T15:11:59.737Z": "2026-11-19"
+      }
+    },
+    "incubus": {
+      "name": "Incubus",
+      "plays": {
+        "2026-11-19T14:26:10.020Z": "2026-11-19"
+      }
+    },
+    "caramel candid": {
+      "name": "CARAMEL CANDiD",
+      "plays": {
+        "2026-11-19T11:54:55.937Z": "2026-11-19"
+      }
+    },
+    "yuri o": {
+      "name": "Yuri O",
+      "plays": {
+        "2026-11-19T02:06:49.684Z": "2026-11-19"
+      }
+    },
+    "chico buarque": {
+      "name": "Chico Buarque",
+      "plays": {
+        "2026-11-19T01:52:11.483Z": "2026-11-19"
+      }
+    },
+    "milton nascimento": {
+      "name": "Milton Nascimento",
+      "plays": {
+        "2026-11-19T01:52:11.483Z": "2026-11-19"
+      }
+    },
+    "memi": {
+      "name": "MEMI",
+      "plays": {
+        "2026-11-19T01:44:32.282Z": "2026-11-19"
+      }
+    },
+    "joji": {
+      "name": "Joji",
+      "plays": {
+        "2026-11-19T01:31:47.787Z": "2026-11-19"
       }
     }
   },

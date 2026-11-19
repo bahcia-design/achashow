@@ -4823,6 +4823,30 @@
       "date": "2026-11-18",
       "artist": "Jão",
       "first_seen": "2026-11-18"
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEFXeFBOT2FhMmpPd0FydkVTSnNlTjRjbVlTQWhLTzRUMFJjSnNCWW9Ka3JvVGo0QktxUUoyMGZmTFFWMEJWMEk1bG1IZHBZQndQNkhaU0lQYmpIOGl3MXNqQ21Oajl5aFVrVGk1QjUxVmt2SW9VbXdBTXF4Si1Mb0ZEVHV4cWsyQkJxQ3Y5bmc?oc=5": {
+      "title": "Faith No More anuncia retorno ao Brasil em 2027 com Alice in Chains e Mastodon na abertura",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEFXeFBOT2FhMmpPd0FydkVTSnNlTjRjbVlTQWhLTzRUMFJjSnNCWW9Ka3JvVGo0QktxUUoyMGZmTFFWMEJWMEk1bG1IZHBZQndQNkhaU0lQYmpIOGl3MXNqQ21Oajl5aFVrVGk1QjUxVmt2SW9VbXdBTXF4Si1Mb0ZEVHV4cWsyQkJxQ3Y5bmc?oc=5",
+      "source": "Conexão POP",
+      "date": "2026-11-19",
+      "artist": "Alice In Chains",
+      "first_seen": "2026-11-19"
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE5pYUJkVTlZSFFiZHl1V21IWmNtVkpScEdubG9zQm1TY2wxMWRIdUJHSU4tQ29NZk83aUxUYUlkNEVOYmlNMEhQb3lYYkgweVAzUlE2TW02RTJMc3IweW1pZm9JT0xoQW1fLUNWUDVUdFp5dw?oc=5": {
+      "title": "Bad Luv é anunciada como convidada do Sleeping With Sirens em SP",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pYUJkVTlZSFFiZHl1V21IWmNtVkpScEdubG9zQm1TY2wxMWRIdUJHSU4tQ29NZk83aUxUYUlkNEVOYmlNMEhQb3lYYkgweVAzUlE2TW02RTJMc3IweW1pZm9JT0xoQW1fLUNWUDVUdFp5dw?oc=5",
+      "source": "Billboard Brasil",
+      "date": "2026-11-19",
+      "artist": "Sleeping With Sirens",
+      "first_seen": "2026-11-19"
+    },
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZmQ5Tmx2eDhudU9Va0NwVl9TekFYMDliUWJIdlhTOHVYQUUxZGxQYTBxNXhLS2J2Q01ldmlpLUxtS1JkZnBEOXBFVmk1SFk3VTJrYUlYSHM0X0lRZzFZYnNXcmcxblFTSF9qMjU4ZENXMUtKNk1rV2QwR0t4cGFBbUM4WFpIckhvcDczV2xlNHFOUldyY2ZINlVWRUFZOXk1QjNUV2lwUVRGUENWUTA0MElPdlAzcjRRM0d1aVoySjhsalV0Ry1BVTlfc3N5MFVxeF9DWlVmWFBlOUllRGRiWmg4d3E?oc=5": {
+      "title": "Lollapalooza 2027 anuncia line-up com Charli XCX, Travis Scott, The Killers e David Guetta",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZmQ5Tmx2eDhudU9Va0NwVl9TekFYMDliUWJIdlhTOHVYQUUxZGxQYTBxNXhLS2J2Q01ldmlpLUxtS1JkZnBEOXBFVmk1SFk3VTJrYUlYSHM0X0lRZzFZYnNXcmcxblFTSF9qMjU4ZENXMUtKNk1rV2QwR0t4cGFBbUM4WFpIckhvcDczV2xlNHFOUldyY2ZINlVWRUFZOXk1QjNUV2lwUVRGUENWUTA0MElPdlAzcjRRM0d1aVoySjhsalV0Ry1BVTlfc3N5MFVxeF9DWlVmWFBlOUllRGRiWmg4d3E?oc=5",
+      "source": "G1",
+      "date": "2026-10-08",
+      "artist": "The Killers",
+      "first_seen": "2026-11-19"
     }
   },
   "last_alert": {
@@ -4889,5 +4913,5 @@
     "phil collins": "2026-11-16",
     "alice in chains": "2026-11-17"
   },
-  "last_run": "2026-11-18"
+  "last_run": "2026-11-19"
 }
