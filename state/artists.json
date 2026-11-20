@@ -4333,6 +4333,28 @@
       ],
       "first_seen": "2026-11-19",
       "muted": false
+    },
+    "blink-182": {
+      "name": "blink-182",
+      "ids": [
+        "spotify:6FBDaR13swtiWwGhX1WQsP"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-20",
+      "muted": false
+    },
+    "claudio constantini": {
+      "name": "Claudio Constantini",
+      "ids": [
+        "spotify:4qXRvJuWOfBFJWqCGmIuJQ"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-20",
+      "muted": false
     }
   },
   "pending": {
@@ -4634,12 +4656,6 @@
       "name": "Mary Middlefield",
       "plays": {
         "2026-10-07T20:05:54.055Z": "2026-10-08"
-      }
-    },
-    "blink-182": {
-      "name": "blink-182",
-      "plays": {
-        "2026-10-07T20:00:50.645Z": "2026-10-08"
       }
     },
     "madonna": {
@@ -6274,12 +6290,6 @@
         "2026-11-17T17:27:10.113Z": "2026-11-17"
       }
     },
-    "claudio constantini": {
-      "name": "Claudio Constantini",
-      "plays": {
-        "2026-11-17T16:40:14.555Z": "2026-11-17"
-      }
-    },
     "omni gardens": {
       "name": "Omni Gardens",
       "plays": {
@@ -6428,6 +6438,24 @@
       "name": "Joji",
       "plays": {
         "2026-11-19T01:31:47.787Z": "2026-11-19"
+      }
+    },
+    "caitlin myers": {
+      "name": "Caitlin Myers",
+      "plays": {
+        "2026-11-19T21:44:47.818Z": "2026-11-20"
+      }
+    },
+    "un3hcorn": {
+      "name": "Un3hcorn",
+      "plays": {
+        "2026-11-19T21:44:47.818Z": "2026-11-20"
+      }
+    },
+    "wowaka": {
+      "name": "wowaka",
+      "plays": {
+        "2026-11-19T20:23:02.792Z": "2026-11-20"
       }
     }
   },
