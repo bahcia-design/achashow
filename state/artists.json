@@ -4355,6 +4355,105 @@
       ],
       "first_seen": "2026-11-20",
       "muted": false
+    },
+    "feist": {
+      "name": "Feist",
+      "ids": [
+        "spotify:6CWTBjOJK75cTE8Xv8u1kj"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-21",
+      "muted": false
+    },
+    "joji": {
+      "name": "Joji",
+      "ids": [
+        "spotify:3MZsBdqDrRTJihTHQrO6Dq"
+      ],
+      "reasons": [
+        "4 reproduções"
+      ],
+      "first_seen": "2026-11-21",
+      "muted": false
+    },
+    "churgney gurgney": {
+      "name": "Churgney Gurgney",
+      "ids": [
+        "spotify:3LAEZsCc4CdQdyUUrdy0WK"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-21",
+      "muted": false
+    },
+    "maimymayo": {
+      "name": "MaimyMayo",
+      "ids": [
+        "spotify:3upEiLQJaOWaIqUimaGKmR"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-21",
+      "muted": false
+    },
+    "yoasobi": {
+      "name": "YOASOBI",
+      "ids": [
+        "spotify:64tJ2EAv1R6UaZqc4iOCyj"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-21",
+      "muted": false
+    },
+    "tv girl": {
+      "name": "TV Girl",
+      "ids": [
+        "spotify:0Y6dVaC9DZtPNH4591M42W"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-21",
+      "muted": false
+    },
+    "panchiko": {
+      "name": "Panchiko",
+      "ids": [
+        "spotify:4KEHIUSoWCcqrk8AddTE1O"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-21",
+      "muted": false
+    },
+    "the marías": {
+      "name": "The Marías",
+      "ids": [
+        "spotify:2sSGPbdZJkaSE2AbcGOACx"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-21",
+      "muted": false
+    },
+    "ok glass": {
+      "name": "OK Glass",
+      "ids": [
+        "spotify:5QDqD7M7ktRDfzXJWbYolF"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-21",
+      "muted": false
     }
   },
   "pending": {
@@ -4800,12 +4899,6 @@
       "name": "Zimbra",
       "plays": {
         "2026-10-13T18:41:50.311Z": "2026-10-13"
-      }
-    },
-    "the marías": {
-      "name": "The Marías",
-      "plays": {
-        "2026-10-13T18:38:08.484Z": "2026-10-13"
       }
     },
     "starlightdaryl": {
@@ -5288,12 +5381,6 @@
         "2026-10-27T14:44:39.870Z": "2026-10-27"
       }
     },
-    "yoasobi": {
-      "name": "YOASOBI",
-      "plays": {
-        "2026-10-27T14:38:20.889Z": "2026-10-27"
-      }
-    },
     "sidney gish": {
       "name": "Sidney Gish",
       "plays": {
@@ -5636,12 +5723,6 @@
         "2026-11-05T13:55:10.008Z": "2026-11-05"
       }
     },
-    "ok glass": {
-      "name": "OK Glass",
-      "plays": {
-        "2026-11-05T02:04:31.859Z": "2026-11-05"
-      }
-    },
     "a2o lite": {
       "name": "A2O LITE",
       "plays": {
@@ -5826,12 +5907,6 @@
       "name": "Felipe Amorim",
       "plays": {
         "2026-11-08T03:40:14.707Z": "2026-11-08"
-      }
-    },
-    "tv girl": {
-      "name": "TV Girl",
-      "plays": {
-        "2026-11-08T03:36:35.504Z": "2026-11-08"
       }
     },
     "dj jpr": {
@@ -6434,12 +6509,6 @@
         "2026-11-19T01:44:32.282Z": "2026-11-19"
       }
     },
-    "joji": {
-      "name": "Joji",
-      "plays": {
-        "2026-11-19T01:31:47.787Z": "2026-11-19"
-      }
-    },
     "caitlin myers": {
       "name": "Caitlin Myers",
       "plays": {
@@ -6456,6 +6525,120 @@
       "name": "wowaka",
       "plays": {
         "2026-11-19T20:23:02.792Z": "2026-11-20"
+      }
+    },
+    "bigbang": {
+      "name": "BIGBANG",
+      "plays": {
+        "2026-11-21T15:48:27.136Z": "2026-11-21"
+      }
+    },
+    "thefatrat": {
+      "name": "TheFatRat",
+      "plays": {
+        "2026-11-21T15:17:52.341Z": "2026-11-21"
+      }
+    },
+    "yeat": {
+      "name": "Yeat",
+      "plays": {
+        "2026-11-21T02:29:59.203Z": "2026-11-21"
+      }
+    },
+    "system of a down": {
+      "name": "System Of A Down",
+      "plays": {
+        "2026-11-21T02:26:45.005Z": "2026-11-21"
+      }
+    },
+    "limp bizkit": {
+      "name": "Limp Bizkit",
+      "plays": {
+        "2026-11-21T02:19:25.057Z": "2026-11-21"
+      }
+    },
+    "harrison bennett": {
+      "name": "Harrison Bennett",
+      "plays": {
+        "2026-11-21T02:03:31.005Z": "2026-11-21"
+      }
+    },
+    "femtanyl": {
+      "name": "femtanyl",
+      "plays": {
+        "2026-11-21T01:52:41.643Z": "2026-11-21"
+      }
+    },
+    "takihasdied": {
+      "name": "takihasdied",
+      "plays": {
+        "2026-11-21T01:52:41.643Z": "2026-11-21"
+      }
+    },
+    "サイレンススズカ (cv. 高野麻里佳)": {
+      "name": "サイレンススズカ (CV. 高野麻里佳)",
+      "plays": {
+        "2026-11-21T01:47:09.894Z": "2026-11-21"
+      }
+    },
+    "イナリワン (cv. 井上遥乃)": {
+      "name": "イナリワン (CV. 井上遥乃)",
+      "plays": {
+        "2026-11-21T01:47:09.894Z": "2026-11-21"
+      }
+    },
+    "シンコウウインディ (cv. 高田憂希)": {
+      "name": "シンコウウインディ (CV. 高田憂希)",
+      "plays": {
+        "2026-11-21T01:47:09.894Z": "2026-11-21"
+      }
+    },
+    "バンブーメモリー (cv. 藍原ことみ)": {
+      "name": "バンブーメモリー (CV. 藍原ことみ)",
+      "plays": {
+        "2026-11-21T01:47:09.894Z": "2026-11-21"
+      }
+    },
+    "ビコーペガサス (cv. 田中あいみ)": {
+      "name": "ビコーペガサス (CV. 田中あいみ)",
+      "plays": {
+        "2026-11-21T01:47:09.894Z": "2026-11-21"
+      }
+    },
+    "メジロドーベル (cv. 久保田ひかり)": {
+      "name": "メジロドーベル (CV. 久保田ひかり)",
+      "plays": {
+        "2026-11-21T01:47:09.894Z": "2026-11-21"
+      }
+    },
+    "メジロブライト (cv. 大西綺華)": {
+      "name": "メジロブライト (CV. 大西綺華)",
+      "plays": {
+        "2026-11-21T01:47:09.894Z": "2026-11-21"
+      }
+    },
+    "ステイゴールド (cv. 松田颯水)": {
+      "name": "ステイゴールド (CV. 松田颯水)",
+      "plays": {
+        "2026-11-21T01:47:09.894Z": "2026-11-21"
+      }
+    },
+    "ウマ娘 プリティーダービー": {
+      "name": "ウマ娘 プリティーダービー",
+      "plays": {
+        "2026-11-21T01:47:09.894Z": "2026-11-21"
+      }
+    },
+    "nega duda": {
+      "name": "Nega Duda",
+      "plays": {
+        "2026-11-21T01:16:50.124Z": "2026-11-21"
+      }
+    },
+    "stone sour": {
+      "name": "Stone Sour",
+      "plays": {
+        "2026-11-21T00:38:37.301Z": "2026-11-21"
       }
     }
   },
