@@ -4454,6 +4454,39 @@
       ],
       "first_seen": "2026-11-21",
       "muted": false
+    },
+    "jinjer": {
+      "name": "Jinjer",
+      "ids": [
+        "spotify:7o6cOczXTB8ioTAAJTbESf"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-22",
+      "muted": false
+    },
+    "tilly louise": {
+      "name": "Tilly Louise",
+      "ids": [
+        "spotify:3NT9rxRQ2o4qUYpHRJY76O"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-22",
+      "muted": false
+    },
+    "anri": {
+      "name": "Anri",
+      "ids": [
+        "spotify:0xGtOrmB2hnrNRLG3vhpSo"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-22",
+      "muted": false
     }
   },
   "pending": {
@@ -4845,12 +4878,6 @@
       "name": "Flammy",
       "plays": {
         "2026-10-10T04:26:53.492Z": "2026-10-10"
-      }
-    },
-    "anri": {
-      "name": "Anri",
-      "plays": {
-        "2026-10-10T04:24:09.245Z": "2026-10-10"
       }
     },
     "coastal club": {
@@ -6395,18 +6422,6 @@
         "2026-11-17T00:04:51.332Z": "2026-11-17"
       }
     },
-    "jinjer": {
-      "name": "Jinjer",
-      "plays": {
-        "2026-11-18T19:43:37.340Z": "2026-11-18"
-      }
-    },
-    "tilly louise": {
-      "name": "Tilly Louise",
-      "plays": {
-        "2026-11-18T19:19:55.015Z": "2026-11-18"
-      }
-    },
     "jelly roll": {
       "name": "Jelly Roll",
       "plays": {
@@ -6639,6 +6654,54 @@
       "name": "Stone Sour",
       "plays": {
         "2026-11-21T00:38:37.301Z": "2026-11-21"
+      }
+    },
+    "gojira": {
+      "name": "Gojira",
+      "plays": {
+        "2026-11-21T22:19:10.640Z": "2026-11-22"
+      }
+    },
+    "jónsi": {
+      "name": "Jónsi",
+      "plays": {
+        "2026-11-21T22:08:22.646Z": "2026-11-22"
+      }
+    },
+    "billy idol": {
+      "name": "Billy Idol",
+      "plays": {
+        "2026-11-21T22:03:09.241Z": "2026-11-22"
+      }
+    },
+    "ruelle": {
+      "name": "Ruelle",
+      "plays": {
+        "2026-11-21T21:40:49.041Z": "2026-11-22"
+      }
+    },
+    "the cars": {
+      "name": "The Cars",
+      "plays": {
+        "2026-11-21T21:37:27.642Z": "2026-11-22"
+      }
+    },
+    "armando julián": {
+      "name": "Armando Julián",
+      "plays": {
+        "2026-11-21T21:27:47.318Z": "2026-11-22"
+      }
+    },
+    "kordhell": {
+      "name": "Kordhell",
+      "plays": {
+        "2026-11-21T21:24:45.468Z": "2026-11-22"
+      }
+    },
+    "zand": {
+      "name": "ZAND",
+      "plays": {
+        "2026-11-21T21:08:14.235Z": "2026-11-22"
       }
     }
   },
