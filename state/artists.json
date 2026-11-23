@@ -4487,6 +4487,149 @@
       ],
       "first_seen": "2026-11-22",
       "muted": false
+    },
+    "bigbang": {
+      "name": "BIGBANG",
+      "ids": [
+        "spotify:4Kxlr1PRlDKEB0ekOCyHgX"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-23",
+      "muted": false
+    },
+    "サイレンススズカ (cv. 高野麻里佳)": {
+      "name": "サイレンススズカ (CV. 高野麻里佳)",
+      "ids": [
+        "spotify:4pYvIklxg2YALG0A8MLUXD"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-23",
+      "muted": false
+    },
+    "イナリワン (cv. 井上遥乃)": {
+      "name": "イナリワン (CV. 井上遥乃)",
+      "ids": [
+        "spotify:7pxU6wxauuxXXdsY05TbZc"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-23",
+      "muted": false
+    },
+    "シンコウウインディ (cv. 高田憂希)": {
+      "name": "シンコウウインディ (CV. 高田憂希)",
+      "ids": [
+        "spotify:3l279W1o3rlpjlNByYdRJh"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-23",
+      "muted": false
+    },
+    "バンブーメモリー (cv. 藍原ことみ)": {
+      "name": "バンブーメモリー (CV. 藍原ことみ)",
+      "ids": [
+        "spotify:1JR5pA24ukQForvBKYhoV7"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-23",
+      "muted": false
+    },
+    "ビコーペガサス (cv. 田中あいみ)": {
+      "name": "ビコーペガサス (CV. 田中あいみ)",
+      "ids": [
+        "spotify:785RrfSa8VWIBbfX9CQ3Hq"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-23",
+      "muted": false
+    },
+    "メジロドーベル (cv. 久保田ひかり)": {
+      "name": "メジロドーベル (CV. 久保田ひかり)",
+      "ids": [
+        "spotify:24noUo4DlVnbOHdAOg7eXc"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-23",
+      "muted": false
+    },
+    "メジロブライト (cv. 大西綺華)": {
+      "name": "メジロブライト (CV. 大西綺華)",
+      "ids": [
+        "spotify:5jaEbbJbDumYz5sgQrk2WE"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-23",
+      "muted": false
+    },
+    "ステイゴールド (cv. 松田颯水)": {
+      "name": "ステイゴールド (CV. 松田颯水)",
+      "ids": [
+        "spotify:1Sxd0rOFUWr9bXtiBNFEVe"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-23",
+      "muted": false
+    },
+    "ウマ娘 プリティーダービー": {
+      "name": "ウマ娘 プリティーダービー",
+      "ids": [
+        "spotify:5pTLke5Yq8nN4yaPxLPzGd"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-23",
+      "muted": false
+    },
+    "the hunger games": {
+      "name": "The Hunger Games",
+      "ids": [
+        "spotify:6UdECsev3yuXe2rfLrdDiF"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-23",
+      "muted": false
+    },
+    "jónsi": {
+      "name": "Jónsi",
+      "ids": [
+        "spotify:3khg8RDB6nMuw34w1IHS6Y"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-23",
+      "muted": false
+    },
+    "billy idol": {
+      "name": "Billy Idol",
+      "ids": [
+        "spotify:7lzordPuZEXxwt9aoVZYmG"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-23",
+      "muted": false
     }
   },
   "pending": {
@@ -6158,12 +6301,6 @@
         "2026-11-12T02:02:44.664Z": "2026-11-12"
       }
     },
-    "the hunger games": {
-      "name": "The Hunger Games",
-      "plays": {
-        "2026-11-13T17:32:58.093Z": "2026-11-13"
-      }
-    },
     "baco exu do blues": {
       "name": "Baco Exu do Blues",
       "plays": {
@@ -6542,12 +6679,6 @@
         "2026-11-19T20:23:02.792Z": "2026-11-20"
       }
     },
-    "bigbang": {
-      "name": "BIGBANG",
-      "plays": {
-        "2026-11-21T15:48:27.136Z": "2026-11-21"
-      }
-    },
     "thefatrat": {
       "name": "TheFatRat",
       "plays": {
@@ -6590,60 +6721,6 @@
         "2026-11-21T01:52:41.643Z": "2026-11-21"
       }
     },
-    "サイレンススズカ (cv. 高野麻里佳)": {
-      "name": "サイレンススズカ (CV. 高野麻里佳)",
-      "plays": {
-        "2026-11-21T01:47:09.894Z": "2026-11-21"
-      }
-    },
-    "イナリワン (cv. 井上遥乃)": {
-      "name": "イナリワン (CV. 井上遥乃)",
-      "plays": {
-        "2026-11-21T01:47:09.894Z": "2026-11-21"
-      }
-    },
-    "シンコウウインディ (cv. 高田憂希)": {
-      "name": "シンコウウインディ (CV. 高田憂希)",
-      "plays": {
-        "2026-11-21T01:47:09.894Z": "2026-11-21"
-      }
-    },
-    "バンブーメモリー (cv. 藍原ことみ)": {
-      "name": "バンブーメモリー (CV. 藍原ことみ)",
-      "plays": {
-        "2026-11-21T01:47:09.894Z": "2026-11-21"
-      }
-    },
-    "ビコーペガサス (cv. 田中あいみ)": {
-      "name": "ビコーペガサス (CV. 田中あいみ)",
-      "plays": {
-        "2026-11-21T01:47:09.894Z": "2026-11-21"
-      }
-    },
-    "メジロドーベル (cv. 久保田ひかり)": {
-      "name": "メジロドーベル (CV. 久保田ひかり)",
-      "plays": {
-        "2026-11-21T01:47:09.894Z": "2026-11-21"
-      }
-    },
-    "メジロブライト (cv. 大西綺華)": {
-      "name": "メジロブライト (CV. 大西綺華)",
-      "plays": {
-        "2026-11-21T01:47:09.894Z": "2026-11-21"
-      }
-    },
-    "ステイゴールド (cv. 松田颯水)": {
-      "name": "ステイゴールド (CV. 松田颯水)",
-      "plays": {
-        "2026-11-21T01:47:09.894Z": "2026-11-21"
-      }
-    },
-    "ウマ娘 プリティーダービー": {
-      "name": "ウマ娘 プリティーダービー",
-      "plays": {
-        "2026-11-21T01:47:09.894Z": "2026-11-21"
-      }
-    },
     "nega duda": {
       "name": "Nega Duda",
       "plays": {
@@ -6660,18 +6737,6 @@
       "name": "Gojira",
       "plays": {
         "2026-11-21T22:19:10.640Z": "2026-11-22"
-      }
-    },
-    "jónsi": {
-      "name": "Jónsi",
-      "plays": {
-        "2026-11-21T22:08:22.646Z": "2026-11-22"
-      }
-    },
-    "billy idol": {
-      "name": "Billy Idol",
-      "plays": {
-        "2026-11-21T22:03:09.241Z": "2026-11-22"
       }
     },
     "ruelle": {
@@ -6702,6 +6767,42 @@
       "name": "ZAND",
       "plays": {
         "2026-11-21T21:08:14.235Z": "2026-11-22"
+      }
+    },
+    "dave edmunds": {
+      "name": "Dave Edmunds",
+      "plays": {
+        "2026-11-23T20:11:27.399Z": "2026-11-23"
+      }
+    },
+    "ira!": {
+      "name": "Ira!",
+      "plays": {
+        "2026-11-23T19:59:00.005Z": "2026-11-23"
+      }
+    },
+    "thousand below": {
+      "name": "Thousand Below",
+      "plays": {
+        "2026-11-23T19:54:37.994Z": "2026-11-23"
+      }
+    },
+    "the raconteurs": {
+      "name": "The Raconteurs",
+      "plays": {
+        "2026-11-23T19:47:32.152Z": "2026-11-23"
+      }
+    },
+    "roma": {
+      "name": "ROMA",
+      "plays": {
+        "2026-11-23T19:40:09.295Z": "2026-11-23"
+      }
+    },
+    "mckenna grace": {
+      "name": "Mckenna Grace",
+      "plays": {
+        "2026-11-23T17:13:37.219Z": "2026-11-23"
       }
     }
   },
