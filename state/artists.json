@@ -4630,6 +4630,105 @@
       ],
       "first_seen": "2026-11-23",
       "muted": false
+    },
+    "creepy nuts": {
+      "name": "Creepy Nuts",
+      "ids": [
+        "spotify:0pWR7TsFhvSCnbmHDjWgrE"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-24",
+      "muted": false
+    },
+    "madonna": {
+      "name": "Madonna",
+      "ids": [
+        "spotify:6tbjWDEIzxoDsBA1FuhfPW"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-24",
+      "muted": false
+    },
+    "edu falaschi": {
+      "name": "Edu Falaschi",
+      "ids": [
+        "spotify:5BrPgtYnoVfEoDYzw0AHGz"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-24",
+      "muted": false
+    },
+    "momma": {
+      "name": "Momma",
+      "ids": [
+        "spotify:5Wj0an60VgRckYV9zlDe1e"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-24",
+      "muted": false
+    },
+    "溶けない名前": {
+      "name": "溶けない名前",
+      "ids": [
+        "spotify:2kFFIxf8oy58ydskv0UdOj"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-24",
+      "muted": false
+    },
+    "marley jauz": {
+      "name": "Marley Jauz",
+      "ids": [
+        "spotify:6XNVvhVmRs0ijFIPHeXMO7"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-24",
+      "muted": false
+    },
+    "fall out boy": {
+      "name": "Fall Out Boy",
+      "ids": [
+        "spotify:4UXqAaa6dQYAk18Lv7PEgX"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-24",
+      "muted": false
+    },
+    "jonathan young": {
+      "name": "Jonathan Young",
+      "ids": [
+        "spotify:2IeMt1qx6ZVt1HFjdfE5tl"
+      ],
+      "reasons": [
+        "4 reproduções"
+      ],
+      "first_seen": "2026-11-24",
+      "muted": false
+    },
+    "daichi miura": {
+      "name": "Daichi Miura",
+      "ids": [
+        "spotify:4UTEZqrPqLDOhBfraPNciJ"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-24",
+      "muted": false
     }
   },
   "pending": {
@@ -4711,12 +4810,6 @@
         "2026-09-30T13:12:59.059Z": "2026-09-30"
       }
     },
-    "momma": {
-      "name": "Momma",
-      "plays": {
-        "2026-09-30T12:59:45.206Z": "2026-09-30"
-      }
-    },
     "teen suicide": {
       "name": "Teen Suicide",
       "plays": {
@@ -4793,12 +4886,6 @@
       "name": "Sean Magwire",
       "plays": {
         "2026-10-01T21:30:57.262Z": "2026-10-02"
-      }
-    },
-    "溶けない名前": {
-      "name": "溶けない名前",
-      "plays": {
-        "2026-10-01T21:20:38.764Z": "2026-10-02"
       }
     },
     "vedo": {
@@ -4933,12 +5020,6 @@
         "2026-10-07T20:05:54.055Z": "2026-10-08"
       }
     },
-    "madonna": {
-      "name": "Madonna",
-      "plays": {
-        "2026-10-07T19:57:22.019Z": "2026-10-08"
-      }
-    },
     "guns n' roses": {
       "name": "Guns N' Roses",
       "plays": {
@@ -4949,12 +5030,6 @@
       "name": "Patrick Watson",
       "plays": {
         "2026-10-07T19:36:18.440Z": "2026-10-08"
-      }
-    },
-    "edu falaschi": {
-      "name": "Edu Falaschi",
-      "plays": {
-        "2026-10-09T17:40:53.307Z": "2026-10-09"
       }
     },
     "caifanes": {
@@ -5237,12 +5312,6 @@
       "name": "Sub Urban",
       "plays": {
         "2026-10-15T20:50:22.642Z": "2026-10-16"
-      }
-    },
-    "creepy nuts": {
-      "name": "Creepy Nuts",
-      "plays": {
-        "2026-10-15T20:43:36.008Z": "2026-10-16"
       }
     },
     "luísa sonza": {
@@ -5845,12 +5914,6 @@
         "2026-11-04T19:05:24.395Z": "2026-11-04"
       }
     },
-    "daichi miura": {
-      "name": "Daichi Miura",
-      "plays": {
-        "2026-11-04T18:21:05.313Z": "2026-11-04"
-      }
-    },
     "natalie holt": {
       "name": "Natalie Holt",
       "plays": {
@@ -6221,12 +6284,6 @@
       "name": "albie",
       "plays": {
         "2026-11-10T18:27:16.673Z": "2026-11-10"
-      }
-    },
-    "fall out boy": {
-      "name": "Fall Out Boy",
-      "plays": {
-        "2026-11-10T18:08:12.866Z": "2026-11-10"
       }
     },
     "itzy": {
@@ -6803,6 +6860,198 @@
       "name": "Mckenna Grace",
       "plays": {
         "2026-11-23T17:13:37.219Z": "2026-11-23"
+      }
+    },
+    "omoinotake": {
+      "name": "Omoinotake",
+      "plays": {
+        "2026-11-24T14:26:20.984Z": "2026-11-24"
+      }
+    },
+    "m83": {
+      "name": "M83",
+      "plays": {
+        "2026-11-24T13:22:54.605Z": "2026-11-24"
+      }
+    },
+    "roar": {
+      "name": "Roar",
+      "plays": {
+        "2026-11-24T13:18:47.100Z": "2026-11-24"
+      }
+    },
+    "caleb hyles": {
+      "name": "Caleb Hyles",
+      "plays": {
+        "2026-11-24T13:07:58.197Z": "2026-11-24"
+      }
+    },
+    "trevor mcnevan": {
+      "name": "Trevor McNevan",
+      "plays": {
+        "2026-11-24T13:07:58.197Z": "2026-11-24"
+      }
+    },
+    "thousand foot krutch": {
+      "name": "Thousand Foot Krutch",
+      "plays": {
+        "2026-11-24T13:07:58.197Z": "2026-11-24"
+      }
+    },
+    "judge & jury": {
+      "name": "Judge & Jury",
+      "plays": {
+        "2026-11-24T13:07:58.197Z": "2026-11-24"
+      }
+    },
+    "musashi project": {
+      "name": "MUSASHI PROJECT",
+      "plays": {
+        "2026-11-24T02:28:54.949Z": "2026-11-24"
+      }
+    },
+    "surf curse": {
+      "name": "Surf Curse",
+      "plays": {
+        "2026-11-24T02:25:34.348Z": "2026-11-24"
+      }
+    },
+    "teddy hyde": {
+      "name": "Teddy Hyde",
+      "plays": {
+        "2026-11-24T02:23:06.810Z": "2026-11-24"
+      }
+    },
+    "joão gilberto": {
+      "name": "João Gilberto",
+      "plays": {
+        "2026-11-24T02:14:26.745Z": "2026-11-24"
+      }
+    },
+    "duran duran": {
+      "name": "Duran Duran",
+      "plays": {
+        "2026-11-24T01:47:11.904Z": "2026-11-24"
+      }
+    },
+    "jovani castellon": {
+      "name": "Jovani Castellon",
+      "plays": {
+        "2026-11-24T01:28:34.452Z": "2026-11-24"
+      }
+    },
+    "doom music": {
+      "name": "Doom Music",
+      "plays": {
+        "2026-11-24T01:24:03.950Z": "2026-11-24"
+      }
+    },
+    "timeless music": {
+      "name": "Timeless Music",
+      "plays": {
+        "2026-11-24T01:24:03.950Z": "2026-11-24"
+      }
+    },
+    "the qemists": {
+      "name": "The Qemists",
+      "plays": {
+        "2026-11-24T01:18:08.944Z": "2026-11-24"
+      }
+    },
+    "steampianist": {
+      "name": "Steampianist",
+      "plays": {
+        "2026-11-24T01:14:34.115Z": "2026-11-24"
+      }
+    },
+    "wrathstetic": {
+      "name": "Wrathstetic",
+      "plays": {
+        "2026-11-24T01:10:39.627Z": "2026-11-24"
+      }
+    },
+    "halestorm": {
+      "name": "Halestorm",
+      "plays": {
+        "2026-11-24T01:00:20.740Z": "2026-11-24"
+      }
+    },
+    "far": {
+      "name": "far",
+      "plays": {
+        "2026-11-24T00:57:22.637Z": "2026-11-24"
+      }
+    },
+    "tom petty": {
+      "name": "Tom Petty",
+      "plays": {
+        "2026-11-24T00:55:15.243Z": "2026-11-24"
+      }
+    },
+    "rise of the northstar": {
+      "name": "Rise Of The Northstar",
+      "plays": {
+        "2026-11-24T00:50:58.749Z": "2026-11-24"
+      }
+    },
+    "erythrite throne": {
+      "name": "Erythrite Throne",
+      "plays": {
+        "2026-11-24T00:46:58.241Z": "2026-11-24"
+      }
+    },
+    "acasia": {
+      "name": "Acasia",
+      "plays": {
+        "2026-11-24T00:39:48.454Z": "2026-11-24"
+      }
+    },
+    "magickids": {
+      "name": "MagicKids",
+      "plays": {
+        "2026-11-24T00:36:49.921Z": "2026-11-24"
+      }
+    },
+    "interworld": {
+      "name": "INTERWORLD",
+      "plays": {
+        "2026-11-24T00:33:29.720Z": "2026-11-24"
+      }
+    },
+    "kanaria": {
+      "name": "Kanaria",
+      "plays": {
+        "2026-11-24T00:30:44.715Z": "2026-11-24"
+      }
+    },
+    "ote": {
+      "name": "OTE",
+      "plays": {
+        "2026-11-24T00:23:05.068Z": "2026-11-24"
+      }
+    },
+    "victoria winderud": {
+      "name": "Victoria Winderud",
+      "plays": {
+        "2026-11-24T00:23:05.068Z": "2026-11-24"
+      }
+    },
+    "michael schulte": {
+      "name": "Michael Schulte",
+      "plays": {
+        "2026-11-24T00:20:08.929Z": "2026-11-24"
+      }
+    },
+    "bear mccreary": {
+      "name": "Bear McCreary",
+      "plays": {
+        "2026-11-24T00:12:22.546Z": "2026-11-24"
+      }
+    },
+    "serj tankian": {
+      "name": "Serj Tankian",
+      "plays": {
+        "2026-11-24T00:12:22.546Z": "2026-11-24"
       }
     }
   },
