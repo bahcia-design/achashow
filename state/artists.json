@@ -4729,6 +4729,50 @@
       ],
       "first_seen": "2026-11-24",
       "muted": false
+    },
+    "i.n": {
+      "name": "I.N",
+      "ids": [
+        "spotify:1odvXbzhdzNajv6un9x5Mc"
+      ],
+      "reasons": [
+        "segue"
+      ],
+      "first_seen": "2026-11-25",
+      "muted": false
+    },
+    "lngshot": {
+      "name": "LNGSHOT",
+      "ids": [
+        "spotify:2F4oTJOWkcD1JaTeKEa9h6"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-25",
+      "muted": false
+    },
+    "itzy": {
+      "name": "ITZY",
+      "ids": [
+        "spotify:2KC9Qb60EaY0kW4eH68vr3"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-25",
+      "muted": false
+    },
+    "girlset": {
+      "name": "GIRLSET",
+      "ids": [
+        "spotify:3D2TVeexyIXOtc8F4qEZ6P"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-25",
+      "muted": false
     }
   },
   "pending": {
@@ -6286,12 +6330,6 @@
         "2026-11-10T18:27:16.673Z": "2026-11-10"
       }
     },
-    "itzy": {
-      "name": "ITZY",
-      "plays": {
-        "2026-11-10T15:13:01.278Z": "2026-11-10"
-      }
-    },
     "sia": {
       "name": "Sia",
       "plays": {
@@ -7052,6 +7090,54 @@
       "name": "Serj Tankian",
       "plays": {
         "2026-11-24T00:12:22.546Z": "2026-11-24"
+      }
+    },
+    "hyunjin": {
+      "name": "Hyunjin",
+      "plays": {
+        "2026-11-25T16:36:47.161Z": "2026-11-25"
+      }
+    },
+    "can't be blue": {
+      "name": "can't be blue",
+      "plays": {
+        "2026-11-25T16:30:56.154Z": "2026-11-25"
+      }
+    },
+    "so!yoon!": {
+      "name": "So!YoON!",
+      "plays": {
+        "2026-11-25T16:19:03.752Z": "2026-11-25"
+      }
+    },
+    "ateez": {
+      "name": "ATEEZ",
+      "plays": {
+        "2026-11-25T16:15:57.552Z": "2026-11-25"
+      }
+    },
+    "8turn": {
+      "name": "8TURN",
+      "plays": {
+        "2026-11-25T16:05:13.363Z": "2026-11-25"
+      }
+    },
+    "oftheblue": {
+      "name": "oftheblue",
+      "plays": {
+        "2026-11-25T15:40:18.993Z": "2026-11-25"
+      }
+    },
+    "kuromi": {
+      "name": "KUROMI",
+      "plays": {
+        "2026-11-25T15:34:11.100Z": "2026-11-25"
+      }
+    },
+    "bang chan": {
+      "name": "Bang Chan",
+      "plays": {
+        "2026-11-25T15:31:05.494Z": "2026-11-25"
       }
     }
   },
