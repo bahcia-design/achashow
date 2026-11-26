@@ -4773,6 +4773,61 @@
       ],
       "first_seen": "2026-11-25",
       "muted": false
+    },
+    "vally.exe": {
+      "name": "vally.exe",
+      "ids": [
+        "spotify:4UkegeQy5Uiwlzrs7epGY6"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-26",
+      "muted": false
+    },
+    "soundcirclet": {
+      "name": "SoundCirclet",
+      "ids": [
+        "spotify:6CoLwCySMSJpmgxFcqMmkX"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-26",
+      "muted": false
+    },
+    "mckenna grace": {
+      "name": "Mckenna Grace",
+      "ids": [
+        "spotify:1ZjXhESKpjsv31L7ykuJBE"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-26",
+      "muted": false
+    },
+    "kuromi": {
+      "name": "KUROMI",
+      "ids": [
+        "spotify:1nah1bp3mzMd4FhMUxhU4d"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-26",
+      "muted": false
+    },
+    "bang chan": {
+      "name": "Bang Chan",
+      "ids": [
+        "spotify:5jRUIqBSxmsBPNiEwKUjgZ"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-26",
+      "muted": false
     }
   },
   "pending": {
@@ -6702,18 +6757,6 @@
         "2026-11-18T13:13:59.464Z": "2026-11-18"
       }
     },
-    "vally.exe": {
-      "name": "vally.exe",
-      "plays": {
-        "2026-11-19T15:19:44.139Z": "2026-11-19"
-      }
-    },
-    "soundcirclet": {
-      "name": "SoundCirclet",
-      "plays": {
-        "2026-11-19T15:19:44.139Z": "2026-11-19"
-      }
-    },
     "pentagon": {
       "name": "PENTAGON",
       "plays": {
@@ -6892,12 +6935,6 @@
       "name": "ROMA",
       "plays": {
         "2026-11-23T19:40:09.295Z": "2026-11-23"
-      }
-    },
-    "mckenna grace": {
-      "name": "Mckenna Grace",
-      "plays": {
-        "2026-11-23T17:13:37.219Z": "2026-11-23"
       }
     },
     "omoinotake": {
@@ -7126,18 +7163,6 @@
       "name": "oftheblue",
       "plays": {
         "2026-11-25T15:40:18.993Z": "2026-11-25"
-      }
-    },
-    "kuromi": {
-      "name": "KUROMI",
-      "plays": {
-        "2026-11-25T15:34:11.100Z": "2026-11-25"
-      }
-    },
-    "bang chan": {
-      "name": "Bang Chan",
-      "plays": {
-        "2026-11-25T15:31:05.494Z": "2026-11-25"
       }
     }
   },
