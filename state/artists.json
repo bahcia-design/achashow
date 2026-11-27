@@ -4828,6 +4828,39 @@
       ],
       "first_seen": "2026-11-26",
       "muted": false
+    },
+    "razorlight": {
+      "name": "Razorlight",
+      "ids": [
+        "spotify:450iujbtN6XgiA9pv6fVZz"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-27",
+      "muted": false
+    },
+    "ruelle": {
+      "name": "Ruelle",
+      "ids": [
+        "spotify:5tIkXJTex4JY7cv9mmgAZx"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-27",
+      "muted": false
+    },
+    "blackpink": {
+      "name": "BLACKPINK",
+      "ids": [
+        "spotify:41MozSoPIsD1dJM0CLPjZF"
+      ],
+      "reasons": [
+        "2 reproduções"
+      ],
+      "first_seen": "2026-11-27",
+      "muted": false
     }
   },
   "pending": {
@@ -5069,12 +5102,6 @@
       "name": "One Direction",
       "plays": {
         "2026-10-06T23:12:03.427Z": "2026-10-07"
-      }
-    },
-    "blackpink": {
-      "name": "BLACKPINK",
-      "plays": {
-        "2026-10-06T23:08:14.784Z": "2026-10-07"
       }
     },
     "u2": {
@@ -6877,12 +6904,6 @@
         "2026-11-21T22:19:10.640Z": "2026-11-22"
       }
     },
-    "ruelle": {
-      "name": "Ruelle",
-      "plays": {
-        "2026-11-21T21:40:49.041Z": "2026-11-22"
-      }
-    },
     "the cars": {
       "name": "The Cars",
       "plays": {
@@ -7163,6 +7184,18 @@
       "name": "oftheblue",
       "plays": {
         "2026-11-25T15:40:18.993Z": "2026-11-25"
+      }
+    },
+    "exit mouse": {
+      "name": "Exit Mouse",
+      "plays": {
+        "2026-11-27T20:00:59.091Z": "2026-11-27"
+      }
+    },
+    "cortis": {
+      "name": "CORTIS",
+      "plays": {
+        "2026-11-27T02:12:46Z": "2026-11-27"
       }
     }
   },
